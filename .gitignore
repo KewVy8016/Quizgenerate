@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+.vercel
+
+# Local development files (not needed for deployment)
+watch-and-convert.js
+start-dev.bat
+start-server.bat

@@ -1,0 +1,4 @@
+{
+  "buildCommand": "node convert-quiz-format.js && node generate-quiz-list.js",
+  "outputDirectory": "."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "quizflow",
+  "version": "1.0.0",
+  "description": "Static Quiz Learning Platform",
+  "scripts": {
+    "convert": "node convert-quiz-format.js",
+    "generate": "node generate-quiz-list.js",
+    "setup": "npm run convert && npm run generate",
+    "watch": "node watch-and-convert.js",
+    "dev": "npm run setup && npx concurrently \"node watch-and-convert.js\" \"serve . -p 3000\"",
+    "dev:simple": "npm run setup && serve . -p 3000",
+    "build": "npm run setup"
+  },
+  "keywords": ["quiz", "learning", "education"],
+  "author": "",
+  "license": "MIT"
+}
