@@ -111,14 +111,23 @@ async function loadQuizLibrary() {
 }
 
 async function createQuizCard(quizFile) {
+    console.log('Creating card for quiz file:', quizFile);
     const topicName = quizFile.replace('.json', '').replace(/_/g, ' ');
     
     // Load quiz to get question count
     let questionCount = 0;
     try {
-        const response = await fetch(`json/${quizFile}`);
+        const filePath = `json/${quizFile}`;
+        console.log('Fetching quiz info from:', filePath);
+        const response = await fetch(filePath);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+        
         const quizData = await response.json();
         questionCount = quizData.length;
+        console.log(`Quiz "${quizFile}" has ${questionCount} questions`);
     } catch (error) {
         console.error(`Error loading ${quizFile}:`, error);
     }
@@ -143,7 +152,9 @@ async function createQuizCard(quizFile) {
     `;
     
     card.addEventListener('click', () => {
-        window.location.href = `quiz.html?topic=${encodeURIComponent(quizFile)}`;
+        const url = `quiz.html?topic=${encodeURIComponent(quizFile)}`;
+        console.log('Navigating to quiz:', url);
+        window.location.href = url;
     });
     
     return card;

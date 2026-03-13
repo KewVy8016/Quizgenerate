@@ -2,23 +2,31 @@ let quizData = [];
 let currentQuestion = 0;
 let answers = {};
 let quizTopic = '';
+let quizFile = '';
 
 // Get quiz topic from URL
-const urlParams = new URLSearchParams(window.location.search);
-const quizFile = urlParams.get('topic');
-
-if (!quizFile) {
-    window.location.href = 'index.html';
+function getQuizFileFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get('topic');
 }
 
 // Initialize quiz
 async function initQuiz() {
+    console.log('Initializing quiz with file:', quizFile);
     quizTopic = quizFile.replace('.json', '').replace(/_/g, ' ');
     document.getElementById('quiz-title').textContent = quizTopic;
     
     try {
-        const response = await fetch(`json/${quizFile}`);
+        const filePath = `json/${quizFile}`;
+        console.log('Fetching quiz from:', filePath);
+        const response = await fetch(filePath);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+        
         quizData = await response.json();
+        console.log('Quiz data loaded successfully, questions:', quizData.length);
         
         // Load saved state
         loadState();
@@ -28,7 +36,13 @@ async function initQuiz() {
     } catch (error) {
         console.error('Error loading quiz:', error);
         document.getElementById('quiz-container').innerHTML = 
-            '<div class="loading">ไม่สามารถโหลดข้อสอบได้</div>';
+            `<div class="loading">
+                <p>ไม่สามารถโหลดข้อสอบได้</p>
+                <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+                    ไฟล์: ${quizFile}<br>
+                    ข้อผิดพลาด: ${error.message}
+                </p>
+            </div>`;
     }
 }
 
@@ -174,6 +188,18 @@ document.getElementById('reset-btn').addEventListener('click', () => {
 });
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Get quiz file from URL
+    quizFile = getQuizFileFromURL();
+    
+    console.log('URL parameters:', window.location.search);
+    console.log('quizFile value:', quizFile);
+    
+    if (!quizFile) {
+        console.error('No quiz file specified in URL, redirecting to index');
+        window.location.href = 'index.html';
+        return;
+    }
+    
     if (document.getElementById('retry-btn')) {
         document.getElementById('retry-btn').addEventListener('click', () => {
             const stateKey = `quiz_state_${quizTopic}`;
