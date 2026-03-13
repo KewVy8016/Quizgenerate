@@ -1,0 +1,922 @@
+[
+  {
+    "text": "การตลาดพาณิชย์อิเล็กทรอนิกส์โดยใช้เว็บไซต์ค้นหาข้อมูล หมายถึงข้อใด?",
+    "info": "เพราะเป็นการใช้ Search Engine เป็นเครื่องมือหลักในการทำการตลาดตามเนื้อหาหน้าแรก",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การซื้อขายสินค้าผ่านหน้าร้านปกติ",
+        "correct": false
+      },
+      {
+        "text": "การโปรโมทสินค้าผ่านสื่อโทรทัศน์",
+        "correct": false
+      },
+      {
+        "text": "การทำ Search Engine Marketing (SEM)",
+        "correct": true
+      },
+      {
+        "text": "การส่งอีเมลขายของ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์ค้นหาข้อมูล (Search Engine) มีหน้าที่หลักตามข้อใด?",
+    "info": "ตรงตามนิยามที่ระบุว่าเป็นตัวช่วยเหลือในการค้นหาข้อมูลที่เก็บไว้ในระบบเครือข่าย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เป็นโปรแกรมช่วยค้นหาข้อมูลในระบบอินเทอร์เน็ต (www)",
+        "correct": true
+      },
+      {
+        "text": "เป็นโปรแกรมสำหรับตกแต่งรูปภาพ",
+        "correct": false
+      },
+      {
+        "text": "เป็นระบบปฏิบัติการของสมาร์ทโฟน",
+        "correct": false
+      },
+      {
+        "text": "เป็นโปรแกรมสำหรับเขียนภาษาโปรแกรม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หลักการทำงานของ Search Engine มีทั้งหมดกี่ขั้นตอน?",
+    "info": "ในเนื้อหาระบุไว้ 3 ส่วน คือ Crawling, Indexing และ Searching",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "2 ขั้นตอน",
+        "correct": false
+      },
+      {
+        "text": "3 ขั้นตอน",
+        "correct": true
+      },
+      {
+        "text": "4 ขั้นตอน",
+        "correct": false
+      },
+      {
+        "text": "5 ขั้นตอน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ขั้นตอนที่ใช้โปรแกรม Spider หรือ Robot วิ่งไปเก็บข้อมูลเว็บเพจเรียกว่าอะไร?",
+    "info": "เป็นขั้นตอนแรกที่ใช้โปรแกรมอัตโนมัติออกไปสำรวจหน้าเว็บไซต์ต่างๆ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การตรวจค้นหาข้อมูล [Crawling]",
+        "correct": true
+      },
+      {
+        "text": "การรวบรวมข้อมูล [Indexing]",
+        "correct": false
+      },
+      {
+        "text": "การแสดงผลการค้นหาข้อมูล [Searching]",
+        "correct": false
+      },
+      {
+        "text": "การวิเคราะห์คู่แข่ง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือความหมายของขั้นตอนการรวบรวมข้อมูล (Indexing)?",
+    "info": "เป็นการบันทึกข้อมูลที่เก็บมาได้ลงใน Database เพื่อให้ระบบดึงไปใช้ได้ทันที",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การประมวลผลคำค้นหาของผู้ใช้",
+        "correct": false
+      },
+      {
+        "text": "การเก็บข้อมูลเข้าฐานข้อมูลและจัดหมวดหมู่เพื่อการค้นหา",
+        "correct": true
+      },
+      {
+        "text": "การโชว์ผลลัพธ์ในหน้าแรกของ Google",
+        "correct": false
+      },
+      {
+        "text": "การออกแบบหน้าเว็บให้สวยงาม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ระบบจะแสดงผลลัพธ์การค้นหา [Searching] โดยยึดหลักการใดเป็นสำคัญ?",
+    "info": "ระบบจะคำนวณความสัมพันธ์ของคีย์เวิร์ดแล้วดึงข้อมูลที่เกี่ยวข้องที่สุดขึ้นมาก่อน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เรียงตามราคาที่เจ้าของเว็บจ่าย",
+        "correct": false
+      },
+      {
+        "text": "เรียงจากข้อมูลที่ตรงและใกล้เคียงที่สุดจากมากไปน้อย",
+        "correct": true
+      },
+      {
+        "text": "เรียงตามลำดับตัวอักษรของชื่อเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "เรียงตามความเร็วของอินเทอร์เน็ตผู้ใช้",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประโยชน์สูงสุดของ Search Engine ขึ้นอยู่กับสิ่งใด?",
+    "info": "ยิ่งคีย์เวิร์ดตรงกับข้อมูลในฐานข้อมูลมาก ผลลัพธ์ยิ่งแม่นยำและตรงความต้องการ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ความแรงของสัญญาณ Wi-Fi",
+        "correct": false
+      },
+      {
+        "text": "ความสัมพันธ์ของคีย์เวิร์ดที่ใช้ค้นหา",
+        "correct": true
+      },
+      {
+        "text": "จำนวนรูปภาพที่มีในเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "ยี่ห้อของเว็บบราวเซอร์ที่ใช้",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์ค้นหาข้อมูลยอดนิยม \"อันดับ 1\" ในปัจจุบันคือข้อใด?",
+    "info": "ตามเนื้อหาระบุว่าเป็น Search Engine ที่ได้รับความนิยมสูงสุดจากผู้ใช้ทั่วโลก",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Yahoo!",
+        "correct": false
+      },
+      {
+        "text": "MSN",
+        "correct": false
+      },
+      {
+        "text": "Google",
+        "correct": true
+      },
+      {
+        "text": "Bing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "วิธีการทำการตลาดโดยใช้ Search Engine แบ่งออกเป็น 2 รูปแบบหลักคือข้อใด?",
+    "info": "เป็นสองเทคนิคหลักที่ใช้ในการทำให้เว็บไซต์ปรากฏในหน้าผลการค้นหา",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "SEO และ PPC",
+        "correct": true
+      },
+      {
+        "text": "B2B และ B2C",
+        "correct": false
+      },
+      {
+        "text": "Offline และ Online",
+        "correct": false
+      },
+      {
+        "text": "Facebook และ Line",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "SEO (Search Engine Optimization) มีลักษณะเด่นอย่างไร?",
+    "info": "SEO คือการทำอันดับแบบธรรมชาติ [Organic] ซึ่งไม่มีค่าใช้จ่ายต่อคลิก",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ต้องจ่ายเงินค่าคลิกให้ Google ทุกครั้ง",
+        "correct": false
+      },
+      {
+        "text": "การปรับแต่งเว็บไซต์ให้ติดอันดับต้นๆ โดยไม่เสียค่าคลิก",
+        "correct": true
+      },
+      {
+        "text": "เป็นลิงก์โฆษณาที่อยู่ด้านขวามือเสมอ",
+        "correct": false
+      },
+      {
+        "text": "ต้องใช้เงินประมูลเพื่อให้ติดอันดับ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การแสดงผลจาก SEO มักจะปรากฏในตำแหน่งใดของหน้าจอ?",
+    "info": "เป็นพื้นที่สำหรับผลการค้นหาที่เป็นธรรมชาติ [Natural Search]",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ด้านบนสุดในแถบโฆษณา",
+        "correct": false
+      },
+      {
+        "text": "ด้านซ้ายมือของหน้าแสดงผล",
+        "correct": true
+      },
+      {
+        "text": "ด้านขวามือในส่วน Sponsored Links",
+        "correct": false
+      },
+      {
+        "text": "ด้านล่างสุดของหน้าสุดท้ายเท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "PPC (Pay Per Click Advertising) คือการทำตลาดในส่วนใด?",
+    "info": "เป็นตำแหน่งสำหรับโฆษณาที่จ่ายเงินเพื่อให้ติดอันดับอย่างรวดเร็ว",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ส่วนผลลัพธ์ด้านซ้ายมือ",
+        "correct": false
+      },
+      {
+        "text": "ส่วน Sponsored links ที่อยู่ด้านบนหรือขวามือ",
+        "correct": true
+      },
+      {
+        "text": "การเขียนบทความในเว็บไซต์ตัวเอง",
+        "correct": false
+      },
+      {
+        "text": "การส่งพนักงานไปแนะนำสินค้าตามบ้าน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือความหมายของ \"PPC\" ที่ถูกต้องที่สุด?",
+    "info": "ตามชื่อ Pay Per Click คือจ่ายเงินตามจำนวนครั้งที่มีการกดเข้าชม",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การโฆษณาฟรีไม่มีค่าใช้จ่าย",
+        "correct": false
+      },
+      {
+        "text": "การจ่ายค่าบริการเมื่อมีผู้ใช้ \"คลิก\" เข้าชมเว็บไซต์",
+        "correct": true
+      },
+      {
+        "text": "การจ่ายเงินเพื่อซื้อชื่อโดเมนเนม",
+        "correct": false
+      },
+      {
+        "text": "การปรับแต่งรูปภาพในเว็บไซต์ให้เล็กลง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "สูตรหรือกฎเกณฑ์ที่ Search Engine ใช้จัดอันดับเรียกว่าอะไร?",
+    "info": "เป็นสมการที่ระบบใช้คำนวณเพื่อจัดลำดับเว็บไซต์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Algorithm (อัลกอริทึ่ม)",
+        "correct": true
+      },
+      {
+        "text": "Logarithm (โลการิทึ่ม)",
+        "correct": false
+      },
+      {
+        "text": "Mechanism (กลไก)",
+        "correct": false
+      },
+      {
+        "text": "Programing (การโปรแกรม)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "สมการ Algorithm ของ Search Engine ประกอบด้วยปัจจัยใดบ้าง?",
+    "info": "อันดับเกิดจากปัจจัยภายในหน้าเว็บและปัจจัยภายนอกเว็บทำงานร่วมกัน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "On-Page Factors + Off-Page Factors",
+        "correct": true
+      },
+      {
+        "text": "Keyword + Content",
+        "correct": false
+      },
+      {
+        "text": "Speed + Security",
+        "correct": false
+      },
+      {
+        "text": "Design + Layout",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดจัดเป็น On-Page Factors?",
+    "info": "เป็นองค์ประกอบภายในเว็บไซต์ที่เราสามารถควบคุมและแก้ไขได้เอง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลิงก์จากเว็บไซต์อื่นที่ส่งมาหาเรา",
+        "correct": false
+      },
+      {
+        "text": "หัวเรื่อง [Title Tag] และเนื้อหาบนหน้าเว็บ",
+        "correct": true
+      },
+      {
+        "text": "การแชร์บทความในโซเชียลมีเดีย",
+        "correct": false
+      },
+      {
+        "text": "การรีวิวจากลูกค้าในเว็บบอร์ดอื่น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Off-Page Factors มีความหมายตรงกับข้อใด?",
+    "info": "เป็นปัจจัยภายนอก เช่น การยอมรับจากเว็บอื่น [Backlink]",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "สิ่งที่เราสามารถปรับเปลี่ยนได้ตามใจชอบ",
+        "correct": false
+      },
+      {
+        "text": "องค์ประกอบภายนอกเว็บที่เรากำหนดไม่ได้ด้วยตนเอง",
+        "correct": true
+      },
+      {
+        "text": "การเลือกใช้คีย์เวิร์ดในย่อหน้าแรก",
+        "correct": false
+      },
+      {
+        "text": "การตั้งชื่อไฟล์รูปภาพในเว็บไซต์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ขั้นตอนแรกของการทำ SEO คือข้อใด?",
+    "info": "เป็นขั้นตอนเริ่มต้นเพื่อสำรวจคู่แข่งก่อนวางแผนคีย์เวิร์ด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การลงทะเบียนกับ Search Engine",
+        "correct": false
+      },
+      {
+        "text": "การวิเคราะห์การแข่งขัน [Competitive Analysis]",
+        "correct": true
+      },
+      {
+        "text": "การสร้างลิงก์เชื่อมโยง",
+        "correct": false
+      },
+      {
+        "text": "การเลือกสีสันของเว็บไซต์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ขั้นตอนใดที่เน้นการเขียนเนื้อหาให้ดึงดูดทั้งคนอ่านและ Search Engine?",
+    "info": "เป็นศิลปะการเขียนเนื้อหาเพื่อให้ติดอันดับและคนสนใจคลิก",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Competitive Analysis",
+        "correct": false
+      },
+      {
+        "text": "SEO Copywriting",
+        "correct": true
+      },
+      {
+        "text": "Search Engine Submission",
+        "correct": false
+      },
+      {
+        "text": "Link Building",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "อายุเว็บไซต์มีผลต่อความเร็วในการติดอันดับอย่างไร?",
+    "info": "ความเก่าของโดเมนสัมพันธ์กับความน่าเชื่อถือที่ Search Engine มอบให้",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ยิ่งเว็บใหม่ ยิ่งติดอันดับเร็ว",
+        "correct": false
+      },
+      {
+        "text": "อายุเว็บไม่มีผลใดๆ",
+        "correct": false
+      },
+      {
+        "text": "เว็บเก่า [2 ปีขึ้นไป] ติดอันดับเร็วกว่าเว็บใหม่",
+        "correct": true
+      },
+      {
+        "text": "เว็บต้องปิดมานานถึงจะติดอันดับดี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หากทำ SEO เน้นลูกค้าต่างประเทศ ควรใช้คีย์เวิร์ดภาษาใด?",
+    "info": "เพื่อรองรับการค้นหาผ่าน google.com ในระดับสากล",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ภาษาไทย",
+        "correct": false
+      },
+      {
+        "text": "ภาษาอังกฤษ",
+        "correct": true
+      },
+      {
+        "text": "ภาษาประจำถิ่นนั้นๆ",
+        "correct": false
+      },
+      {
+        "text": "ภาษาไทยปนอังกฤษ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธุรกิจใดนิยมทำ SEO เพื่อดึงดูดลูกค้าต่างประเทศ?",
+    "info": "เป็นกลุ่มธุรกิจ Medical และ Luxury ที่ชาวต่างชาตินิยมค้นหาเพื่อมาใช้บริการ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ร้านขายของชำ",
+        "correct": false
+      },
+      {
+        "text": "อสังหาริมทรัพย์ในกรุงเทพฯ",
+        "correct": false
+      },
+      {
+        "text": "ทันตกรรม และ อัญมณี",
+        "correct": true
+      },
+      {
+        "text": "บริการรับจ้างทำความสะอาดบ้าน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์ใหม่ [0-1 ปี] หากทำ SEO ต่างประเทศ จะต้องใช้เวลาเท่าใดจึงจะติด Top 20?",
+    "info": "เว็บใหม่ต้องใช้เวลาสะสมความน่าเชื่อถือนานกว่าเว็บที่เปิดมานานแล้ว",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "1 อาทิตย์",
+        "correct": false
+      },
+      {
+        "text": "1 เดือน",
+        "correct": false
+      },
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": true
+      },
+      {
+        "text": "3 ปีขึ้นไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การทำ SEO ในประเทศไทย มักใช้โดเมนใดเป็นหลัก?",
+    "info": "เป็นโดเมนเฉพาะสำหรับประเทศไทยที่เน้นผลการค้นหาในท้องถิ่น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "google.com",
+        "correct": false
+      },
+      {
+        "text": "google.co.th",
+        "correct": true
+      },
+      {
+        "text": "google.net",
+        "correct": false
+      },
+      {
+        "text": "google.org",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธุรกิจใดที่นิยมทำ SEO เน้นลูกค้าในประเทศ?",
+    "info": "เป็นธุรกิจที่มีฐานลูกค้ากว้างขวางภายในประเทศและมีการแข่งขันสูงบนเน็ต",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "อสังหาริมทรัพย์ และ ประกันภัย",
+        "correct": true
+      },
+      {
+        "text": "การส่งออกข้าวไปต่างประเทศ",
+        "correct": false
+      },
+      {
+        "text": "โรงแรมระดับ 5 ดาวสำหรับชาวต่างชาติ",
+        "correct": false
+      },
+      {
+        "text": "การขายอัญมณีส่งออก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "คีย์เวิร์ดภาษาไทยมักใช้เวลาติดอันดับนานเท่าใด?",
+    "info": "ตามสถิติในเนื้อหา การทำคีย์เวิร์ดไทยจะเริ่มเห็นผลในระยะเวลาประมาณ 1 เดือน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "1 วัน",
+        "correct": false
+      },
+      {
+        "text": "1 อาทิตย์",
+        "correct": false
+      },
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": true
+      },
+      {
+        "text": "6 เดือนเป๊ะ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ขั้นตอน \"Link Building\" คือการทำอะไร?",
+    "info": "เพื่อเพิ่มคะแนนความน่าเชื่อถือ [Off-Page] ให้กับเว็บไซต์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การเปลี่ยนชื่อเว็บไซต์ใหม่",
+        "correct": false
+      },
+      {
+        "text": "การสร้างลิงก์เชื่อมโยงจากภายนอกมายังเว็บไซต์เรา",
+        "correct": true
+      },
+      {
+        "text": "การลบลิงก์ที่เสียทิ้ง",
+        "correct": false
+      },
+      {
+        "text": "การลงทะเบียนกับ Search Engine",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือเป้าหมายสูงสุดของการทำ SEO?",
+    "info": "เพื่อเพิ่มโอกาสให้ผู้ใช้มองเห็นและคลิกเข้าชมเว็บไซต์ได้มากที่สุด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เว็บไซต์ต้องมีรูปภาพเยอะที่สุด",
+        "correct": false
+      },
+      {
+        "text": "เว็บไซต์ติดอันดับต้นๆ [Top 20] ในหน้าแสดงผล",
+        "correct": true
+      },
+      {
+        "text": "เว็บไซต์มีสีสันสวยงามกว่าคู่แข่ง",
+        "correct": false
+      },
+      {
+        "text": "เว็บไซต์ไม่ต้องมีเนื้อหามากเกินไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประโยชน์ของการที่เว็บติดอันดับโดยธรรมชาติ [SEO] คือข้อใด?",
+    "info": "เพราะอันดับที่ดีมาจากเนื้อหาและเทคนิคที่มีคุณภาพจริง ไม่ใช่การซื้อโฆษณา",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "แสดงถึงคุณภาพเว็บไซต์ในสายตา Search Engine",
+        "correct": true
+      },
+      {
+        "text": "ไมต้องอัปเดตข้อมูลอีกเลย",
+        "correct": false
+      },
+      {
+        "text": "ไม่ต้องมีระบบรักษาความปลอดภัย",
+        "correct": false
+      },
+      {
+        "text": "ได้รับเงินจาก Google ทุกเดือน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ขั้นตอนสุดท้ายของการทำ SEO 8 Steps คืออะไร?",
+    "info": "เป็นการประเมินผลลัพธ์ที่ทำไปเพื่อปรับปรุงกลยุทธ์ให้ดียิ่งขึ้น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การเลือกคีย์เวิร์ด",
+        "correct": false
+      },
+      {
+        "text": "การลงทะเบียนเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "การติดตามและเฝ้าสังเกตผล [Tracking and Monitoring]",
+        "correct": true
+      },
+      {
+        "text": "การวิเคราะห์คู่แข่ง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือความแตกต่างสำคัญระหว่าง SEO และ PPC ในแง่ \"ค่าใช้จ่าย\"?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "SEO เสียเงินเยอะกว่า PPC",
+        "correct": false
+      },
+      {
+        "text": "SEO ไม่เสียค่าคลิก แต่ PPC เสียค่าคลิกต่อครั้ง",
+        "correct": true
+      },
+      {
+        "text": "ทั้งคู่ไม่ต้องเสียเงิน",
+        "correct": false
+      },
+      {
+        "text": "PPC ราคาถูกกว่า SEO เสมอ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หากต้องการให้คนเห็นเว็บไซต์ \"ทันที\" ในวันนี้ ควรเลือกใช้เครื่องมือใด?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "SEO",
+        "correct": false
+      },
+      {
+        "text": "PPC",
+        "correct": true
+      },
+      {
+        "text": "การรอให้อายุเว็บครบ 2 ปี",
+        "correct": false
+      },
+      {
+        "text": "การปรับแต่ง Title Tag",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ปัจจัยใดที่ทำให้เว็บไซต์มี \"คุณภาพ\" ในสายตา Search Engine มากที่สุด?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การมีคีย์เวิร์ดที่สัมพันธ์กับเนื้อหาและมีคนลิงก์หา",
+        "correct": true
+      },
+      {
+        "text": "การใช้สีเว็บไซต์โทนฟ้า-ขาว",
+        "correct": false
+      },
+      {
+        "text": "การมีรูปภาพขนาดใหญ่เต็มหน้าเว็บ",
+        "correct": false
+      },
+      {
+        "text": "การเปลี่ยนชื่อเว็บทุกเดือน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "\"Title Tag\" มีความสำคัญอย่างไร?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "บอกให้รู้ว่าหน้าเว็บนั้นเกี่ยวกับอะไร",
+        "correct": true
+      },
+      {
+        "text": "ช่วยให้เว็บโหลดเร็วขึ้น",
+        "correct": false
+      },
+      {
+        "text": "ใช้สำหรับสมัครสมาชิก",
+        "correct": false
+      },
+      {
+        "text": "ป้องกันการโดนแฮก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ทำไมเว็บไซต์เก่าถึงติดอันดับเร็วกว่าเว็บไซต์ใหม่?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เพราะมีข้อมูลเยอะกว่า",
+        "correct": false
+      },
+      {
+        "text": "เพราะมีความน่าเชื่อถือ [Trust] สะสมมานานกว่า",
+        "correct": true
+      },
+      {
+        "text": "เพราะรู้จักเจ้าของ Google",
+        "correct": false
+      },
+      {
+        "text": "เพราะใช้เทคโนโลยีเก่า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หากทำธุรกิจ \"สปา\" และต้องการลูกค้าต่างชาติเป็นหลัก คีย์เวิร์ดที่เหมาะสมคือข้อใด?",
+    "info": "เนื่องจากต้องใช้ภาษาอังกฤษเพื่อเน้นตลาดต่างประเทศ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "สปา นวดแผนไทย",
+        "correct": false
+      },
+      {
+        "text": "Best Thai Spa in Bangkok",
+        "correct": true
+      },
+      {
+        "text": "บริการนวดนอกสถานที่",
+        "correct": false
+      },
+      {
+        "text": "โปรโมชั่นสปาสุดคุ้ม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "สิ่งใดที่เจ้าของเว็บ \"ควบคุมไม่ได้\" [Off-Page]?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การเขียนคำบรรยายสินค้า",
+        "correct": false
+      },
+      {
+        "text": "การจัดวางปุ่มซื้อของ",
+        "correct": false
+      },
+      {
+        "text": "การที่เว็บไซต์อื่นเลือกจะลิงก์มาหาเราหรือไม่",
+        "correct": true
+      },
+      {
+        "text": "การเลือกใช้คีย์เวิร์ดใน Title",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "\"Search Engine Submission\" ควรทำเมื่อไหร่?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เมื่อเว็บไซต์พร้อมแสดงผลและต้องการให้ Search Engine รู้จัก",
+        "correct": true
+      },
+      {
+        "text": "เมื่อต้องการปิดเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "เมื่อต้องการลบคีย์เวิร์ดทิ้ง",
+        "correct": false
+      },
+      {
+        "text": "ทำเฉพาะตอนที่เว็บโดนแฮก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การตลาดแบบ SEM (Search Engine Marketing) ดีกว่าการตลาดแบบเดิมอย่างไร?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เข้าถึงคนที่กำลังมีความต้องการค้นหาสิ่งนั้นพอดี",
+        "correct": true
+      },
+      {
+        "text": "ราคาแพงกว่าสื่อทีวี",
+        "correct": false
+      },
+      {
+        "text": "ไม่ต้องใช้อินเทอร์เน็ตในการทำงาน",
+        "correct": false
+      },
+      {
+        "text": "สามารถบังคับให้ทุกคนต้องซื้อสินค้าได้",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือ \"ความเสี่ยง\" ของการทำ PPC?",
+    "info": "",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "อันดับไม่ขึ้นทันที",
+        "correct": false
+      },
+      {
+        "text": "หากไม่มีคนคลิกก็ไม่ต้องเสียเงิน",
+        "correct": false
+      },
+      {
+        "text": "งบประมาณอาจหมดไปอย่างรวดเร็วหากมีการคลิกจำนวนมากแต่ขายไม่ได้",
+        "correct": true
+      },
+      {
+        "text": "ทำให้เว็บไซต์โหลดช้าลง",
+        "correct": false
+      }
+    ]
+  }
+]

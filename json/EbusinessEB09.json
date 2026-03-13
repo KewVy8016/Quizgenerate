@@ -1,0 +1,922 @@
+[
+  {
+    "text": "ในช่วงทศวรรษ 2015–2025 เทคโนโลยีสารสนเทศมีบทบาทต่อธุรกิจอย่างไร?",
+    "info": "เพราะเทคโนโลยีสารสนเทศได้พัฒนาเป็นปัจจัยสำคัญที่ช่วยขับเคลื่อนการดำเนินงาน การแข่งขัน และนวัตกรรมของธุรกิจในยุคดิจิทัล",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เป็นเพียงเครื่องมือสนับสนุนสำนักงาน",
+        "correct": false
+      },
+      {
+        "text": "เป็นหัวใจหลักในการดำเนินธุรกิจ",
+        "correct": true
+      },
+      {
+        "text": "เป็นเครื่องมือสำหรับธุรกิจขนาดใหญ่เท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "เป็นอุปสรรคต่อการเติบโตของธุรกิจ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือองค์ประกอบพื้นฐานของการขนส่ง?",
+    "info": "เพราะองค์ประกอบพื้นฐานของการขนส่งประกอบด้วย ทาง พาหนะ สถานี และผู้ประกอบการ ซึ่งเป็นปัจจัยสำคัญของระบบขนส่ง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เส้นทาง พาหนะ สถานี ผู้ประกอบการ",
+        "correct": true
+      },
+      {
+        "text": "โรงงาน ตลาด ลูกค้า เงินทุน",
+        "correct": false
+      },
+      {
+        "text": "รถยนต์ ถนน น้ำมัน คนขับ",
+        "correct": false
+      },
+      {
+        "text": "ระบบข้อมูล เครือข่าย อินเทอร์เน็ต",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart Logistics หมายถึงข้อใด?",
+    "info": "เพราะ Smart Logistics คือการใช้เทคโนโลยี เช่น IoT GPS และข้อมูลดิจิทัล เพื่อเพิ่มประสิทธิภาพการขนส่ง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การขนส่งแบบดั้งเดิม",
+        "correct": false
+      },
+      {
+        "text": "การใช้เทคโนโลยีดิจิทัลในการจัดการโลจิสติกส์",
+        "correct": true
+      },
+      {
+        "text": "การขนส่งที่ไม่ใช้ข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "การขนส่งแบบใช้แรงงานคน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Green Logistics มีเป้าหมายหลักคืออะไร?",
+    "info": "เพราะ Green Logistics มุ่งลดมลพิษ การใช้พลังงาน และผลกระทบต่อสิ่งแวดล้อมจากกิจกรรมโลจิสติกส์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เพิ่มกำไรสูงสุด",
+        "correct": false
+      },
+      {
+        "text": "ลดผลกระทบต่อสิ่งแวดล้อม",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มจำนวนรถขนส่ง",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มระยะทางการขนส่ง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดเป็นตัวอย่างของเทคโนโลยีใน Smart Logistics?",
+    "info": "เพราะ Smart Logistics ใช้หลายเทคโนโลยีร่วมกัน เช่น IoT GPS และ Big Data",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "IoT",
+        "correct": false
+      },
+      {
+        "text": "GPS",
+        "correct": false
+      },
+      {
+        "text": "Big Data",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "LaaS (Logistics as a Service) คืออะไร?",
+    "info": "เพราะ LaaS คือรูปแบบการให้บริการโลจิสติกส์ผ่านผู้ให้บริการภายนอกหรือแพลตฟอร์ม",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การซื้อรถขนส่ง",
+        "correct": false
+      },
+      {
+        "text": "การใช้บริการโลจิสติกส์ผ่านแพลตฟอร์มบริการ",
+        "correct": true
+      },
+      {
+        "text": "การขนส่งภายในบริษัท",
+        "correct": false
+      },
+      {
+        "text": "การขนส่งแบบดั้งเดิม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดเป็นประโยชน์ของเทคโนโลยีสารสนเทศในธุรกิจ?",
+    "info": "เพราะ IT ช่วยเพิ่มประสิทธิภาพ ลดต้นทุน และช่วยวิเคราะห์ข้อมูลเพื่อการตัดสินใจ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เพิ่มประสิทธิภาพการทำงาน",
+        "correct": false
+      },
+      {
+        "text": "ลดต้นทุน",
+        "correct": false
+      },
+      {
+        "text": "ช่วยการตัดสินใจ",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Big Data มีบทบาทสำคัญอย่างไร?",
+    "info": "เพราะ Big Data สามารถเก็บและวิเคราะห์ข้อมูลจำนวนมากเพื่อช่วยในการวางแผนธุรกิจ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เก็บข้อมูลจำนวนมาก",
+        "correct": false
+      },
+      {
+        "text": "วิเคราะห์ข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "คาดการณ์แนวโน้ม",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "ระบบ GPS มีประโยชน์อย่างไรในการขนส่ง?",
+    "info": "เพราะ GPS ช่วยติดตามพาหนะ วางแผนเส้นทาง และเพิ่มความปลอดภัย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ติดตามตำแหน่ง",
+        "correct": false
+      },
+      {
+        "text": "วางแผนเส้นทาง",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มความปลอดภัย",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "เป้าหมายหลักของโลจิสติกส์คืออะไร?",
+    "info": "เพราะโลจิสติกส์มุ่งส่งสินค้าให้ถูกต้อง ปริมาณถูกต้อง สถานที่ถูกต้อง และตรงเวลา",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ส่งสินค้าเร็วที่สุด",
+        "correct": false
+      },
+      {
+        "text": "ลดต้นทุน",
+        "correct": false
+      },
+      {
+        "text": "ส่งสินค้าถูกต้อง ตรงเวลา",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มรถขนส่ง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือความหมายของ E-Commerce?",
+    "info": "เพราะ E-Commerce คือการทำธุรกรรมซื้อขายสินค้าหรือบริการผ่านระบบออนไลน์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การซื้อขายผ่านอินเทอร์เน็ต",
+        "correct": true
+      },
+      {
+        "text": "การขายหน้าร้าน",
+        "correct": false
+      },
+      {
+        "text": "การซื้อขายผ่านโทรศัพท์",
+        "correct": false
+      },
+      {
+        "text": "การขายผ่านตลาดนัด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Cloud Computing คืออะไร?",
+    "info": "เพราะ Cloud Computing เป็นบริการเก็บข้อมูลและประมวลผลผ่านอินเทอร์เน็ต",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การเก็บข้อมูลในคอมพิวเตอร์ส่วนตัว",
+        "correct": false
+      },
+      {
+        "text": "การใช้ทรัพยากรคอมพิวเตอร์ผ่านอินเทอร์เน็ต",
+        "correct": true
+      },
+      {
+        "text": "การใช้โปรแกรมออฟไลน์",
+        "correct": false
+      },
+      {
+        "text": "การเก็บข้อมูลในกระดาษ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "IoT ย่อมาจากอะไร?",
+    "info": "เพราะ IoT คือการเชื่อมต่ออุปกรณ์ต่าง ๆ ผ่านอินเทอร์เน็ต",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Internet of Technology",
+        "correct": false
+      },
+      {
+        "text": "Internet of Things",
+        "correct": true
+      },
+      {
+        "text": "Information of Technology",
+        "correct": false
+      },
+      {
+        "text": "Internet of Tools",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Blockchain มีลักษณะเด่นอย่างไร?",
+    "info": "เพราะ Blockchain เป็นระบบฐานข้อมูลแบบกระจายที่โปร่งใสและปลอดภัย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ข้อมูลรวมศูนย์",
+        "correct": false
+      },
+      {
+        "text": "ข้อมูลกระจายและตรวจสอบได้",
+        "correct": true
+      },
+      {
+        "text": "ข้อมูลลบง่าย",
+        "correct": false
+      },
+      {
+        "text": "ข้อมูลไม่มีความปลอดภัย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "AI ในธุรกิจใช้เพื่ออะไร?",
+    "info": "เพราะ AI สามารถวิเคราะห์ข้อมูลและทำงานอัตโนมัติได้",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "วิเคราะห์ข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "ช่วยตัดสินใจ",
+        "correct": false
+      },
+      {
+        "text": "ทำงานอัตโนมัติ",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "ระบบ ERP ใช้ทำอะไร?",
+    "info": "เพราะ ERP รวมระบบการจัดการธุรกิจไว้ในระบบเดียว",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "บริหารจัดการทรัพยากรองค์กร",
+        "correct": true
+      },
+      {
+        "text": "บริหารลูกค้า",
+        "correct": false
+      },
+      {
+        "text": "จัดการพนักงานเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "จัดการคลังสินค้าเท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "CRM มีหน้าที่อะไร?",
+    "info": "เพราะ CRM ใช้บริหารความสัมพันธ์กับลูกค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "จัดการลูกค้าสัมพันธ์",
+        "correct": true
+      },
+      {
+        "text": "จัดการคลังสินค้า",
+        "correct": false
+      },
+      {
+        "text": "จัดการการผลิต",
+        "correct": false
+      },
+      {
+        "text": "จัดการบัญชี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือประโยชน์ของระบบสารสนเทศ?",
+    "info": "เพราะระบบสารสนเทศช่วยให้การทำงานมีประสิทธิภาพมากขึ้น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เพิ่มความเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ลดความผิดพลาด",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มประสิทธิภาพ",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "การใช้เทคโนโลยีช่วยติดตามสินค้าเรียกว่าอะไร?",
+    "info": "เพราะ Tracking System ใช้ติดตามสถานะสินค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Tracking System",
+        "correct": true
+      },
+      {
+        "text": "Accounting System",
+        "correct": false
+      },
+      {
+        "text": "Marketing System",
+        "correct": false
+      },
+      {
+        "text": "Security System",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Supply Chain คืออะไร?",
+    "info": "เพราะ Supply Chain ครอบคลุมตั้งแต่ผู้ผลิตจนถึงผู้บริโภค",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "กระบวนการผลิตสินค้า",
+        "correct": false
+      },
+      {
+        "text": "กระบวนการไหลของสินค้าและข้อมูล",
+        "correct": true
+      },
+      {
+        "text": "การขายสินค้า",
+        "correct": false
+      },
+      {
+        "text": "การจัดการพนักงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือหน้าที่ของคลังสินค้า?",
+    "info": "เพราะคลังสินค้ามีหน้าที่เก็บ จัดการ และกระจายสินค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เก็บสินค้า",
+        "correct": false
+      },
+      {
+        "text": "จัดการสินค้า",
+        "correct": false
+      },
+      {
+        "text": "กระจายสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "JIT (Just in Time) คืออะไร?",
+    "info": "เพราะ JIT ลดการเก็บสต็อกโดยผลิตเมื่อจำเป็น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การผลิตตามคำสั่งซื้อ",
+        "correct": false
+      },
+      {
+        "text": "การผลิตทันเวลาที่ต้องใช้",
+        "correct": true
+      },
+      {
+        "text": "การผลิตจำนวนมาก",
+        "correct": false
+      },
+      {
+        "text": "การผลิตแบบสุ่ม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือข้อดีของ E-Logistics?",
+    "info": "เพราะ E-Logistics ใช้ระบบดิจิทัลทำให้รวดเร็วและมีประสิทธิภาพ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "รวดเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ติดตามได้",
+        "correct": false
+      },
+      {
+        "text": "ลดต้นทุน",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "ระบบ Barcode ใช้เพื่ออะไร?",
+    "info": "เพราะ Barcode ใช้ระบุและตรวจสอบสินค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ระบุสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ควบคุมสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ตรวจสอบสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "RFID มีข้อดีอะไร?",
+    "info": "เพราะ RFID สามารถอ่านข้อมูลได้โดยไม่ต้องสัมผัส",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "อ่านข้อมูลได้รวดเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ไม่ต้องสัมผัส",
+        "correct": false
+      },
+      {
+        "text": "เก็บข้อมูลได้มาก",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Digital Transformation คืออะไร?",
+    "info": "เพราะเป็นการนำเทคโนโลยีมาปรับรูปแบบธุรกิจ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การเปลี่ยนแปลงองค์กรด้วยเทคโนโลยีดิจิทัล",
+        "correct": true
+      },
+      {
+        "text": "การเปลี่ยนพนักงาน",
+        "correct": false
+      },
+      {
+        "text": "การเปลี่ยนสินค้า",
+        "correct": false
+      },
+      {
+        "text": "การเปลี่ยนตลาด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือแพลตฟอร์ม E-Commerce?",
+    "info": "เพราะทั้งหมดเป็นแพลตฟอร์มซื้อขายออนไลน์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Shopee",
+        "correct": false
+      },
+      {
+        "text": "Lazada",
+        "correct": false
+      },
+      {
+        "text": "Amazon",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Data Analytics ใช้ทำอะไร?",
+    "info": "เพราะ Data Analytics ใช้วิเคราะห์ข้อมูลเพื่อการตัดสินใจ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "วิเคราะห์ข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "คาดการณ์",
+        "correct": false
+      },
+      {
+        "text": "ช่วยตัดสินใจ",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Automation ในธุรกิจคืออะไร?",
+    "info": "เพราะ Automation คือการใช้เทคโนโลยีที่ทำงานแทนมนุษย์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การใช้แรงงานคน",
+        "correct": false
+      },
+      {
+        "text": "การใช้ระบบอัตโนมัติ",
+        "correct": true
+      },
+      {
+        "text": "การใช้กระดาษ",
+        "correct": false
+      },
+      {
+        "text": "การทำงานด้วยมือ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือข้อดีของระบบอัตโนมัติ?",
+    "info": "เพราะระบบอัตโนมัติช่วยเพิ่มประสิทธิภาพการทำงาน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดต้นทุน",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มความเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ลดความผิดพลาด",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือความสำคัญของข้อมูลในธุรกิจ?",
+    "info": "เพราะข้อมูลเป็นพื้นฐานสำคัญของการตัดสินใจทางธุรกิจ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ใช้ตัดสินใจ",
+        "correct": false
+      },
+      {
+        "text": "วิเคราะห์ตลาด",
+        "correct": false
+      },
+      {
+        "text": "วางแผนธุรกิจ",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Cybersecurity คืออะไร?",
+    "info": "เพราะ Cybersecurity ใช้ป้องกันข้อมูลและระบบจากภัยคุกคาม",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การป้องกันข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "การป้องกันระบบเครือข่าย",
+        "correct": false
+      },
+      {
+        "text": "การป้องกันการโจมตีทางไซเบอร์",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Startup คืออะไร?",
+    "info": "เพราะ Startup มักเป็นธุรกิจใหม่ที่เติบโตด้วยเทคโนโลยี",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ธุรกิจใหม่ที่ใช้เทคโนโลยี",
+        "correct": true
+      },
+      {
+        "text": "ธุรกิจขนาดใหญ่",
+        "correct": false
+      },
+      {
+        "text": "ธุรกิจของรัฐ",
+        "correct": false
+      },
+      {
+        "text": "ธุรกิจเก่า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Platform Economy คืออะไร?",
+    "info": "เพราะแพลตฟอร์มเชื่อมต่อผู้ซื้อและผู้ขาย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เศรษฐกิจที่ใช้แพลตฟอร์มดิจิทัล",
+        "correct": true
+      },
+      {
+        "text": "เศรษฐกิจแบบเกษตร",
+        "correct": false
+      },
+      {
+        "text": "เศรษฐกิจอุตสาหกรรม",
+        "correct": false
+      },
+      {
+        "text": "เศรษฐกิจแบบดั้งเดิม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "FinTech คืออะไร?",
+    "info": "เพราะ FinTech คือการใช้เทคโนโลยีในบริการทางการเงิน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เทคโนโลยีทางการเงิน",
+        "correct": true
+      },
+      {
+        "text": "เทคโนโลยีการผลิต",
+        "correct": false
+      },
+      {
+        "text": "เทคโนโลยีการศึกษา",
+        "correct": false
+      },
+      {
+        "text": "เทคโนโลยีการแพทย์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Payment คืออะไร?",
+    "info": "เพราะ Mobile Payment ใช้สมาร์ตโฟนในการชำระเงิน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การจ่ายเงินผ่านมือถือ",
+        "correct": true
+      },
+      {
+        "text": "การจ่ายเงินสด",
+        "correct": false
+      },
+      {
+        "text": "การจ่ายเช็ค",
+        "correct": false
+      },
+      {
+        "text": "การจ่ายเงินผ่านธนาคารเท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Digital Marketing คืออะไร?",
+    "info": "เพราะ Digital Marketing ใช้อินเทอร์เน็ตและสื่อออนไลน์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การตลาดผ่านสื่อดิจิทัล",
+        "correct": true
+      },
+      {
+        "text": "การตลาดผ่านวิทยุ",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านหนังสือพิมพ์",
+        "correct": false
+      },
+      {
+        "text": "การตลาดหน้าร้าน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "SEO ใช้ทำอะไร?",
+    "info": "เพราะ SEO ช่วยให้เว็บไซต์ปรากฏในผลการค้นหา",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ปรับเว็บไซต์ให้ติดอันดับค้นหา",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มจำนวนสินค้า",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มพนักงาน",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มต้นทุน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือข้อดีของการทำธุรกิจออนไลน์?",
+    "info": "เพราะธุรกิจออนไลน์สามารถเข้าถึงลูกค้าได้กว้างและลดต้นทุน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เข้าถึงลูกค้าได้ทั่วโลก",
+        "correct": false
+      },
+      {
+        "text": "เปิดร้านได้ตลอดเวลา",
+        "correct": false
+      },
+      {
+        "text": "ลดค่าใช้จ่ายหน้าร้าน",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "เหตุผลสำคัญที่ธุรกิจต้องปรับตัวสู่ดิจิทัลคืออะไร?",
+    "info": "เพราะการเปลี่ยนแปลงของเทคโนโลยี การแข่งขัน และพฤติกรรมผู้บริโภคทำให้ธุรกิจต้องปรับตัวสู่ดิจิทัล",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การแข่งขันที่สูงขึ้น",
+        "correct": false
+      },
+      {
+        "text": "พฤติกรรมผู้บริโภคเปลี่ยน",
+        "correct": false
+      },
+      {
+        "text": "เทคโนโลยีพัฒนาเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  }
+]

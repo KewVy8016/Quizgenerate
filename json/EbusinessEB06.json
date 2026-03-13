@@ -1,0 +1,922 @@
+[
+  {
+    "text": "ข้อใดคือสาเหตุหลักที่ทำให้นักการตลาดมองข้าม Mobile Marketing ไม่ได้?",
+    "info": "เนื้อหาระบุว่าจำนวนผู้ใช้ที่เพิ่มขึ้นอย่างรวดเร็วเป็นคำตอบสำคัญสำหรับนักธุรกิจที่จะมองข้ามไม่ได้",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "มีราคาแพง",
+        "correct": false
+      },
+      {
+        "text": "มีความซับซ้อนน้อย",
+        "correct": false
+      },
+      {
+        "text": "จำนวนผู้ใช้เพิ่มขึ้นอย่างรวดเร็ว",
+        "correct": true
+      },
+      {
+        "text": "ไม่ต้องใช้เทคโนโลยี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธุรกิจที่จะประสบความสำเร็จในยุค Mobile Marketing ต้องทำงานในลักษณะใด?",
+    "info": "ธุรกิจต้องเคลื่อนไหวอย่างรวดเร็วและทำงานแบบเวลาจริงเพื่อให้ทันต่อความต้องการของผู้บริโภค",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Offline เท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "Real-time",
+        "correct": true
+      },
+      {
+        "text": "รอผลตอบรับ 1-2 สัปดาห์",
+        "correct": false
+      },
+      {
+        "text": "ทำงานตามความสะดวกของบริษัท",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing เป็นการแสวงหามูลค่าใหม่ในการทำธุรกิจผ่านเครือข่ายใด?",
+    "info": "เป็นหัวใจหลักของการแสวงหามูลค่าใหม่และการสื่อสารในระบบเคลื่อนที่",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เครือข่ายโทรศัพท์พื้นฐาน",
+        "correct": false
+      },
+      {
+        "text": "เครือข่ายใช้สาย",
+        "correct": false
+      },
+      {
+        "text": "เครือข่ายไร้สาย",
+        "correct": true
+      },
+      {
+        "text": "เครือข่ายไปรษณีย์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือผลกระทบจากการใช้เทคโนโลยีใหม่ใน Mobile Marketing?",
+    "info": "เทคโนโลยีไร้สายทำให้ความคาดหวังของผู้บริโภคสูงขึ้นและผลักดันให้การแข่งขันสูงขึ้นด้วย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ความคาดหวังผู้บริโภคต่ำลง",
+        "correct": false
+      },
+      {
+        "text": "การแข่งขันต่ำลง",
+        "correct": false
+      },
+      {
+        "text": "ความซับซ้อนลดลง",
+        "correct": false
+      },
+      {
+        "text": "ความคาดหวังผู้บริโภคสูงขึ้น",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing ช่วยสื่อสารข้อมูลไปยังลูกค้าในลักษณะใด?",
+    "info": "เป็นสื่อรูปแบบใหม่ที่ช่วยให้สื่อสารโดยตรงไปยังลูกค้าเพื่อกิจกรรมทางการตลาด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "โดยอ้อม",
+        "correct": false
+      },
+      {
+        "text": "โดยตรง",
+        "correct": true
+      },
+      {
+        "text": "ผ่านตัวแทนเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "สื่อสารเฉพาะกลุ่มผู้สูงอายุ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กลยุทธ์ CRM ใน Mobile Marketing เน้นเรื่องอะไร?",
+    "info": "Mobile Marketing เป็นยุทธวิธีการตลาดเชิงสัมพันธ์ [Customer Relationship Management] ที่สำคัญ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การขายครั้งเดียวจบ",
+        "correct": false
+      },
+      {
+        "text": "การตลาดเชิงสัมพันธ์",
+        "correct": true
+      },
+      {
+        "text": "การลดราคาสินค้า",
+        "correct": false
+      },
+      {
+        "text": "การปิดบริษัท",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "\"Multi-casting\" ใน Mobile Marketing หมายถึงอะไร?",
+    "info": "เป็นลักษณะการทำงานที่เน้นส่งสารรุกไปยังกลุ่มเป้าหมายหลักที่ต้องการ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การส่งข้อมูลให้คนคนเดียว",
+        "correct": false
+      },
+      {
+        "text": "การโทรคุยส่วนตัว",
+        "correct": false
+      },
+      {
+        "text": "การส่งข้อมูลไปยังกลุ่มเป้าหมายหลักจำนวนมากพร้อมกัน",
+        "correct": true
+      },
+      {
+        "text": "การรับสายโทรศัพท์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ใครคือ \"Mobile Developer\" ตามคำนิยามในเนื้อหา?",
+    "info": "คือกลุ่มผู้พัฒนาและผลิตตัวเครื่องโทรศัพท์เคลื่อนที่",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "AIS, DTAC",
+        "correct": false
+      },
+      {
+        "text": "Nokia, Samsung",
+        "correct": true
+      },
+      {
+        "text": "ผู้ผลิตริงโทน",
+        "correct": false
+      },
+      {
+        "text": "ผู้รับข้อความ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "AIS, DTAC และ True Move จัดอยู่ในกลุ่มใดใน Mobile Marketing?",
+    "info": "เป็นกลุ่มผู้ให้บริการเครือข่ายโทรศัพท์เคลื่อนที่",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Mobile Developer",
+        "correct": false
+      },
+      {
+        "text": "Content Provider",
+        "correct": false
+      },
+      {
+        "text": "Mobile Network Operator",
+        "correct": true
+      },
+      {
+        "text": "Subscriber",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "\"Content Provider\" มีหน้าที่สำคัญอย่างไร?",
+    "info": "ทำหน้าที่สร้างเนื้อหาหรือสื่อต่างๆ เพื่อแสดงผลบนอุปกรณ์มือถือ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ผลิตตัวเครื่อง",
+        "correct": false
+      },
+      {
+        "text": "ให้บริการคลื่นความถี่",
+        "correct": false
+      },
+      {
+        "text": "ผู้ผลิตสื่อเพื่อให้บริการบนโทรศัพท์เคลื่อนที่",
+        "correct": true
+      },
+      {
+        "text": "เป็นเจ้าของธุรกิจที่ใช้สื่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "\"Subscriber\" ในระบบ Mobile Marketing หมายถึงใคร?",
+    "info": "คือสมาชิกหรือผู้ใช้งานที่เป็นฝั่งรับข้อมูลข่าวสารทางการตลาด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เจ้าของธุรกิจ",
+        "correct": false
+      },
+      {
+        "text": "ผู้บริโภคข้อความการตลาด",
+        "correct": true
+      },
+      {
+        "text": "คนผลิตเกมมือถือ",
+        "correct": false
+      },
+      {
+        "text": "คนขายโทรศัพท์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประโยชน์ด้าน \"ความฉับไว\" ของ Mobile Marketing มีลักษณะอย่างไร?",
+    "info": "เพราะระบบ Mobile สามารถส่งโปรโมชั่นหรือข่าวสารได้ถึงมือลูกค้าทันที",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ส่งสารภายใน 1 เดือน",
+        "correct": false
+      },
+      {
+        "text": "ลูกค้าได้รับข่าวสารภายในไม่กี่วินาที",
+        "correct": true
+      },
+      {
+        "text": "การประมวลผลปลายปี",
+        "correct": false
+      },
+      {
+        "text": "การส่งทางไปรษณีย์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ด้านราคาของ Mobile Marketing มีข้อดีอย่างไร?",
+    "info": "เป็นการลดต้นทุนเมื่อมีการส่งในปริมาณมาก และไม่ต้องเสียค่าไปรษณีย์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ยิ่งส่งมาก ราคายิ่งแพง",
+        "correct": false
+      },
+      {
+        "text": "ราคาคงที่เสมอ",
+        "correct": false
+      },
+      {
+        "text": "ยิ่งส่งมาก ราคายิ่งถูกลง",
+        "correct": true
+      },
+      {
+        "text": "แพงกว่าค่าไปรษณีย์มาก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "อัตราการตอบรับ (Response Rate) ของ Mobile Marketing อยู่ที่เท่าใด?",
+    "info": "สถิติในเนื้อหาระบุว่า Mobile Marketing มีอัตราตอบรับเฉลี่ยสูงถึง 15%",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "2-3 เปอร์เซ็นต์",
+        "correct": false
+      },
+      {
+        "text": "5 เปอร์เซ็นต์",
+        "correct": false
+      },
+      {
+        "text": "15 เปอร์เซ็นต์",
+        "correct": true
+      },
+      {
+        "text": "50 เปอร์เซ็นต์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การส่งแบบ Direct Mail มีอัตราการตอบรับเฉลี่ยอยู่ที่ประมาณเท่าใด?",
+    "info": "เนื้อหาเปรียบเทียบเพื่อให้เห็นว่า Mobile Marketing มีประสิทธิภาพสูงกว่า Direct Mail หลายเท่า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "15 เปอร์เซ็นต์",
+        "correct": false
+      },
+      {
+        "text": "2-3 เปอร์เซ็นต์",
+        "correct": true
+      },
+      {
+        "text": "10 เปอร์เซ็นต์",
+        "correct": false
+      },
+      {
+        "text": "0 เปอร์เซ็นต์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือเหตุผลที่ Mobile Marketing เข้าถึงลูกค้าได้แม่นยำกว่า?",
+    "info": "ลูกค้าไม่ต้องคอยรับหรือคอยเช็กสาร เพราะอุปกรณ์ติดตัวอยู่ตลอด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "โทรศัพท์มือถืออยู่กับตัวลูกค้าตลอดเวลา",
+        "correct": true
+      },
+      {
+        "text": "มือถือราคาถูก",
+        "correct": false
+      },
+      {
+        "text": "มือถือมีขนาดใหญ่",
+        "correct": false
+      },
+      {
+        "text": "ลูกค้าต้องเปิดคอมพิวเตอร์ดู",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การวัดผลใน Mobile Marketing สามารถดูได้จากสิ่งใด?",
+    "info": "เป็นช่องทางที่สามารถติดตามพฤติกรรมลูกค้า [Tracking] ได้อย่างชัดเจน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การคาดเดายอดขาย",
+        "correct": false
+      },
+      {
+        "text": "การเข้าไปตามลิงก์ที่ให้ หรือการดาวน์โหลดข้อมูล",
+        "correct": true
+      },
+      {
+        "text": "การนับจำนวนเครื่องโทรศัพท์ที่ผลิต",
+        "correct": false
+      },
+      {
+        "text": "การส่งจดหมายตอบกลับ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "โอกาสที่จะได้รับการบอกต่อแบบ \"ปากต่อปาก\" เกิดจากปัจจัยใด?",
+    "info": "ความสะดวกในการส่งต่อข้อมูลบนมือถือทำให้เกิดกระแสบอกต่อได้รวดเร็ว",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ข้อมูลมีราคาแพง",
+        "correct": false
+      },
+      {
+        "text": "ข้อมูลถูกเก็บเป็นความลับ",
+        "correct": false
+      },
+      {
+        "text": "ได้รับไวและนำไปแชร์ได้ง่าย",
+        "correct": true
+      },
+      {
+        "text": "ลูกค้าไม่สนใจข้อมูล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "SMS ย่อมาจากคำว่าอะไร?",
+    "info": "เป็นบริการส่งข้อความตัวอักษรสั้นๆ ผ่านโทรศัพท์มือถือ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Small Message Service",
+        "correct": false
+      },
+      {
+        "text": "Short Message Service",
+        "correct": true
+      },
+      {
+        "text": "Super Message Service",
+        "correct": false
+      },
+      {
+        "text": "Simple Message System",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "รูปแบบการส่งข้อความที่มีทั้งภาพและเสียงเรียกว่าอะไร?",
+    "info": "MMS ย่อมาจาก Multimedia Message Service ใช้ส่งสื่อประสม",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "SMS",
+        "correct": false
+      },
+      {
+        "text": "MMS",
+        "correct": true
+      },
+      {
+        "text": "IVR",
+        "correct": false
+      },
+      {
+        "text": "WAP",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ระบบตอบรับทางโทรศัพท์อัตโนมัติ (Interactive Voice Response) คือข้อใด?",
+    "info": "เป็นระบบเสียงตอบรับที่ให้ผู้ใช้โต้ตอบผ่านการกดปุ่มหรือคำพูด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "WAP",
+        "correct": false
+      },
+      {
+        "text": "Bluecast",
+        "correct": false
+      },
+      {
+        "text": "IVR",
+        "correct": true
+      },
+      {
+        "text": "2D Barcode",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การใช้ QR Code จัดอยู่ในรูปแบบการตลาดข้อใด?",
+    "info": "QR Code คือบาร์โค้ดสองมิติที่เป็นเครื่องมือสำคัญใน Mobile Marketing",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "1D Barcode",
+        "correct": false
+      },
+      {
+        "text": "2D Barcode",
+        "correct": true
+      },
+      {
+        "text": "Proximity Advertising",
+        "correct": false
+      },
+      {
+        "text": "Mobile Blog",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การส่งโฆษณาเมื่อลูกค้าอยู่ใกล้พื้นที่เป้าหมาย (Proximity) คือรูปแบบใด?",
+    "info": "เป็นการใช้เทคโนโลยี [เช่น Bluetooth] ส่งข้อมูลเมื่อลูกค้าอยู่ในระยะที่กำหนด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "SMS Marketing",
+        "correct": false
+      },
+      {
+        "text": "Bluecast / Proximity Advertising",
+        "correct": true
+      },
+      {
+        "text": "Mobile Blog",
+        "correct": false
+      },
+      {
+        "text": "MMS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Case Study ของ Tesco Home Plus ใช้กลยุทธ์ใดในการสร้างร้านค้า?",
+    "info": "เพื่อให้ลูกค้าสแกนซื้อสินค้าได้สะดวกขณะรอรถไฟ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เปิดสาขาใหม่ทุกหมู่บ้าน",
+        "correct": false
+      },
+      {
+        "text": "ใช้ 2D Barcode สร้างร้านค้าเสมือนที่สถานีรถไฟใต้ดิน",
+        "correct": true
+      },
+      {
+        "text": "แจกโทรศัพท์มือถือฟรี",
+        "correct": false
+      },
+      {
+        "text": "โทรศัพท์หาลูกค้าทุกคน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประโยชน์สูงสุดของ Tesco Home Plus ในเกาหลีคืออะไร?",
+    "info": "เป็นการแสวงหามูลค่าใหม่ผ่านระบบเครือข่ายเคลื่อนที่",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดจำนวนพนักงาน",
+        "correct": false
+      },
+      {
+        "text": "ขยายโอกาสในการขายสินค้าโดยไม่ต้องมีหน้าร้านจริงในพื้นที่นั้น",
+        "correct": true
+      },
+      {
+        "text": "แจกคูปองกระดาษ",
+        "correct": false
+      },
+      {
+        "text": "การแข่งขันกับห้างสรรพสินค้าใหญ่",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "IKEA Bang Na นำ Mobile เข้ามาใช้ประโยชน์ในด้านใด?",
+    "info": "เป็นการใช้ Mobile Application เพื่อสร้างประสบการณ์ที่ดีให้กับลูกค้า [CRM]",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ส่งอาหารฟรี",
+        "correct": false
+      },
+      {
+        "text": "ช่วยลูกค้าช้อปปิ้ง เช็กสต็อกสินค้า และนำทางในสโตร์",
+        "correct": true
+      },
+      {
+        "text": "ใช้แทนเงินสดทั้งหมด",
+        "correct": false
+      },
+      {
+        "text": "โฆษณาทีวี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดไม่ใช่รูปแบบการตลาดด้วยโทรศัพท์มือถือที่ระบุในเนื้อหา?",
+    "info": "บอร์ดโฆษณาเป็นสื่อ Out-of-home ไม่ใช่สื่อผ่านอุปกรณ์เคลื่อนที่",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "WAP",
+        "correct": false
+      },
+      {
+        "text": "Bluecast",
+        "correct": false
+      },
+      {
+        "text": "บอร์ดโฆษณาข้างทาง",
+        "correct": true
+      },
+      {
+        "text": "Mobile Blog",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ยุทธวิธีการตลาดในยุคใหม่เน้นความสำคัญเรื่องใดตามเนื้อหา?",
+    "info": "เป็นเป้าหมายหลักของการใช้ Mobile Marketing เพื่อสร้าง Loyalty",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การผลิตสินค้าให้มากที่สุด",
+        "correct": false
+      },
+      {
+        "text": "การช่วงชิงส่วนแบ่งตลาดและรักษาฐานลูกค้าให้จงรักภักดี",
+        "correct": true
+      },
+      {
+        "text": "การลดจำนวนพนักงานขาย",
+        "correct": false
+      },
+      {
+        "text": "การเลิกใช้เทคโนโลยี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จุดเด่นของ Mobile Marketing ในด้านต้นทุนคืออะไร?",
+    "info": "เนื้อหาระบุว่าเป็นรูปแบบที่ประหยัดและมีประสิทธิภาพสูง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ต้นทุนการผลิตสื่อแพงกว่าทีวี",
+        "correct": false
+      },
+      {
+        "text": "ต้นทุนการตลาดต่ำและได้รับความสนใจจากกลุ่มเป้าหมายสูง",
+        "correct": true
+      },
+      {
+        "text": "เสียค่าไปรษณีย์ทุกครั้งที่ส่ง",
+        "correct": false
+      },
+      {
+        "text": "ต้องมีงบประมาณมหาศาลเท่านั้นถึงทำได้",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing ช่วยให้ลูกค้าตัดสินใจซื้อได้อย่างไร?",
+    "info": "ข้อมูลที่ตรงตัวและรวดเร็วช่วยกระตุ้นการตัดสินใจซื้อได้ทันที",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ตัดสินใจยากขึ้นเพราะข้อมูลเยอะ",
+        "correct": false
+      },
+      {
+        "text": "ตัดสินใจใช้สินค้าและบริการได้ง่ายขึ้น",
+        "correct": true
+      },
+      {
+        "text": "ไม่ส่งผลต่อการตัดสินใจ",
+        "correct": false
+      },
+      {
+        "text": "ทำให้ลูกค้าเลิกใช้แบรนด์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หากห้างสรรพสินค้าต้องการส่งโปรโมชั่น \"ลด 50% เฉพาะชั่วโมงนี้\" ควรใช้สื่อใดดีที่สุด?",
+    "info": "เพราะต้องการความฉับไว (Real-time) และได้รับข่าวสารในไม่กี่วินาที",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "จดหมายไปรษณีย์",
+        "correct": false
+      },
+      {
+        "text": "SMS หรือ Mobile App Notification",
+        "correct": true
+      },
+      {
+        "text": "ติดป้ายประกาศในหนังสือพิมพ์",
+        "correct": false
+      },
+      {
+        "text": "โฆษณาวิทยุ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดอธิบายความซับซ้อนของธุรกิจไร้สายได้ชัดเจนที่สุด?",
+    "info": "เป็นปัจจัยที่ทำให้ธุรกิจต้องเคลื่อนไหวล้ำหน้ากลยุทธ์เสมอ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การที่มีคนใช้มือถือน้อยลง",
+        "correct": false
+      },
+      {
+        "text": "ความเร็วเทคโนโลยีไม่ทันความต้องการและความคาดหวังที่สูงขึ้นของลูกค้า",
+        "correct": true
+      },
+      {
+        "text": "การที่มีมือถือมีขนาดเล็กลง",
+        "correct": false
+      },
+      {
+        "text": "การที่ค่ายบริการรายเดือนถูกลง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กลยุทธ์ CRM ใน Mobile Marketing ให้ผลลัพธ์ที่ดีกว่าสื่ออื่นเพราะเหตุใด?",
+    "info": "ความทันสมัยของฐานข้อมูลเป็นหัวใจของการทำ CRM",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เพราะเก็บข้อมูลลูกค้าเป็นความลับ",
+        "correct": false
+      },
+      {
+        "text": "เพราะได้ข้อมูลลูกค้าที่ทันสมัยและสื่อสารได้สม่ำเสมอตรงตัว",
+        "correct": true
+      },
+      {
+        "text": "เพราะไม่ต้องเสียภาษี",
+        "correct": false
+      },
+      {
+        "text": "เพราะพนักงานชอบใช้มือถือ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "\"การตลาดที่วัดผลได้\" ใน Mobile Marketing หมายถึงข้อใด?",
+    "info": "การคลิกลิงก์หรือโหลดข้อมูลคือการวัดผลที่เป็นรูปธรรมที่สุด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การนับจำนวนเครื่องที่ลูกค้าถือ",
+        "correct": false
+      },
+      {
+        "text": "การตรวจสอบว่าลูกค้ามีการตอบสนอง [Interaction] กับสิ่งที่ส่งไปหรือไม่",
+        "correct": true
+      },
+      {
+        "text": "การดูว่าพนักงานทำงานกี่คน",
+        "correct": false
+      },
+      {
+        "text": "การวัดความแรงของสัญญาณโทรศัพท์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กลุ่ม \"Business\" ในผู้เกี่ยวข้อง 5 กลุ่ม มีบทบาทอย่างไร?",
+    "info": "เป็นกลุ่มที่นำเครื่องมือ Mobile Marketing มาใช้โปรโมทสินค้า/บริการ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ผู้สร้างเครือข่ายสัญญาณ",
+        "correct": false
+      },
+      {
+        "text": "ธุรกิจที่ใช้บริการสื่อเพื่อทำกิจกรรมทางการตลาด",
+        "correct": true
+      },
+      {
+        "text": "ผู้ผลิตเครื่อง Samsung",
+        "correct": false
+      },
+      {
+        "text": "ผู้ใช้บริการดาวน์โหลดเกม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หากแบรนด์ต้องการสร้างความจงรักภักดี [Loyalty] ข้อใดคือวิธีการที่ระบุในเนื้อหา?",
+    "info": "กิจกรรมทางการตลาดถือเป็นยุทธวิธีสำคัญในสหสวรรษใหม่นี้",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การส่งข้อความน้อยๆ",
+        "correct": false
+      },
+      {
+        "text": "การสร้างกิจกรรมการตลาดที่ทำให้ลูกค้าตัดสินใจง่ายและจงรักภักดีต่อแบรนด์",
+        "correct": true
+      },
+      {
+        "text": "การลดจำนวนการส่งข้อความ",
+        "correct": false
+      },
+      {
+        "text": "การขึ้นราคาสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ความแตกต่างที่สำคัญที่สุดระหว่าง Mobile Marketing กับการตลาดแบบเดิม (Traditional) คืออะไร?",
+    "info": "สื่อเดิมมีความล่าช้าและไม่สามารถเข้าถึงตัวบุคคลได้ \"ตลอดเวลา\" เท่ามือถือ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ความสวยงามของภาพ",
+        "correct": false
+      },
+      {
+        "text": "การสื่อสารแบบ Real-time และการเข้าถึงตัวบุคคลโดยตรง",
+        "correct": true
+      },
+      {
+        "text": "จำนวนพนักงานที่ใช้",
+        "correct": false
+      },
+      {
+        "text": "สถานที่ตั้งของบริษัท",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "\"การรุก\" (Proactive) ในความหมายของ Mobile Marketing คือข้อใด?",
+    "info": "เป็นการชิงพื้นที่ตลาดและรักษาฐานลูกค้าด้วยความเร็ว",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การรอให้ลูกค้าเดินเข้ามาถาม",
+        "correct": false
+      },
+      {
+        "text": "การส่งกิจกรรมส่งเสริมการตลาดเข้าหาเป้าหมายหลักอย่างรวดเร็ว",
+        "correct": true
+      },
+      {
+        "text": "การโทรศัพท์หาลูกค้าตอนกลางคืน",
+        "correct": false
+      },
+      {
+        "text": "การบังคับให้ลูกค้าซื้อสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "คำว่า \"Ubiquity\" หรือการเข้าถึงได้ทุกที่ส่งผลดีต่อธุรกิจอย่างไร?",
+    "info": "เป็นการขจัดขีดจำกัดเรื่องสถานที่และเวลา [Anywhere, Anytime]",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลูกค้าไม่ต้องพยายามหาข่าวสาร แต่ข่าวสารจะไปหาลูกค้าเองไม่ว่าจะอยู่ที่ไหน",
+        "correct": true
+      },
+      {
+        "text": "ลูกค้าต้องเดินทางมาที่บริษัท",
+        "correct": false
+      },
+      {
+        "text": "ทำให้บริษัทไม่ต้องมีสำนักงาน",
+        "correct": false
+      },
+      {
+        "text": "ทำให้เครือข่ายล่มง่าย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดสรุปหัวใจสำคัญของ Mobile Marketing ได้ครบถ้วนที่สุด?",
+    "info": "เป็นการรวมทุกจุดเด่น [Value, Wireless, Speed, Targeting, Measurable] เข้าด้วยกัน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การส่ง SMS ราคาแพงๆ",
+        "correct": false
+      },
+      {
+        "text": "การสร้างมูลค่าใหม่ผ่านเครือข่ายไร้สายที่รวดเร็ว ตรงกลุ่ม และวัดผลได้",
+        "correct": true
+      },
+      {
+        "text": "การมีเครื่องโทรศัพท์รุ่นใหม่ล่าสุด",
+        "correct": false
+      },
+      {
+        "text": "การเลิกใช้ไปรษณีย์ทุกกรณี",
+        "correct": false
+      }
+    ]
+  }
+]

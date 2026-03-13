@@ -1,0 +1,922 @@
+[
+  {
+    "text": "ข้อใดคือองค์ประกอบพื้นฐานของการขนส่งที่ประกอบด้วย เส้นทาง พาหนะ สถานี และผู้ประกอบการ?",
+    "info": "เพราะเป็น 4 ปัจจัยหลัก [ทาง-รถ-ที่-คน] ที่ทำให้เกิดระบบการขนส่ง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Smart Logistics",
+        "correct": false
+      },
+      {
+        "text": "องค์ประกอบของการขนส่ง",
+        "correct": true
+      },
+      {
+        "text": "LaaS",
+        "correct": false
+      },
+      {
+        "text": "Green Logistics",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การส่งสินค้าแบบ \"Door-to-Door\" เป็นจุดเด่นที่สำคัญที่สุดของการขนส่งรูปแบบใด?",
+    "info": "เพราะรถสามารถเข้าถึงปลายทางหรือหน้าบ้านลูกค้าได้โดยตรง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ทางราง",
+        "correct": false
+      },
+      {
+        "text": "ทางน้ำ",
+        "correct": false
+      },
+      {
+        "text": "ทางถนน",
+        "correct": true
+      },
+      {
+        "text": "ทางอากาศ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หากร้านค้าต้องการส่งสินค้าปริมาณมากและมีน้ำหนักมากโดยเน้นต้นทุนต่ำที่สุด ควรเลือกวิธีใด?",
+    "info": "การขนส่งทางเรือมีต้นทุนต่อหน่วยต่ำและขนสินค้าได้จำนวนมาก",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ทางอากาศ",
+        "correct": false
+      },
+      {
+        "text": "ทางน้ำ",
+        "correct": true
+      },
+      {
+        "text": "ทางถนน",
+        "correct": false
+      },
+      {
+        "text": "ทางท่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อเสียเปรียบหลักของการขนส่งทางอากาศคือข้อใด?",
+    "info": "การขนส่งทางอากาศมีค่าเชื้อเพลิงและค่าบริหารจัดการสูง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ใช้เวลานาน",
+        "correct": false
+      },
+      {
+        "text": "ต้นทุนสูง",
+        "correct": true
+      },
+      {
+        "text": "ไม่สามารถติดตามสินค้าได้",
+        "correct": false
+      },
+      {
+        "text": "เส้นทางไม่แน่นอน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อดีสำคัญของการขนส่งทางรางคือข้อใด?",
+    "info": "รถไฟสามารถลากสินค้าปริมาณมากในเที่ยวเดียว",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เข้าถึงทุกพื้นที่",
+        "correct": false
+      },
+      {
+        "text": "ประหยัดพลังงานในการขนส่งจำนวนมาก",
+        "correct": true
+      },
+      {
+        "text": "เร็วที่สุด",
+        "correct": false
+      },
+      {
+        "text": "ใช้พนักงานน้อยที่สุด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "สินค้าประเภทน้ำมันดิบหรือก๊าซธรรมชาติควรใช้การขนส่งแบบใด?",
+    "info": "เหมาะสำหรับการส่งของเหลวหรือก๊าซอย่างต่อเนื่อง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ทางถนน",
+        "correct": false
+      },
+      {
+        "text": "ทางน้ำ",
+        "correct": false
+      },
+      {
+        "text": "ทางท่อ",
+        "correct": true
+      },
+      {
+        "text": "ทางราง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งช่วงสุดท้ายก่อนถึงมือลูกค้าเรียกว่าอะไร?",
+    "info": "เป็นขั้นตอนส่งสินค้าจากศูนย์กระจายสินค้าไปยังลูกค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "First Mile",
+        "correct": false
+      },
+      {
+        "text": "Middle Mile",
+        "correct": false
+      },
+      {
+        "text": "Last Mile",
+        "correct": true
+      },
+      {
+        "text": "Final Route",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งหลายรูปแบบแต่ใช้สัญญาเดียวเรียกว่าอะไร?",
+    "info": "ผู้ให้บริการรายเดียวดูแลตลอดเส้นทาง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Intermodal",
+        "correct": false
+      },
+      {
+        "text": "Multimodal",
+        "correct": true
+      },
+      {
+        "text": "Unimodal",
+        "correct": false
+      },
+      {
+        "text": "Hybrid",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดอธิบาย Intermodal Transport ได้ถูกต้อง?",
+    "info": "ลดการขนถ่ายสินค้าและเพิ่มความปลอดภัย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ใช้พาหนะชนิดเดียว",
+        "correct": false
+      },
+      {
+        "text": "ใช้ตู้คอนเทนเนอร์เดิมเมื่อเปลี่ยนพาหนะ",
+        "correct": true
+      },
+      {
+        "text": "ใช้แรงงานคนเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "ไม่มีการใช้ตู้สินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เป้าหมายหลักของการใช้รถบรรทุกไฟฟ้า (EV Truck) คืออะไร?",
+    "info": "เป็นแนวคิดของ Green Logistics",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เพิ่มความเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ลดมลพิษและ Carbon Footprint",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มน้ำหนักบรรทุก",
+        "correct": false
+      },
+      {
+        "text": "ลดจำนวนล้อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "โดรนมักใช้ในงานขนส่งแบบใด?",
+    "info": "โดรนมีความคล่องตัวสูง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ข้ามทวีป",
+        "correct": false
+      },
+      {
+        "text": "ขนของหนักมาก",
+        "correct": false
+      },
+      {
+        "text": "ส่งระยะใกล้หรือพื้นที่เข้าถึงยาก",
+        "correct": true
+      },
+      {
+        "text": "ส่งผ่านท่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "LaaS [Logistics as a Service] มีลักษณะอย่างไร?",
+    "info": "ลดการลงทุนโครงสร้างพื้นฐาน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ต้องลงทุนซื้อรถเอง",
+        "correct": false
+      },
+      {
+        "text": "จ่ายตามการใช้งานจริง",
+        "correct": true
+      },
+      {
+        "text": "ใช้แรงงานสัตว์",
+        "correct": false
+      },
+      {
+        "text": "ไม่มีเทคโนโลยี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "WMS ย่อมาจากอะไร?",
+    "info": "เป็นระบบบริหารจัดการคลังสินค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Warehouse Management System",
+        "correct": true
+      },
+      {
+        "text": "Web Market Service",
+        "correct": false
+      },
+      {
+        "text": "Warehouse Machine System",
+        "correct": false
+      },
+      {
+        "text": "Web Management Solution",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ระบบ WMS ช่วยทำอะไรได้ดีที่สุด?",
+    "info": "ช่วยควบคุมสินค้าในคลังอย่างแม่นยำ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "แต่งรูปสินค้า",
+        "correct": false
+      },
+      {
+        "text": "จัดการสต็อกแบบ Real-time",
+        "correct": true
+      },
+      {
+        "text": "พิมพ์ใบเสร็จ",
+        "correct": false
+      },
+      {
+        "text": "แชทภายในองค์กร",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "คำว่า Scalability หมายถึงอะไร?",
+    "info": "ธุรกิจสามารถขยายหรือย่อระบบได้ตามออเดอร์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การชั่งน้ำหนักสินค้า",
+        "correct": false
+      },
+      {
+        "text": "การปรับขนาดระบบตามความต้องการ",
+        "correct": true
+      },
+      {
+        "text": "การวัดระยะทาง",
+        "correct": false
+      },
+      {
+        "text": "การเพิ่มพนักงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Fulfillment Center มีหน้าที่หลักอะไร?",
+    "info": "รองรับธุรกิจ E-commerce",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ผลิตสินค้า",
+        "correct": false
+      },
+      {
+        "text": "เก็บ แพ็ค และส่งสินค้าออนไลน์",
+        "correct": true
+      },
+      {
+        "text": "เป็นสำนักงานใหญ่",
+        "correct": false
+      },
+      {
+        "text": "เป็นที่ซ่อมรถ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart Warehouse มักใช้เทคโนโลยีใด?",
+    "info": "เพิ่มความเร็วและความแม่นยำ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "สมุดบันทึก",
+        "correct": false
+      },
+      {
+        "text": "หุ่นยนต์และระบบอัตโนมัติ",
+        "correct": true
+      },
+      {
+        "text": "แรงงานคนเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "โทรศัพท์บ้าน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดเป็นตัวอย่างของ Terminal หรือ Hub?",
+    "info": "เป็นจุดเปลี่ยนถ่ายสินค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "รถบรรทุก",
+        "correct": false
+      },
+      {
+        "text": "ท่าเรือและสนามบิน",
+        "correct": true
+      },
+      {
+        "text": "ถนน",
+        "correct": false
+      },
+      {
+        "text": "พนักงานขับรถ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Prompt Post ของไปรษณีย์ไทยช่วยอะไร?",
+    "info": "ทำให้ฝากส่งพัสดุได้เร็วขึ้น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดราคาสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ลดการรอคิวและพิมพ์จ่าหน้าอัตโนมัติ",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มขนาดกล่อง",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มน้ำหนักสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Real-time Tracking มีประโยชน์อย่างไร?",
+    "info": "เพิ่มความโปร่งใสและความพึงพอใจของลูกค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดน้ำหนักสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ลูกค้าติดตามพัสดุได้ตลอดเวลา",
+        "correct": true
+      },
+      {
+        "text": "ลดขนาดกล่อง",
+        "correct": false
+      },
+      {
+        "text": "ลดจำนวนรถ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Green Logistics หมายถึงอะไร?",
+    "info": "เน้นลดมลพิษ ลดการปล่อยก๊าซเรือนกระจก และใช้พลังงานสะอาด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การขนส่งที่เร็วที่สุด",
+        "correct": false
+      },
+      {
+        "text": "การขนส่งที่ลดผลกระทบต่อสิ่งแวดล้อม",
+        "correct": true
+      },
+      {
+        "text": "การขนส่งด้วยรถขนาดใหญ่เท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "การขนส่งเฉพาะทางอากาศ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เทคโนโลยีใดช่วยวิเคราะห์เส้นทางการขนส่งให้มีประสิทธิภาพมากขึ้น?",
+    "info": "สามารถวิเคราะห์ข้อมูลจำนวนมากและคำนวณเส้นทางที่เหมาะสมที่สุด",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "AI และ Big Data",
+        "correct": true
+      },
+      {
+        "text": "สมุดบันทึก",
+        "correct": false
+      },
+      {
+        "text": "โทรศัพท์บ้าน",
+        "correct": false
+      },
+      {
+        "text": "เครื่องคิดเลขธรรมดา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "บริการ Same-Day Delivery หมายถึงอะไร?",
+    "info": "เป็นบริการที่ตอบโจทย์ความรวดเร็วของลูกค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การส่งสินค้าใน 7 วัน",
+        "correct": false
+      },
+      {
+        "text": "การส่งสินค้าในวันเดียวกัน",
+        "correct": true
+      },
+      {
+        "text": "การส่งสินค้าฟรี",
+        "correct": false
+      },
+      {
+        "text": "การส่งสินค้าระหว่างประเทศ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Cross-border E-commerce (CBEC) คืออะไร?",
+    "info": "เป็นการค้าระหว่างผู้ซื้อและผู้ขายต่างประเทศผ่านระบบออนไลน์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การขายสินค้าในตลาดท้องถิ่น",
+        "correct": false
+      },
+      {
+        "text": "การซื้อขายออนไลน์ระหว่างประเทศ",
+        "correct": true
+      },
+      {
+        "text": "การขายสินค้าในร้านสะดวกซื้อ",
+        "correct": false
+      },
+      {
+        "text": "การซื้อขายผ่านตลาดนัด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ตัวอย่างของ Social Commerce คือแพลตฟอร์มใด?",
+    "info": "มีการขายสินค้าผ่าน Live Streaming และโซเชียลมีเดีย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "TikTok",
+        "correct": true
+      },
+      {
+        "text": "Excel",
+        "correct": false
+      },
+      {
+        "text": "PowerPoint",
+        "correct": false
+      },
+      {
+        "text": "Word",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Bonded Warehouse คือคลังสินค้าแบบใด?",
+    "info": "สามารถเก็บสินค้าโดยยังไม่ต้องชำระภาษีนำเข้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "คลังสินค้าทั่วไป",
+        "correct": false
+      },
+      {
+        "text": "คลังสินค้าปลอดภาษี",
+        "correct": true
+      },
+      {
+        "text": "คลังสินค้าแช่แข็ง",
+        "correct": false
+      },
+      {
+        "text": "คลังสินค้าเอกชน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "B2C ในระบบ E-commerce หมายถึงอะไร?",
+    "info": "B = Business และ C = Consumer",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ธุรกิจขายให้ธุรกิจ",
+        "correct": false
+      },
+      {
+        "text": "ธุรกิจขายให้ผู้บริโภค",
+        "correct": true
+      },
+      {
+        "text": "ผู้บริโภคขายให้ธุรกิจ",
+        "correct": false
+      },
+      {
+        "text": "รัฐบาลขายให้ธุรกิจ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ความท้าทายสำคัญของ Cross-border E-commerce คืออะไร?",
+    "info": "แต่ละประเทศมีกฎระเบียบและภาษีนำเข้าต่างกัน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การเลือกสีบรรจุภัณฑ์",
+        "correct": false
+      },
+      {
+        "text": "กฎหมายและพิธีการศุลกากร",
+        "correct": true
+      },
+      {
+        "text": "การเลือกกล่องสินค้า",
+        "correct": false
+      },
+      {
+        "text": "การเลือกพนักงานขาย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ระบบการชำระเงินที่นิยมใน CBEC คืออะไร?",
+    "info": "เป็นระบบที่ปลอดภัยและใช้ได้ทั่วโลก",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เงินสดเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "PayPal หรือระบบชำระเงินออนไลน์",
+        "correct": true
+      },
+      {
+        "text": "เช็คกระดาษ",
+        "correct": false
+      },
+      {
+        "text": "ธนาณัติ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ภาคส่วนใดมีการแข่งขันสูงที่สุดในธุรกิจโลจิสติกส์?",
+    "info": "ต้องแข่งขันเพื่อดึงดูดลูกค้าและสร้างกำไร",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ภาครัฐ",
+        "correct": false
+      },
+      {
+        "text": "ภาคเอกชน",
+        "correct": true
+      },
+      {
+        "text": "องค์กรไม่แสวงกำไร",
+        "correct": false
+      },
+      {
+        "text": "องค์กรระหว่างประเทศ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "แพลตฟอร์มอย่าง Lazada หรือ Alibaba จัดเป็นอะไร?",
+    "info": "เป็นตัวกลางเชื่อมผู้ซื้อ ผู้ขาย และผู้ให้บริการขนส่ง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ผู้ผลิตสินค้า",
+        "correct": false
+      },
+      {
+        "text": "แพลตฟอร์มดิจิทัล",
+        "correct": true
+      },
+      {
+        "text": "บริษัทขนส่ง",
+        "correct": false
+      },
+      {
+        "text": "บริษัทผลิตรถบรรทุก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Live Streaming มีประโยชน์อย่างไรในการขายสินค้า?",
+    "info": "ช่วยให้ลูกค้าเห็นสินค้าและตัดสินใจซื้อได้ง่ายขึ้น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดการพูดคุยกับลูกค้า",
+        "correct": false
+      },
+      {
+        "text": "สร้างประสบการณ์และปฏิสัมพันธ์กับลูกค้า",
+        "correct": true
+      },
+      {
+        "text": "ลดการโฆษณา",
+        "correct": false
+      },
+      {
+        "text": "ลดคุณภาพสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart Logistics คืออะไร?",
+    "info": "เพื่อเพิ่มความแม่นยำและประสิทธิภาพของระบบ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การขนส่งแบบดั้งเดิม",
+        "correct": false
+      },
+      {
+        "text": "การใช้เทคโนโลยีและระบบอัตโนมัติในการจัดการโลจิสติกส์",
+        "correct": true
+      },
+      {
+        "text": "การขนส่งด้วยแรงงานคน",
+        "correct": false
+      },
+      {
+        "text": "การขนส่งโดยไม่ใช้ระบบดิจิทัล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Carbon Neutral หมายถึงอะไร?",
+    "info": "เป็นเป้าหมายสำคัญของ Green Logistics",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ไม่มีการขนส่ง",
+        "correct": false
+      },
+      {
+        "text": "การปล่อยคาร์บอนสุทธิเป็นศูนย์",
+        "correct": true
+      },
+      {
+        "text": "การปล่อยคาร์บอนมากขึ้น",
+        "correct": false
+      },
+      {
+        "text": "การใช้รถดีเซลมากขึ้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Distribution Center (DC) มีหน้าที่อะไร?",
+    "info": "เป็นศูนย์กลางในการกระจายสินค้า",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ผลิตสินค้า",
+        "correct": false
+      },
+      {
+        "text": "รับและกระจายสินค้าไปยังร้านค้าหรือผู้บริโภค",
+        "correct": true
+      },
+      {
+        "text": "เป็นสำนักงานบริษัท",
+        "correct": false
+      },
+      {
+        "text": "เป็นที่จอดรถ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การใช้หุ่นยนต์ในคลังสินค้าช่วยอะไรได้มากที่สุด?",
+    "info": "หุ่นยนต์ทำงานได้รวดเร็วและแม่นยำ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เพิ่มจำนวนสินค้า",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มความแม่นยำในการหยิบสินค้า",
+        "correct": true
+      },
+      {
+        "text": "ลดขนาดคลัง",
+        "correct": false
+      },
+      {
+        "text": "ลดคุณภาพสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Automation ในโลจิสติกส์มีประโยชน์อย่างไร?",
+    "info": "ระบบอัตโนมัติช่วยให้การทำงานมีมาตรฐานมากขึ้น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดความผิดพลาดในการทำงาน",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มเอกสาร",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มขั้นตอนการทำงาน",
+        "correct": false
+      },
+      {
+        "text": "ลดเทคโนโลยี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เทคโนโลยี GPS ในการขนส่งมีหน้าที่อะไร?",
+    "info": "ทำให้สามารถติดตามเส้นทางการขนส่งได้แบบ Real-time",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "วัดน้ำหนักสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ระบุตำแหน่งและติดตามรถขนส่ง",
+        "correct": true
+      },
+      {
+        "text": "บันทึกเสียงพนักงาน",
+        "correct": false
+      },
+      {
+        "text": "ตรวจสอบคุณภาพสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "E-commerce ส่งผลต่อธุรกิจโลจิสติกส์อย่างไร?",
+    "info": "การซื้อขายออนไลน์ทำให้การจัดส่งพัสดุเพิ่มขึ้น",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ทำให้การขนส่งลดลง",
+        "correct": false
+      },
+      {
+        "text": "ทำให้ความต้องการขนส่งเพิ่มขึ้น",
+        "correct": true
+      },
+      {
+        "text": "ทำให้คลังสินค้าปิดตัว",
+        "correct": false
+      },
+      {
+        "text": "ทำให้ไม่มีการขนส่งสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "แนวโน้มสำคัญของโลจิสติกส์ในอนาคตคืออะไร?",
+    "info": "เพื่อเพิ่มประสิทธิภาพ ความรวดเร็ว และลดต้นทุน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดการใช้เทคโนโลยี",
+        "correct": false
+      },
+      {
+        "text": "ใช้ AI และระบบอัตโนมัติมากขึ้น",
+        "correct": true
+      },
+      {
+        "text": "กลับไปใช้แรงงานคนทั้งหมด",
+        "correct": false
+      },
+      {
+        "text": "ลดการขนส่งสินค้า",
+        "correct": false
+      }
+    ]
+  }
+]
