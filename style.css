@@ -99,6 +99,34 @@ header h1 {
     background: rgba(255, 255, 255, 0.3);
 }
 
+.header-controls {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.btn-shuffle {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: all 0.2s;
+}
+
+.btn-shuffle:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.btn-shuffle.active {
+    background: rgba(76, 175, 80, 0.6);
+    border-color: rgba(76, 175, 80, 1);
+    color: #ffffff;
+}
+
 .progress-bar {
     background: rgba(255, 255, 255, 0.2);
     height: 8px;

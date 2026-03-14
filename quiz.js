@@ -3,6 +3,9 @@ let currentQuestion = 0;
 let answers = {};
 let quizTopic = '';
 let quizFile = '';
+let shuffleEnabled = false;
+let shuffledQuizData = [];
+let answerMappings = {}; // Maps shuffled index to original index for each question
 
 // Get quiz topic from URL
 function getQuizFileFromURL() {
@@ -28,8 +31,13 @@ async function initQuiz() {
         quizData = await response.json();
         console.log('Quiz data loaded successfully, questions:', quizData.length);
         
-        // Load saved state
+        // Load saved state and shuffle preference
         loadState();
+        
+        // Create shuffled quiz if shuffle is enabled
+        if (shuffleEnabled) {
+            createShuffledQuiz();
+        }
         
         // Render first question
         renderQuestion();
@@ -55,6 +63,12 @@ function loadState() {
         currentQuestion = state.currentQuestion || 0;
         answers = state.answers || {};
     }
+    
+    // Load shuffle preference
+    const shuffleKey = `quiz_shuffle_${quizTopic}`;
+    const savedShuffle = localStorage.getItem(shuffleKey);
+    shuffleEnabled = savedShuffle === 'true';
+    updateShuffleButton();
 }
 
 function saveState() {
@@ -66,13 +80,75 @@ function saveState() {
     localStorage.setItem(stateKey, JSON.stringify(state));
 }
 
+// Fisher-Yates shuffle algorithm
+function shuffleArray(array) {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+}
+
+function toggleShuffle() {
+    shuffleEnabled = !shuffleEnabled;
+    const shuffleKey = `quiz_shuffle_${quizTopic}`;
+    localStorage.setItem(shuffleKey, shuffleEnabled);
+    updateShuffleButton();
+    
+    // Re-shuffle if enabling
+    if (shuffleEnabled) {
+        createShuffledQuiz();
+    }
+    renderQuestion();
+}
+
+function createShuffledQuiz() {
+    // Create a deep copy of quiz data with shuffled answers
+    shuffledQuizData = quizData.map((question, qIndex) => {
+        // Shuffle the answers and create a mapping
+        const shuffledAnswers = shuffleArray(question.answers);
+        
+        // Create mapping from shuffled index to original index
+        const mapping = [];
+        shuffledAnswers.forEach(shuffledAnswer => {
+            const originalIndex = question.answers.findIndex(
+                a => a.text === shuffledAnswer.text && a.correct === shuffledAnswer.correct
+            );
+            mapping.push(originalIndex);
+        });
+        
+        answerMappings[qIndex] = mapping;
+        
+        return {
+            ...question,
+            answers: shuffledAnswers
+        };
+    });
+}
+
+function updateShuffleButton() {
+    const btn = document.getElementById('shuffle-btn');
+    if (btn) {
+        if (shuffleEnabled) {
+            btn.classList.add('active');
+            btn.textContent = '🔀 สลับข้อ ✓';
+        } else {
+            btn.classList.remove('active');
+            btn.textContent = '🔀 สลับข้อ';
+        }
+    }
+}
+
 function renderQuestion() {
     if (currentQuestion >= quizData.length) {
         showResult();
         return;
     }
     
-    const question = quizData[currentQuestion];
+    // Use shuffled data if enabled, otherwise use original
+    const displayData = shuffleEnabled ? shuffledQuizData : quizData;
+    const question = displayData[currentQuestion];
     const hasAnswered = answers.hasOwnProperty(currentQuestion);
     
     const container = document.getElementById('quiz-container');
@@ -107,23 +183,26 @@ function renderQuestion() {
 function renderAnswers(question, hasAnswered) {
     const answersContainer = document.getElementById('answers-container');
     
-    question.answers.forEach((answer, index) => {
+    question.answers.forEach((answer, displayIndex) => {
         const btn = document.createElement('button');
         btn.className = 'answer-btn';
         btn.textContent = answer.text;
         btn.disabled = hasAnswered;
         
+        // Get the original index if shuffled, otherwise use display index
+        const originalIndex = shuffleEnabled ? answerMappings[currentQuestion][displayIndex] : displayIndex;
+        
         if (hasAnswered) {
             if (answer.correct) {
                 btn.classList.add('correct');
-            } else if (answers[currentQuestion] === index) {
+            } else if (answers[currentQuestion] === originalIndex) {
                 btn.classList.add('incorrect');
             }
-        } else if (answers[currentQuestion] === index) {
+        } else if (answers[currentQuestion] === originalIndex) {
             btn.classList.add('selected');
         }
         
-        btn.addEventListener('click', () => selectAnswer(index));
+        btn.addEventListener('click', () => selectAnswer(originalIndex));
         answersContainer.appendChild(btn);
     });
 }
@@ -198,6 +277,10 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error('No quiz file specified in URL, redirecting to index');
         window.location.href = 'index.html';
         return;
+    }
+    
+    if (document.getElementById('shuffle-btn')) {
+        document.getElementById('shuffle-btn').addEventListener('click', toggleShuffle);
     }
     
     if (document.getElementById('retry-btn')) {
