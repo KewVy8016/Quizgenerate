@@ -1,0 +1,1198 @@
+[
+  {
+    "text": "การขนส่ง (Transportation) หมายถึงอะไร?",
+    "info": "การขนส่งคือกระบวนการเคลื่อนย้ายสินค้า บริการ หรือบุคคล จากแหล่งกำเนิดไปยังปลายทาง โดยอาศัยโครงสร้างพื้นฐาน เทคโนโลยี และระบบบริหารจัดการโลจิสติกส์",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "กระบวนการเคลื่อนย้ายสินค้า บริการ หรือบุคคล",
+        "correct": true
+      },
+      {
+        "text": "การผลิตสินค้าในโรงงานอุตสาหกรรม",
+        "correct": false
+      },
+      {
+        "text": "การเก็บรักษาสินค้าในคลังสินค้า",
+        "correct": false
+      },
+      {
+        "text": "การซื้อขายสินค้าผ่านระบบออนไลน์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งในปี 2568 ไม่ใช่แค่การเคลื่อนย้าย แต่เป็นส่วนหนึ่งของอะไร?",
+    "info": "การขนส่งเป็นส่วนหนึ่งของ Supply Chain และ Digital Economy (เศรษฐกิจดิจิทัล)",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Supply Chain และ Digital Economy",
+        "correct": true
+      },
+      {
+        "text": "การผลิตและการตลาด",
+        "correct": false
+      },
+      {
+        "text": "การเงินและการธนาคาร",
+        "correct": false
+      },
+      {
+        "text": "การศึกษาและการวิจัย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประเภทของการขนส่งแบ่งตามลักษณะการขนส่งได้เป็นอะไรบ้าง?",
+    "info": "ประเภทของการขนส่งแบ่งเป็น การขนส่งสินค้า (Goods Transportation) และการขนส่งบุคคล (Passenger Transportation)",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ขนส่งสินค้าและขนส่งบุคคล",
+        "correct": true
+      },
+      {
+        "text": "ขนส่งทางบกและทางน้ำ",
+        "correct": false
+      },
+      {
+        "text": "ขนส่งในประเทศและต่างประเทศ",
+        "correct": false
+      },
+      {
+        "text": "ขนส่งด่วนและขนส่งธรรมดา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "องค์ประกอบหลักของการขนส่งมีอะไรบ้าง?",
+    "info": "องค์ประกอบหลัก ได้แก่ เส้นทาง พาหนะ สถานี/ศูนย์กระจายสินค้า และผู้ให้บริการ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เส้นทาง, พาหนะ, สถานี, ผู้ให้บริการ",
+        "correct": true
+      },
+      {
+        "text": "สินค้า, ราคา, การตลาด, ลูกค้า",
+        "correct": false
+      },
+      {
+        "text": "โรงงาน, คลังสินค้า, ร้านค้า, ผู้ซื้อ",
+        "correct": false
+      },
+      {
+        "text": "เงินทุน, แรงงาน, เครื่องจักร, วัตถุดิบ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เป้าหมายของการขนส่งเพื่อให้เกิดสิ่งใด?",
+    "info": "การขนส่งมีเป้าหมายเพื่อให้เกิดความรวดเร็ว ความคุ้มค่า ความปลอดภัย และความยั่งยืน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "รวดเร็ว คุ้มค่า ปลอดภัย ยั่งยืน",
+        "correct": true
+      },
+      {
+        "text": "ถูกต้อง แม่นยำ ครบถ้วน",
+        "correct": false
+      },
+      {
+        "text": "สนุกสนาน ทันสมัย หลากหลาย",
+        "correct": false
+      },
+      {
+        "text": "ใหญ่โต อลังการ ทันสมัย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เส้นทาง (Transport Infrastructure) ในเอกสารประกอบด้วยอะไรบ้าง?",
+    "info": "เส้นทางประกอบด้วย ทางบก ทางน้ำ ทางราง ทางอากาศ และทางท่อ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ทางบก, ทางน้ำ, ทางราง, ทางอากาศ, ทางท่อ",
+        "correct": true
+      },
+      {
+        "text": "ทางบก, ทางน้ำ, ทางราง",
+        "correct": false
+      },
+      {
+        "text": "ทางบก, ทางอากาศ",
+        "correct": false
+      },
+      {
+        "text": "ทางราง, ทางท่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart Road คืออะไร?",
+    "info": "Smart Road คือถนนอัจฉริยะ ที่มีการนำเทคโนโลยีมาใช้ในการบริหารจัดการจราจรและความปลอดภัย",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ถนนอัจฉริยะ",
+        "correct": true
+      },
+      {
+        "text": "ถนนลาดยาง",
+        "correct": false
+      },
+      {
+        "text": "ถนนคอนกรีต",
+        "correct": false
+      },
+      {
+        "text": "ถนนลูกรัง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งแบบ Multimodal คืออะไร?",
+    "info": "Multimodal คือการขนส่งหลายรูปแบบโดยใช้สัญญาเดียว ผู้ให้บริการรายเดียวรับผิดชอบตลอดเส้นทาง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ขนส่งหลายรูปแบบ สัญญาเดียว",
+        "correct": true
+      },
+      {
+        "text": "ขนส่งหลายรูปแบบ หลายสัญญา",
+        "correct": false
+      },
+      {
+        "text": "ขนส่งรูปแบบเดียว",
+        "correct": false
+      },
+      {
+        "text": "ขนส่งทางท่อเท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งแบบ Intermodal คืออะไร?",
+    "info": "Intermodal คือการขนส่งหลายรูปแบบ หลายสัญญา สินค้าอยู่ในตู้คอนเทนเนอร์เดียวกันตลอด",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ขนส่งหลายรูปแบบ หลายสัญญา",
+        "correct": true
+      },
+      {
+        "text": "ขนส่งหลายรูปแบบ สัญญาเดียว",
+        "correct": false
+      },
+      {
+        "text": "ขนส่งรูปแบบเดียว",
+        "correct": false
+      },
+      {
+        "text": "ขนส่งทางอากาศเท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือความแตกต่างที่สำคัญระหว่าง Multimodal และ Intermodal?",
+    "info": "Multimodal ใช้สัญญาเดียว ส่วน Intermodal ใช้หลายสัญญา และการจัดการสินค้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "จำนวนสัญญาและการถ่ายสินค้า",
+        "correct": true
+      },
+      {
+        "text": "ประเภทสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ราคา",
+        "correct": false
+      },
+      {
+        "text": "ระยะทาง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ใน Intermodal Transport สินค้ามักอยู่ในการบรรจุแบบใดตลอดการเดินทาง?",
+    "info": "สินค้ามักอยู่ในตู้คอนเทนเนอร์เดียวกันตลอดการเดินทาง ไม่มีการถ่ายสินค้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ตู้คอนเทนเนอร์",
+        "correct": true
+      },
+      {
+        "text": "กล่องกระดาษ",
+        "correct": false
+      },
+      {
+        "text": "ถุงพลาสติก",
+        "correct": false
+      },
+      {
+        "text": "พาเลท",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จุดเด่นของ Multimodal Transport คืออะไร?",
+    "info": "Multimodal ช่วยลดความซับซ้อนในการจัดการ เพราะมีผู้ให้บริการรายเดียวรับผิดชอบ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ลดความซับซ้อนในการจัดการ",
+        "correct": true
+      },
+      {
+        "text": "ลดต้นทุน",
+        "correct": false
+      },
+      {
+        "text": "รวดเร็วที่สุด",
+        "correct": false
+      },
+      {
+        "text": "ปลอดภัยที่สุด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จุดเด่นของ Intermodal Transport คืออะไร?",
+    "info": "Intermodal ช่วยลดต้นทุน เพราะเลือกผู้ให้บริการถูกสุดในแต่ละช่วง และสินค้าไม่ถูกแกะ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ลดต้นทุนและเพิ่มความปลอดภัย",
+        "correct": true
+      },
+      {
+        "text": "ลดความซับซ้อน",
+        "correct": false
+      },
+      {
+        "text": "เร็วที่สุด",
+        "correct": false
+      },
+      {
+        "text": "ใช้สัญญาเดียว",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "แนวโน้มพาหนะขนส่งในปัจจุบันเน้นใช้พลังงานลักษณะใด?",
+    "info": "แนวโน้มใช้พลังงานสะอาด ลด Carbon Footprint เช่น รถบรรทุกไฟฟ้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "พลังงานสะอาด",
+        "correct": true
+      },
+      {
+        "text": "พลังงานฟอสซิล",
+        "correct": false
+      },
+      {
+        "text": "พลังงานนิวเคลียร์",
+        "correct": false
+      },
+      {
+        "text": "พลังงานถ่านหิน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Drone Delivery เหมาะกับการขนส่งระยะใด?",
+    "info": "โดรนเหมาะสำหรับการขนส่งระยะใกล้",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ระยะใกล้",
+        "correct": true
+      },
+      {
+        "text": "ระยะกลาง",
+        "correct": false
+      },
+      {
+        "text": "ระยะไกล",
+        "correct": false
+      },
+      {
+        "text": "ข้ามทวีป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Fulfillment Center คืออะไร?",
+    "info": "Fulfillment Center คือศูนย์ปฏิบัติการของ E-commerce สำหรับจัดเก็บ แพ็ค และจัดส่งสินค้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ศูนย์ปฏิบัติการ E-commerce",
+        "correct": true
+      },
+      {
+        "text": "ท่าเรือ",
+        "correct": false
+      },
+      {
+        "text": "สนามบิน",
+        "correct": false
+      },
+      {
+        "text": "สถานีรถไฟ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart Warehouse คืออะไร?",
+    "info": "คลังสินค้าอัจฉริยะที่ใช้เทคโนโลยีในการบริหารจัดการ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "คลังสินค้าอัจฉริยะ",
+        "correct": true
+      },
+      {
+        "text": "คลังสินค้าทั่วไป",
+        "correct": false
+      },
+      {
+        "text": "ศูนย์กระจายสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ท่าเรือ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Logistics as a Service (LaaS) คืออะไร?",
+    "info": "LaaS คือโมเดลธุรกิจให้บริการโลจิสติกส์ครบวงจรผ่านแพลตฟอร์มเทคโนโลยีและคลาวด์ คิดค่าบริการตามการใช้งานจริง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "บริการโลจิสติกส์ครบวงจรผ่านแพลตฟอร์ม",
+        "correct": true
+      },
+      {
+        "text": "การขนส่งทางอากาศ",
+        "correct": false
+      },
+      {
+        "text": "การขนส่งทางทะเล",
+        "correct": false
+      },
+      {
+        "text": "การเช่าคลังสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือสาระสำคัญของ LaaS?",
+    "info": "LaaS ครอบคลุมบริการคลังสินค้า การแพ็ค การจัดส่ง ใช้เทคโนโลยี WMS บนคลาวด์ มีความยืดหยุ่น และลดต้นทุน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ครอบคลุมทุกบริการ ใช้เทคโนโลยี มีความยืดหยุ่น ลดต้นทุน",
+        "correct": true
+      },
+      {
+        "text": "เฉพาะการขนส่ง",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะคลังสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ใช้แรงงานคนเป็นหลัก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ตัวอย่างบริษัทที่ให้บริการ LaaS ตามเอกสารคือใคร?",
+    "info": "Amazon เป็นตัวอย่างที่ก้าวเข้าสู่ธุรกิจโลจิสติกส์แบบครบวงจร",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Amazon",
+        "correct": true
+      },
+      {
+        "text": "Google",
+        "correct": false
+      },
+      {
+        "text": "Facebook",
+        "correct": false
+      },
+      {
+        "text": "Microsoft",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งทางถนนเหมาะกับอะไร?",
+    "info": "เหมาะกับ E-commerce และการส่งถึงบ้าน (Door-to-Door)",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "E-commerce และ Door-to-Door",
+        "correct": true
+      },
+      {
+        "text": "สินค้าปริมาณมาก",
+        "correct": false
+      },
+      {
+        "text": "สินค้ามูลค่าสูง",
+        "correct": false
+      },
+      {
+        "text": "ของเหลว",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อเสียของการขนส่งทางถนนคืออะไร?",
+    "info": "ข้อเสียคือ ต้นทุนต่อหน่วยสูง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ต้นทุนต่อหน่วยสูง",
+        "correct": true
+      },
+      {
+        "text": "ช้ามาก",
+        "correct": false
+      },
+      {
+        "text": "เข้าถึงยาก",
+        "correct": false
+      },
+      {
+        "text": "ไม่ปลอดภัย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งทางน้ำเหมาะกับสินค้าประเภทใด?",
+    "info": "เหมาะกับสินค้าปริมาณมาก น้ำหนักมาก เช่น วัตถุดิบ สินค้าอุตสาหกรรม",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สินค้าปริมาณมาก น้ำหนักมาก",
+        "correct": true
+      },
+      {
+        "text": "สินค้าเร่งด่วน",
+        "correct": false
+      },
+      {
+        "text": "สินค้ามูลค่าสูง",
+        "correct": false
+      },
+      {
+        "text": "เอกสาร",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อดีของการขนส่งทางน้ำคืออะไร?",
+    "info": "ข้อดีคือ ต้นทุนต่ำ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ต้นทุนต่ำ",
+        "correct": true
+      },
+      {
+        "text": "รวดเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ประหยัดพลังงาน",
+        "correct": false
+      },
+      {
+        "text": "ปลอดภัยสูง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อเสียของการขนส่งทางน้ำคืออะไร?",
+    "info": "ข้อเสียคือ ใช้เวลานาน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ใช้เวลานาน",
+        "correct": true
+      },
+      {
+        "text": "ต้นทุนสูง",
+        "correct": false
+      },
+      {
+        "text": "เข้าถึงยาก",
+        "correct": false
+      },
+      {
+        "text": "ไม่ปลอดภัย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งทางอากาศเหมาะกับสินค้าประเภทใด?",
+    "info": "เหมาะกับสินค้ามูลค่าสูงและเร่งด่วน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สินค้ามูลค่าสูง เร่งด่วน",
+        "correct": true
+      },
+      {
+        "text": "สินค้าปริมาณมาก",
+        "correct": false
+      },
+      {
+        "text": "สินค้าหนัก",
+        "correct": false
+      },
+      {
+        "text": "ของเหลว",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อดีของการขนส่งทางอากาศคืออะไร?",
+    "info": "ข้อดีคือ รวดเร็วที่สุด",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เร็วที่สุด",
+        "correct": true
+      },
+      {
+        "text": "ต้นทุนต่ำ",
+        "correct": false
+      },
+      {
+        "text": "ประหยัดพลังงาน",
+        "correct": false
+      },
+      {
+        "text": "ปลอดภัยที่สุด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อเสียของการขนส่งทางอากาศคืออะไร?",
+    "info": "ข้อเสียคือ ต้นทุนสูง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ต้นทุนสูง",
+        "correct": true
+      },
+      {
+        "text": "ช้า",
+        "correct": false
+      },
+      {
+        "text": "ไม่ปลอดภัย",
+        "correct": false
+      },
+      {
+        "text": "เข้าถึงยาก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งทางรางเหมาะกับอะไร?",
+    "info": "เหมาะกับสินค้าปริมาณมาก ระยะกลางถึงไกล",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ปริมาณมาก ระยะกลาง–ไกล",
+        "correct": true
+      },
+      {
+        "text": "ระยะใกล้",
+        "correct": false
+      },
+      {
+        "text": "เร่งด่วน",
+        "correct": false
+      },
+      {
+        "text": "ของเหลว",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อดีของการขนส่งทางรางคืออะไร?",
+    "info": "ข้อดีคือ ประหยัดพลังงาน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ประหยัดพลังงาน",
+        "correct": true
+      },
+      {
+        "text": "รวดเร็ว",
+        "correct": false
+      },
+      {
+        "text": "ต้นทุนต่ำ",
+        "correct": false
+      },
+      {
+        "text": "เข้าถึงทุกที่",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อเสียของการขนส่งทางรางคืออะไร?",
+    "info": "ข้อเสียคือ เส้นทางตายตัว",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เส้นทางตายตัว",
+        "correct": true
+      },
+      {
+        "text": "ต้นทุนสูง",
+        "correct": false
+      },
+      {
+        "text": "ช้ามาก",
+        "correct": false
+      },
+      {
+        "text": "ไม่ปลอดภัย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การขนส่งทางท่อเหมาะกับสินค้าประเภทใด?",
+    "info": "เหมาะกับของเหลวและก๊าซ เช่น ก๊าซธรรมชาติ น้ำมันดิบ สารเคมี",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ของเหลวและก๊าซ",
+        "correct": true
+      },
+      {
+        "text": "สินค้าแห้ง",
+        "correct": false
+      },
+      {
+        "text": "สินค้าอันตราย",
+        "correct": false
+      },
+      {
+        "text": "สินค้าเน่าเสียง่าย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หน่วยงานใดในไทยที่ดำเนินการขนส่งทางท่อตามเอกสาร?",
+    "info": "ปตท. เป็นหน่วยงานหลักในการขนส่งทางท่อน้ำมันและก๊าซ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ปตท.",
+        "correct": true
+      },
+      {
+        "text": "การไฟฟ้าฝ่ายผลิต",
+        "correct": false
+      },
+      {
+        "text": "การประปา",
+        "correct": false
+      },
+      {
+        "text": "ไปรษณีย์ไทย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ปัจจัยหลักในการเลือกการจัดส่งสินค้าสำหรับร้านค้าออนไลน์มีกี่ปัจจัย?",
+    "info": "มี 5 ปัจจัย: ความรวดเร็ว ต้นทุน ความปลอดภัย การติดตามสถานะ และผลกระทบต่อสิ่งแวดล้อม",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "5 ปัจจัย",
+        "correct": true
+      },
+      {
+        "text": "3 ปัจจัย",
+        "correct": false
+      },
+      {
+        "text": "4 ปัจจัย",
+        "correct": false
+      },
+      {
+        "text": "6 ปัจจัย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "บริการ Prompt Post ของไปรษณีย์ไทยมีจุดเด่นอย่างไร?",
+    "info": "Prompt Post เป็นบริการพร้อมส่ง เหมาจ่ายตามขนาดกล่อง ไม่ต้องเขียนจ่าหน้า ใช้ช่อง Fast Lane",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เหมาจ่ายตามขนาดกล่อง ไม่ต้องเขียนจ่าหน้า",
+        "correct": true
+      },
+      {
+        "text": "ส่งด่วนถึงในวันเดียว",
+        "correct": false
+      },
+      {
+        "text": "ราคาถูกที่สุด",
+        "correct": false
+      },
+      {
+        "text": "รับประกันความเสียหาย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "EMS ของไปรษณีย์ไทยใช้เวลากี่วันในการส่ง?",
+    "info": "EMS ส่งด่วน 1-2 วันทำการ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "1-2 วันทำการ",
+        "correct": true
+      },
+      {
+        "text": "3-5 วันทำการ",
+        "correct": false
+      },
+      {
+        "text": "ภายในวันเดียว",
+        "correct": false
+      },
+      {
+        "text": "5-7 วันทำการ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "บริการใดของไปรษณีย์ไทยที่เหมาะกับของไม่เร่งด่วน?",
+    "info": "ลงทะเบียน (Registered) เหมาะกับของไม่เร่งด่วน ราคาย่อมเยา",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ลงทะเบียน",
+        "correct": true
+      },
+      {
+        "text": "EMS",
+        "correct": false
+      },
+      {
+        "text": "Same-Day",
+        "correct": false
+      },
+      {
+        "text": "Prompt Post",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Digital Postbox คืออะไร?",
+    "info": "Digital Postbox คือตู้ไปรษณีย์ดิจิทัล รับ-ส่งและจัดเก็บเอกสารในรูปแบบไฟล์อิเล็กทรอนิกส์",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ตู้ไปรษณีย์ดิจิทัล",
+        "correct": true
+      },
+      {
+        "text": "แอปพลิเคชันติดตามพัสดุ",
+        "correct": false
+      },
+      {
+        "text": "บริการส่งด่วน",
+        "correct": false
+      },
+      {
+        "text": "คลังสินค้าอัจฉริยะ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "แนวโน้มการขนส่งปี 2569 ข้อใดที่กล่าวถึง?",
+    "info": "แนวโน้มได้แก่ Smart Logistics, AI & Big Data, Green Logistics, Automation, Same-Day Delivery, Cross-Border E-commerce",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Smart Logistics",
+        "correct": true
+      },
+      {
+        "text": "ลดการใช้เทคโนโลยี",
+        "correct": false
+      },
+      {
+        "text": "ใช้แรงงานคนมากขึ้น",
+        "correct": false
+      },
+      {
+        "text": "ลดการขนส่งข้ามแดน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Cross-border e-commerce (CBEC) คืออะไร?",
+    "info": "CBEC คือการซื้อขายสินค้าหรือบริการออนไลน์ระหว่างผู้ขายและผู้ซื้อที่อยู่คนละประเทศ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การค้าออนไลน์ข้ามประเทศ",
+        "correct": true
+      },
+      {
+        "text": "การค้าออนไลน์ในประเทศ",
+        "correct": false
+      },
+      {
+        "text": "การขายส่ง",
+        "correct": false
+      },
+      {
+        "text": "การขายปลีก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "รูปแบบหลักของ CBEC มีอะไรบ้าง?",
+    "info": "รูปแบบหลักคือ B2C (Business-to-Consumer), B2B (Business-to-Business), และ C2C (Consumer-to-Consumer)",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "B2C, B2B, C2C",
+        "correct": true
+      },
+      {
+        "text": "B2B, C2C",
+        "correct": false
+      },
+      {
+        "text": "B2C, B2B",
+        "correct": false
+      },
+      {
+        "text": "B2C, C2C",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ช่องทาง CBEC ยอดนิยมตามเอกสารคืออะไร?",
+    "info": "ช่องทางยอดนิยม เช่น Amazon, eBay, Alibaba, Tmall, Taobao, Lazada และ Social Commerce อย่าง TikTok",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Marketplace และ Social Commerce",
+        "correct": true
+      },
+      {
+        "text": "เฉพาะเว็บไซต์ของตนเอง",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะอีเมล",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะแอปพลิเคชันธนาคาร",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประโยชน์ของ CBEC สำหรับผู้ประกอบการไทยคืออะไร?",
+    "info": "ประโยชน์คือ ขยายฐานลูกค้า ได้สิทธิพิเศษด้านภาษี และสร้างแบรนด์",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ขยายฐานลูกค้า, สิทธิพิเศษด้านภาษี, สร้างแบรนด์",
+        "correct": true
+      },
+      {
+        "text": "ลดต้นทุนการผลิต",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มกำลังการผลิต",
+        "correct": false
+      },
+      {
+        "text": "ลดพนักงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ความท้าทายของ CBEC คืออะไร?",
+    "info": "ความท้าทายคือ การตลาด โลจิสติกส์ พิธีการศุลกากร และการชำระเงิน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "การตลาด, โลจิสติกส์, พิธีการ, การชำระเงิน",
+        "correct": true
+      },
+      {
+        "text": "เฉพาะภาษี",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะการขนส่ง",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะการตลาด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กลยุทธ์ที่น่าสนใจใน CBEC คืออะไร?",
+    "info": "กลยุทธ์ที่น่าสนใจคือ Live Streaming และ Bonded Warehouse",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Live Streaming และ Bonded Warehouse",
+        "correct": true
+      },
+      {
+        "text": "ลดราคา",
+        "correct": false
+      },
+      {
+        "text": "โฆษณาทางทีวี",
+        "correct": false
+      },
+      {
+        "text": "แจกสินค้าฟรี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Bonded Warehouse คืออะไร?",
+    "info": "Bonded Warehouse คือคลังสินค้าปลอดภาษีในเขตส่งเสริมการค้าพิเศษ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "คลังสินค้าปลอดภาษี",
+        "correct": true
+      },
+      {
+        "text": "คลังสินค้าทั่วไป",
+        "correct": false
+      },
+      {
+        "text": "ศูนย์กระจายสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ท่าเรือ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือบริการของไปรษณีย์ไทยที่ส่งภายในวันเดียว?",
+    "info": "Same-Day/Fast Delivery เป็นบริการรับส่งของภายในวันเดียวในบางพื้นที่",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Same-Day Delivery",
+        "correct": true
+      },
+      {
+        "text": "EMS",
+        "correct": false
+      },
+      {
+        "text": "ลงทะเบียน",
+        "correct": false
+      },
+      {
+        "text": "พัสดุธรรมดา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ระบบ Auto Track & Trace ของไปรษณีย์ไทยแจ้งเตือนผ่านช่องทางใด?",
+    "info": "แจ้งเตือนผ่าน LINE Official Account @Thailandpost",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "LINE",
+        "correct": true
+      },
+      {
+        "text": "Facebook",
+        "correct": false
+      },
+      {
+        "text": "SMS",
+        "correct": false
+      },
+      {
+        "text": "Email",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "WMS ย่อมาจากอะไร?",
+    "info": "WMS ย่อมาจาก Warehouse Management System ระบบบริหารจัดการคลังสินค้า",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Warehouse Management System",
+        "correct": true
+      },
+      {
+        "text": "Web Management System",
+        "correct": false
+      },
+      {
+        "text": "Wireless Management System",
+        "correct": false
+      },
+      {
+        "text": "World Management System",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "MTO ในบริบท Multimodal Transport หมายถึงอะไร?",
+    "info": "MTO หมายถึง Multimodal Transport Operator หรือผู้ให้บริการขนส่งหลายรูปแบบ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Multimodal Transport Operator",
+        "correct": true
+      },
+      {
+        "text": "Marine Transport Operator",
+        "correct": false
+      },
+      {
+        "text": "Motor Transport Operator",
+        "correct": false
+      },
+      {
+        "text": "Main Transport Operator",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Prompt Post Application ของไปรษณีย์ไทยใช้ทำอะไร?",
+    "info": "ใช้จัดส่งสินค้าและจัดการเอกสารอิเล็กทรอนิกส์",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "จัดส่งสินค้าและจัดการเอกสารอิเล็กทรอนิกส์",
+        "correct": true
+      },
+      {
+        "text": "ซื้อสินค้าออนไลน์",
+        "correct": false
+      },
+      {
+        "text": "จองตั๋วเครื่องบิน",
+        "correct": false
+      },
+      {
+        "text": "ชำระค่าสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "โครงสร้างของการขนส่งทางท่อเป็นอย่างไร?",
+    "info": "เป็นท่อที่ติดตั้งอยู่ใต้ดิน ใต้น้ำ หรือบนดิน ช่วยลดการรบกวนและภัยพิบัติทางธรรมชาติ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ใต้ดิน ใต้น้ำ หรือบนดิน",
+        "correct": true
+      },
+      {
+        "text": "บนดินเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "ใต้ดินเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "บนท้องฟ้า",
+        "correct": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "text": "Mobile Marketing หมายถึงอะไร?",
+    "info": "Mobile Marketing คือการทำกิจกรรมทางการตลาดผ่านโทรศัพท์เคลื่อนที่ เพื่อเข้าถึงกลุ่มเป้าหมายโดยตรง",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การทำกิจกรรมทางการตลาดผ่านโทรศัพท์เคลื่อนที่",
+        "correct": true
+      },
+      {
+        "text": "การตลาดผ่านโทรทัศน์",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านวิทยุ",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านหนังสือพิมพ์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จำนวนผู้ใช้โทรศัพท์เคลื่อนที่ในประเทศไทยตามเอกสารมีประมาณกี่ล้านราย?",
+    "info": "เอกสารระบุว่ามีผู้ใช้งานโทรศัพท์เคลื่อนที่มากกว่า 25 ล้านราย",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "25 ล้านราย",
+        "correct": true
+      },
+      {
+        "text": "30 ล้านราย",
+        "correct": false
+      },
+      {
+        "text": "20 ล้านราย",
+        "correct": false
+      },
+      {
+        "text": "15 ล้านราย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กลุ่มผู้ที่เกี่ยวข้องใน Mobile Marketing มีทั้งหมดกี่กลุ่ม?",
+    "info": "กลุ่มผู้เกี่ยวข้องมี 5 กลุ่ม ได้แก่ Mobile Developer, Mobile Network Operator, Content Provider, Business, Subscriber",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "5 กลุ่ม",
+        "correct": true
+      },
+      {
+        "text": "3 กลุ่ม",
+        "correct": false
+      },
+      {
+        "text": "4 กลุ่ม",
+        "correct": false
+      },
+      {
+        "text": "6 กลุ่ม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือตัวอย่างของ Mobile Developer (ผู้พัฒนาโทรศัพท์เคลื่อนที่)?",
+    "info": "Mobile Developer คือผู้ผลิตโทรศัพท์ เช่น Nokia, Motorola, Samsung",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Samsung",
+        "correct": true
+      },
+      {
+        "text": "AIS",
+        "correct": false
+      },
+      {
+        "text": "DTAC",
+        "correct": false
+      },
+      {
+        "text": "True Move",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือตัวอย่างของ Mobile Network Operator ในประเทศไทย?",
+    "info": "Mobile Network Operator คือผู้ให้บริการเครือข่าย เช่น AIS, DTAC, True Move, Hutch",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "AIS",
+        "correct": true
+      },
+      {
+        "text": "Nokia",
+        "correct": false
+      },
+      {
+        "text": "Motorola",
+        "correct": false
+      },
+      {
+        "text": "Samsung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing เป็นส่วนหนึ่งของยุทธวิธีการตลาดใด?",
+    "info": "Mobile Marketing เป็นส่วนหนึ่งของการตลาดเชิงสัมพันธ์ (Customer Relationship Management - CRM)",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "CRM",
+        "correct": true
+      },
+      {
+        "text": "SEO",
+        "correct": false
+      },
+      {
+        "text": "SEM",
+        "correct": false
+      },
+      {
+        "text": "SMM",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือจุดเด่นของ Mobile Marketing ที่ทำให้เข้าถึงกลุ่มเป้าหมายได้ดี?",
+    "info": "Mobile Marketing สามารถเลือกกลุ่มเป้าหมายได้ตรงตามที่ต้องการและสื่อสารโดยตรง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เข้าถึงกลุ่มเป้าหมายโดยตรง",
+        "correct": true
+      },
+      {
+        "text": "ต้นทุนสูง",
+        "correct": false
+      },
+      {
+        "text": "วัดผลยาก",
+        "correct": false
+      },
+      {
+        "text": "ใช้เวลานาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing ช่วยสร้างสิ่งใดให้กับตราสินค้า?",
+    "info": "Mobile Marketing ช่วยสร้างภาพลักษณ์ให้กับตราสินค้าและประชาสัมพันธ์กิจกรรม",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ภาพลักษณ์",
+        "correct": true
+      },
+      {
+        "text": "ต้นทุน",
+        "correct": false
+      },
+      {
+        "text": "คู่แข่ง",
+        "correct": false
+      },
+      {
+        "text": "พนักงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เปอร์เซ็นต์การตอบรับของ Mobile Marketing โดยเฉลี่ยอยู่ที่เท่าใด?",
+    "info": "การตอบรับของ Mobile Marketing โดยเฉลี่ยอยู่ที่ประมาณ 15%",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "15%",
+        "correct": true
+      },
+      {
+        "text": "2-3%",
+        "correct": false
+      },
+      {
+        "text": "10%",
+        "correct": false
+      },
+      {
+        "text": "20%",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การตอบรับของ direct mail โดยเฉลี่ยอยู่ที่เท่าใด?",
+    "info": "การตอบรับของ direct mail โดยเฉลี่ยอยู่ที่ประมาณ 2-3%",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "2-3%",
+        "correct": true
+      },
+      {
+        "text": "15%",
+        "correct": false
+      },
+      {
+        "text": "5%",
+        "correct": false
+      },
+      {
+        "text": "10%",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing สามารถวัดผลได้จากอะไร?",
+    "info": "วัดผลได้จากการเข้าไปตามลิงก์ที่ให้ หรือการดาวน์โหลดข้อมูลเพิ่มเติม",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การคลิกลิงก์และการดาวน์โหลด",
+        "correct": true
+      },
+      {
+        "text": "ยอดขาย",
+        "correct": false
+      },
+      {
+        "text": "จำนวนพนักงาน",
+        "correct": false
+      },
+      {
+        "text": "ขนาดกิจการ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดไม่ใช่กลุ่มผู้เกี่ยวข้องใน Mobile Marketing?",
+    "info": "กลุ่มผู้เกี่ยวข้องคือ Mobile Developer, Network Operator, Content Provider, Business, Subscriber",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Government",
+        "correct": true
+      },
+      {
+        "text": "Mobile Developer",
+        "correct": false
+      },
+      {
+        "text": "Content Provider",
+        "correct": false
+      },
+      {
+        "text": "Subscriber",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Content Provider ใน Mobile Marketing หมายถึงใคร?",
+    "info": "Content Provider คือผู้ผลิตสื่อเพื่อให้บริการบนโทรศัพท์เคลื่อนที่",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ผู้ผลิตสื่อ",
+        "correct": true
+      },
+      {
+        "text": "ผู้พัฒนาโทรศัพท์",
+        "correct": false
+      },
+      {
+        "text": "ผู้ให้บริการเครือข่าย",
+        "correct": false
+      },
+      {
+        "text": "ผู้รับข้อความ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Subscriber ในระบบ Mobile Marketing หมายถึงใคร?",
+    "info": "Subscriber คือผู้รับบริโภคข้อความทางการตลาด",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ผู้รับข้อความ",
+        "correct": true
+      },
+      {
+        "text": "ผู้ให้บริการ",
+        "correct": false
+      },
+      {
+        "text": "ผู้พัฒนา",
+        "correct": false
+      },
+      {
+        "text": "ผู้ผลิตสื่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Business ในกลุ่มผู้เกี่ยวข้องของ Mobile Marketing หมายถึงใคร?",
+    "info": "Business คือธุรกิจที่ใช้บริการสื่อเพื่อทำกิจกรรมทางการตลาด",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ธุรกิจที่ใช้การตลาดผ่านมือถือ",
+        "correct": true
+      },
+      {
+        "text": "ผู้ให้บริการเครือข่าย",
+        "correct": false
+      },
+      {
+        "text": "ผู้พัฒนาโทรศัพท์",
+        "correct": false
+      },
+      {
+        "text": "ผู้ผลิตสื่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือระบบการตลาดด้วยโทรศัพท์มือถือที่กล่าวถึงในเอกสาร?",
+    "info": "ระบบที่กล่าวถึง: SMS, MMS, IVR, WAP, Bluecast, Proximity Advertising, 2D Barcode, Mobile Blog",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "SMS",
+        "correct": true
+      },
+      {
+        "text": "Email",
+        "correct": false
+      },
+      {
+        "text": "Facebook",
+        "correct": false
+      },
+      {
+        "text": "LINE",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "IVR ย่อมาจากอะไร?",
+    "info": "IVR ย่อมาจาก Interactive Voice Response",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Interactive Voice Response",
+        "correct": true
+      },
+      {
+        "text": "Internet Voice Response",
+        "correct": false
+      },
+      {
+        "text": "Integrated Voice Response",
+        "correct": false
+      },
+      {
+        "text": "International Voice Response",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "WAP ย่อมาจากอะไร?",
+    "info": "WAP ย่อมาจาก Wireless Application Protocol",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Wireless Application Protocol",
+        "correct": true
+      },
+      {
+        "text": "Wide Area Protocol",
+        "correct": false
+      },
+      {
+        "text": "Web Application Protocol",
+        "correct": false
+      },
+      {
+        "text": "Wireless Access Point",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Bluecast ใน Mobile Marketing เกี่ยวข้องกับเทคโนโลยีใด?",
+    "info": "Bluecast น่าจะเกี่ยวข้องกับการส่งข้อมูลผ่านบลูทูธ (Bluetooth)",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Bluetooth",
+        "correct": true
+      },
+      {
+        "text": "WiFi",
+        "correct": false
+      },
+      {
+        "text": "Infrared",
+        "correct": false
+      },
+      {
+        "text": "NFC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Proximity Advertising คืออะไร?",
+    "info": "Proximity Advertising คือการโฆษณาใกล้เคียง โดยส่งข้อความเมื่อผู้ใช้อยู่ใกล้สถานที่",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การโฆษณาเมื่อผู้ใช้อยู่ใกล้สถานที่",
+        "correct": true
+      },
+      {
+        "text": "การโฆษณาทางไกล",
+        "correct": false
+      },
+      {
+        "text": "การโฆษณาผ่านทีวี",
+        "correct": false
+      },
+      {
+        "text": "การโฆษณาผ่านวิทยุ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "2D Barcode ใน Mobile Marketing หมายถึงอะไร?",
+    "info": "2D Barcode คือบาร์โค้ดสองมิติ เช่น คิวอาร์โค้ด ที่สามารถสแกนด้วยมือถือ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "คิวอาร์โค้ด",
+        "correct": true
+      },
+      {
+        "text": "บาร์โค้ดสินค้าทั่วไป",
+        "correct": false
+      },
+      {
+        "text": "รหัสไปรษณีย์",
+        "correct": false
+      },
+      {
+        "text": "เลขที่บัญชี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Blog คืออะไร?",
+    "info": "Mobile Blog คือบล็อกที่ออกแบบสำหรับเข้าถึงผ่านโทรศัพท์เคลื่อนที่",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "บล็อกบนมือถือ",
+        "correct": true
+      },
+      {
+        "text": "บล็อกบนคอมพิวเตอร์",
+        "correct": false
+      },
+      {
+        "text": "เว็บไซต์ทั่วไป",
+        "correct": false
+      },
+      {
+        "text": "แอปพลิเคชันเกม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อดีของ Mobile Marketing ในด้านการกระจายข้อความเป็นอย่างไร?",
+    "info": "Mobile Marketing สามารถกระจายข้อความไปในวงกว้าง ไม่ตกหล่น ไม่ว่าลูกค้าจะอยู่ที่ไหน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "กระจายวงกว้าง ไม่ตกหล่น",
+        "correct": true
+      },
+      {
+        "text": "กระจายเฉพาะในเมือง",
+        "correct": false
+      },
+      {
+        "text": "กระจายเฉพาะกลุ่ม",
+        "correct": false
+      },
+      {
+        "text": "กระจายเฉพาะวันหยุด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing ช่วยให้เกิดการบอกต่อแบบใด?",
+    "info": "Mobile Marketing ช่วยให้เกิดการบอกต่อแบบปากต่อปาก เพราะส่งต่อได้ง่าย",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ปากต่อปาก",
+        "correct": true
+      },
+      {
+        "text": "ทางการ",
+        "correct": false
+      },
+      {
+        "text": "โฆษณา",
+        "correct": false
+      },
+      {
+        "text": "ประชาสัมพันธ์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธุรกิจที่ประสบความสำเร็จในยุคเครือข่ายไร้สายต้องมีการทำงานแบบใด?",
+    "info": "ธุรกิจต้องทำงานแบบ Real-time เพื่อตอบสนองความต้องการผู้บริโภคที่รวดเร็ว",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Real-time",
+        "correct": true
+      },
+      {
+        "text": "One-time",
+        "correct": false
+      },
+      {
+        "text": "Part-time",
+        "correct": false
+      },
+      {
+        "text": "Full-time",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ความคาดหวังของผู้บริโภคเมื่อมีเครือข่ายไร้สายเป็นอย่างไร?",
+    "info": "เครือข่ายไร้สายทำให้ความคาดหวังของผู้บริโภคสูงขึ้น",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สูงขึ้น",
+        "correct": true
+      },
+      {
+        "text": "ต่ำลง",
+        "correct": false
+      },
+      {
+        "text": "เท่าเดิม",
+        "correct": false
+      },
+      {
+        "text": "ไม่แน่นอน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing เป็นการสื่อสารลักษณะใด?",
+    "info": "Mobile Marketing เป็นลักษณะ Multi-casting เน้นกลุ่มเป้าหมายหลัก",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Multi-casting",
+        "correct": true
+      },
+      {
+        "text": "Broadcasting",
+        "correct": false
+      },
+      {
+        "text": "Narrowcasting",
+        "correct": false
+      },
+      {
+        "text": "Unicasting",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ต้นทุนทางการตลาดของ Mobile Marketing เมื่อเทียบกับสื่ออื่นเป็นอย่างไร?",
+    "info": "Mobile Marketing มีต้นทุนทางการตลาดต่ำ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ต่ำ",
+        "correct": true
+      },
+      {
+        "text": "สูง",
+        "correct": false
+      },
+      {
+        "text": "ปานกลาง",
+        "correct": false
+      },
+      {
+        "text": "แปรผัน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือตัวอย่าง Mobile Network Operator ที่ระบุในเอกสาร?",
+    "info": "เอกสารระบุชื่อผู้ให้บริการเครือข่าย เช่น AIS, DTAC, True Move, Hutch",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Hutch",
+        "correct": true
+      },
+      {
+        "text": "Nokia",
+        "correct": false
+      },
+      {
+        "text": "Motorola",
+        "correct": false
+      },
+      {
+        "text": "Samsung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือตัวอย่าง Mobile Developer ที่ระบุในเอกสาร?",
+    "info": "เอกสารระบุ Mobile Developer เช่น Nokia, Motorola, Samsung",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Motorola",
+        "correct": true
+      },
+      {
+        "text": "AIS",
+        "correct": false
+      },
+      {
+        "text": "DTAC",
+        "correct": false
+      },
+      {
+        "text": "True",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing ช่วยรักษาฐานลูกค้าอย่างไร?",
+    "info": "Mobile Marketing ช่วยรักษาฐานลูกค้าให้จงรักภักดีต่อแบรนด์",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "รักษาความภักดีต่อแบรนด์",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มยอดขาย",
+        "correct": false
+      },
+      {
+        "text": "ลดต้นทุน",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มพนักงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing ช่วยให้ได้มาซึ่งอะไร?",
+    "info": "Mobile Marketing ช่วยให้ได้มาซึ่งฐานข้อมูลลูกค้าที่ทันสมัย",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ฐานข้อมูลลูกค้า",
+        "correct": true
+      },
+      {
+        "text": "ฐานข้อมูลคู่แข่ง",
+        "correct": false
+      },
+      {
+        "text": "ฐานข้อมูลสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ฐานข้อมูลพนักงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การส่งข้อความ Multimedia ใน Mobile Marketing เรียกว่าอะไร?",
+    "info": "การส่งข้อความ Multimedia เรียกว่า MMS",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "MMS",
+        "correct": true
+      },
+      {
+        "text": "SMS",
+        "correct": false
+      },
+      {
+        "text": "IVR",
+        "correct": false
+      },
+      {
+        "text": "WAP",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เปอร์เซ็นต์การตอบรับของ Mobile Marketing มากกว่า direct mail กี่เท่าโดยประมาณ?",
+    "info": "Mobile Marketing ตอบรับ 15% direct mail 2-3% ดังนั้นมากกว่าประมาณ 5-7 เท่า",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "5-7 เท่า",
+        "correct": true
+      },
+      {
+        "text": "2 เท่า",
+        "correct": false
+      },
+      {
+        "text": "10 เท่า",
+        "correct": false
+      },
+      {
+        "text": "3 เท่า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จำนวนผู้ใช้โทรศัพท์เคลื่อนที่ในประเทศไทยตามเอกสารคือเท่าใด?",
+    "info": "เอกสารระบุว่ามีผู้ใช้โทรศัพท์เคลื่อนที่มากกว่า 25 ล้านราย",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "25 ล้านราย",
+        "correct": true
+      },
+      {
+        "text": "30 ล้านราย",
+        "correct": false
+      },
+      {
+        "text": "40 ล้านราย",
+        "correct": false
+      },
+      {
+        "text": "50 ล้านราย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ตัวอย่างธุรกิจที่กล่าวถึงในหน้า 11 ของเอกสารคือข้อใด?",
+    "info": "หน้า 11 กล่าวถึง Tesco Home Plus, E-Mart, Automated Retail, IKEA Bang Na",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Tesco Home Plus",
+        "correct": true
+      },
+      {
+        "text": "7-Eleven",
+        "correct": false
+      },
+      {
+        "text": "Big C",
+        "correct": false
+      },
+      {
+        "text": "Lotus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Automated Retail คืออะไร?",
+    "info": "Automated Retail คือการขายปลีกอัตโนมัติ เช่น ตู้จำหน่ายสินค้าอัตโนมัติ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ตู้จำหน่ายสินค้าอัตโนมัติ",
+        "correct": true
+      },
+      {
+        "text": "ร้านค้าออนไลน์",
+        "correct": false
+      },
+      {
+        "text": "ห้างสรรพสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ร้านสะดวกซื้อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "IKEA Bang Na ประเทศไทย เกี่ยวข้องกับอะไร?",
+    "info": "IKEA Bang Na เป็นตัวอย่างที่กล่าวถึงในเอกสารเกี่ยวกับ Mobile Marketing",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ตัวอย่างธุรกิจ",
+        "correct": true
+      },
+      {
+        "text": "ผู้ให้บริการเครือข่าย",
+        "correct": false
+      },
+      {
+        "text": "ผู้พัฒนาโทรศัพท์",
+        "correct": false
+      },
+      {
+        "text": "ผู้ผลิตสื่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Tesco Home Plus VS E-Mart เป็นตัวอย่างของอะไร?",
+    "info": "เป็นตัวอย่างที่กล่าวถึงในเอกสารเกี่ยวกับ Mobile Marketing",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "กรณีศึกษา Mobile Marketing",
+        "correct": true
+      },
+      {
+        "text": "ผู้ให้บริการเครือข่าย",
+        "correct": false
+      },
+      {
+        "text": "ผู้พัฒนาโทรศัพท์",
+        "correct": false
+      },
+      {
+        "text": "ผู้ผลิตสื่อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing มีข้อดีกี่ข้อที่กล่าวถึงในเอกสาร?",
+    "info": "เอกสารกล่าวถึงข้อดีของ Mobile Marketing หลายข้อ เช่น ความไว ราคาถูก กระจายวงกว้าง การตอบรับดี เจาะกลุ่ม และการบอกต่อ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "6 ข้อ",
+        "correct": true
+      },
+      {
+        "text": "4 ข้อ",
+        "correct": false
+      },
+      {
+        "text": "5 ข้อ",
+        "correct": false
+      },
+      {
+        "text": "7 ข้อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ความรวดเร็วในการทำธุรกิจจากเทคโนโลยีใหม่เมื่อเทียบกับความต้องการของผู้บริโภคเป็นอย่างไร?",
+    "info": "ความรวดเร็วของธุรกิจยังเร็วไม่พอ เมื่อเทียบกับความต้องการของผู้บริโภค",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "เร็วไม่พอ",
+        "correct": true
+      },
+      {
+        "text": "เร็วพอ",
+        "correct": false
+      },
+      {
+        "text": "เร็วกว่า",
+        "correct": false
+      },
+      {
+        "text": "ช้ากว่า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธุรกิจที่ประสบความสำเร็จต้องเคลื่อนไหวอย่างไร?",
+    "info": "ธุรกิจต้องเคลื่อนไหวอย่างรวดเร็วและล้ำหน้าในการออกแบบกลยุทธ์",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "รวดเร็วและล้ำหน้า",
+        "correct": true
+      },
+      {
+        "text": "ช้าและรอบคอบ",
+        "correct": false
+      },
+      {
+        "text": "ตามกระแส",
+        "correct": false
+      },
+      {
+        "text": "คงที่",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Marketing ช่วยให้ธุรกิจแสวงหาอะไรผ่านเครือข่ายไร้สาย?",
+    "info": "Mobile Marketing ช่วยในการแสวงหามูลค่าใหม่ในการทำธุรกิจผ่านเครือข่ายไร้สาย",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "มูลค่าใหม่",
+        "correct": true
+      },
+      {
+        "text": "ลูกค้าใหม่",
+        "correct": false
+      },
+      {
+        "text": "พนักงานใหม่",
+        "correct": false
+      },
+      {
+        "text": "คู่แข่งใหม่",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เครือข่ายไร้สายทำให้เกิดอะไรในการทำธุรกิจ?",
+    "info": "เครือข่ายไร้สายทำให้เกิดทั้งโอกาสและความซับซ้อนในการทำธุรกิจ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "โอกาสและความซับซ้อน",
+        "correct": true
+      },
+      {
+        "text": "โอกาสอย่างเดียว",
+        "correct": false
+      },
+      {
+        "text": "ความซับซ้อนอย่างเดียว",
+        "correct": false
+      },
+      {
+        "text": "ความเสี่ยง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดไม่ใช่ระบบการตลาดด้วยโทรศัพท์มือถือที่กล่าวถึง?",
+    "info": "ระบบที่กล่าวถึง: SMS, MMS, IVR, WAP, Bluecast, Proximity Advertising, 2D Barcode, Mobile Blog",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Email Marketing",
+        "correct": true
+      },
+      {
+        "text": "SMS",
+        "correct": false
+      },
+      {
+        "text": "MMS",
+        "correct": false
+      },
+      {
+        "text": "IVR",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การส่งข้อความสั้นใน Mobile Marketing เรียกว่าอะไร?",
+    "info": "การส่งข้อความสั้นเรียกว่า SMS",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "SMS",
+        "correct": true
+      },
+      {
+        "text": "MMS",
+        "correct": false
+      },
+      {
+        "text": "IVR",
+        "correct": false
+      },
+      {
+        "text": "WAP",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Bluecast ใช้เทคโนโลยีใดในการส่งข้อมูล?",
+    "info": "Bluecast ใช้เทคโนโลยีบลูทูธในการส่งข้อมูล",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Bluetooth",
+        "correct": true
+      },
+      {
+        "text": "WiFi",
+        "correct": false
+      },
+      {
+        "text": "Infrared",
+        "correct": false
+      },
+      {
+        "text": "NFC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Proximity Advertising ใช้หลักการใด?",
+    "info": "Proximity Advertising ใช้หลักการส่งข้อความเมื่อผู้ใช้อยู่ในบริเวณใกล้เคียง",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ใกล้เคียง",
+        "correct": true
+      },
+      {
+        "text": "ไกลโพ้น",
+        "correct": false
+      },
+      {
+        "text": "สุ่ม",
+        "correct": false
+      },
+      {
+        "text": "ตามเวลา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "2D Barcode ที่นิยมใช้ในปัจจุบันคืออะไร?",
+    "info": "2D Barcode ที่นิยมคือคิวอาร์โค้ด (QR Code)",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "QR Code",
+        "correct": true
+      },
+      {
+        "text": "Barcode",
+        "correct": false
+      },
+      {
+        "text": "Data Matrix",
+        "correct": false
+      },
+      {
+        "text": "PDF417",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Mobile Blog แตกต่างจาก Blog ทั่วไปอย่างไร?",
+    "info": "Mobile Blog ออกแบบสำหรับเข้าถึงผ่านมือถือโดยเฉพาะ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ออกแบบสำหรับมือถือ",
+        "correct": true
+      },
+      {
+        "text": "เนื้อหาสั้นกว่า",
+        "correct": false
+      },
+      {
+        "text": "รูปภาพน้อยกว่า",
+        "correct": false
+      },
+      {
+        "text": "โฆษณามากกว่า",
+        "correct": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "text": "Search Engine Marketing หมายถึงอะไร?",
+    "info": "การตลาดพาณิชย์อิเล็กทรอนิกส์โดยใช้เว็บไซต์ค้นหาข้อมูล เพื่อให้สินค้าหรือบริการปรากฏต่อลูกค้าที่กำลังค้นหา",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การตลาดโดยใช้เว็บไซต์ค้นหาข้อมูล",
+        "correct": true
+      },
+      {
+        "text": "การตลาดผ่านสื่อสังคมออนไลน์",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านอีเมล",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านแอปพลิเคชันมือถือ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ผู้ใช้ใช้สิ่งใดในการค้นหาข้อมูลบนเว็บไซต์ค้นหาข้อมูล?",
+    "info": "ผู้ใช้ใช้คำคีย์เวิร์ดหรือประโยคสั้นๆ ในการค้นหาข้อมูลที่ต้องการ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "คีย์เวิร์ดหรือประโยคสั้นๆ",
+        "correct": true
+      },
+      {
+        "text": "รูปภาพ",
+        "correct": false
+      },
+      {
+        "text": "วิดีโอ",
+        "correct": false
+      },
+      {
+        "text": "ไฟล์เสียง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หลักการทำงานของเว็บไซต์ค้นหาข้อมูลมีกี่ขั้นตอน?",
+    "info": "มี 3 ขั้นตอน คือ การตรวจค้นหา (Crawling) การรวบรวม (Indexing) และการแสดงผล (Searching)",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "3 ขั้นตอน",
+        "correct": true
+      },
+      {
+        "text": "2 ขั้นตอน",
+        "correct": false
+      },
+      {
+        "text": "4 ขั้นตอน",
+        "correct": false
+      },
+      {
+        "text": "5 ขั้นตอน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "โปรแกรมที่ใช้ในการตรวจสอบและเก็บข้อมูลเว็บเพจเรียกว่าอะไร?",
+    "info": "โปรแกรมนี้เรียกว่า Spider หรือ Robot",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Spider หรือ Robot",
+        "correct": true
+      },
+      {
+        "text": "Browser",
+        "correct": false
+      },
+      {
+        "text": "Compiler",
+        "correct": false
+      },
+      {
+        "text": "Interpreter",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์ค้นหาข้อมูลที่ได้รับความนิยมมากที่สุดคืออะไร?",
+    "info": "Google เป็นเว็บไซต์ค้นหาข้อมูลที่ได้รับความนิยมมากที่สุด รองลงมาคือ Yahoo! และ MSN",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Google",
+        "correct": true
+      },
+      {
+        "text": "Yahoo!",
+        "correct": false
+      },
+      {
+        "text": "MSN",
+        "correct": false
+      },
+      {
+        "text": "Bing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "วิธีการทำตลาดโดยใช้เว็บไซต์ค้นหาข้อมูลมีกี่แบบ?",
+    "info": "มี 2 แบบ คือ SEO และ PPC",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "2 แบบ",
+        "correct": true
+      },
+      {
+        "text": "3 แบบ",
+        "correct": false
+      },
+      {
+        "text": "4 แบบ",
+        "correct": false
+      },
+      {
+        "text": "5 แบบ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "SEO ย่อมาจากอะไร?",
+    "info": "SEO ย่อมาจาก Search Engine Optimization",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Search Engine Optimization",
+        "correct": true
+      },
+      {
+        "text": "Search Engine Operation",
+        "correct": false
+      },
+      {
+        "text": "Social Engagement Optimization",
+        "correct": false
+      },
+      {
+        "text": "Search Engine Offering",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "PPC ย่อมาจากอะไร?",
+    "info": "PPC ย่อมาจาก Pay Per Click",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Pay Per Click",
+        "correct": true
+      },
+      {
+        "text": "Price Per Click",
+        "correct": false
+      },
+      {
+        "text": "Profit Per Click",
+        "correct": false
+      },
+      {
+        "text": "Promotion Per Click",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การตรวจค้นหาข้อมูล (Crawling) คืออะไร?",
+    "info": "คือการเก็บรวบรวมข้อมูลเว็บเพจต่างๆ ไว้ในฐานข้อมูล โดยโปรแกรม Spider หรือ Robot",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การเก็บรวบรวมข้อมูลเว็บเพจ",
+        "correct": true
+      },
+      {
+        "text": "การแสดงผลการค้นหา",
+        "correct": false
+      },
+      {
+        "text": "การจัดอันดับเว็บเพจ",
+        "correct": false
+      },
+      {
+        "text": "การลงโฆษณา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การรวบรวมข้อมูล (Indexing) คืออะไร?",
+    "info": "คือการนำข้อมูลที่ได้มาจัดเก็บเข้าสู่ฐานข้อมูลและจัดหมวดหมู่เพื่อการค้นหา",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การจัดเก็บและจัดหมวดหมู่ข้อมูล",
+        "correct": true
+      },
+      {
+        "text": "การสืบค้นข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "การลบข้อมูลที่ไม่เกี่ยวข้อง",
+        "correct": false
+      },
+      {
+        "text": "การปรับปรุงข้อมูล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การแสดงผลการค้นหา (Searching) คืออะไร?",
+    "info": "คือการประมวลผลหน้าเว็บที่เกี่ยวข้องกับคำค้นหา และแสดงผลเรียงตามความเกี่ยวข้อง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การประมวลผลและแสดงผลหน้าเว็บที่เกี่ยวข้อง",
+        "correct": true
+      },
+      {
+        "text": "การเก็บข้อมูลเว็บเพจ",
+        "correct": false
+      },
+      {
+        "text": "การจัดหมวดหมู่ข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "การลงทะเบียนเว็บไซต์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประโยชน์ของการใช้เว็บไซต์ค้นหาข้อมูลขึ้นอยู่กับอะไร?",
+    "info": "ขึ้นอยู่กับความสัมพันธ์ของคีย์เวิร์ดที่ใช้ค้นหากับข้อมูลในฐานข้อมูล",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ความสัมพันธ์ของคีย์เวิร์ดกับข้อมูล",
+        "correct": true
+      },
+      {
+        "text": "จำนวนผู้ใช้เว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "ความเร็วของอินเทอร์เน็ต",
+        "correct": false
+      },
+      {
+        "text": "ขนาดของฐานข้อมูล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "SEO คืออะไร?",
+    "info": "การปรับแต่งเว็บไซต์เพื่อให้ติดอันดับต้นๆ ในผลการค้นหาแบบไม่เสียค่าใช้จ่าย",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การปรับแต่งเว็บไซต์ให้ติดอันดับแบบไม่เสียค่าใช้จ่าย",
+        "correct": true
+      },
+      {
+        "text": "การลงโฆษณาแบบเสียเงิน",
+        "correct": false
+      },
+      {
+        "text": "การซื้อพื้นที่โฆษณา",
+        "correct": false
+      },
+      {
+        "text": "การส่งอีเมลหาลูกค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ผลลัพธ์ของ SEO แสดงในส่วนใดของหน้าผลการค้นหา?",
+    "info": "แสดงในส่วนของผลลัพธ์ด้านซ้ายมือ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ด้านซ้ายมือ",
+        "correct": true
+      },
+      {
+        "text": "ด้านขวามือ",
+        "correct": false
+      },
+      {
+        "text": "ด้านบน",
+        "correct": false
+      },
+      {
+        "text": "ด้านล่าง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "โฆษณาแบบ PPC แสดงในส่วนใดของหน้าผลการค้นหา?",
+    "info": "แสดงในส่วน Sponsored Links ด้านบนขวามือ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ด้านบนขวามือ",
+        "correct": true
+      },
+      {
+        "text": "ด้านซ้ายมือ",
+        "correct": false
+      },
+      {
+        "text": "ด้านล่าง",
+        "correct": false
+      },
+      {
+        "text": "กึ่งกลางหน้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ผู้ลงโฆษณาแบบ PPC จะเสียเงินเมื่อใด?",
+    "info": "เสียเงินเมื่อมีผู้คลิกเข้าชมโฆษณาในแต่ละครั้ง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เมื่อมีผู้คลิกโฆษณา",
+        "correct": true
+      },
+      {
+        "text": "เมื่อมีผู้เห็นโฆษณา",
+        "correct": false
+      },
+      {
+        "text": "เมื่อโฆษณาถูกแสดง",
+        "correct": false
+      },
+      {
+        "text": "เมื่อโฆษณาถูกบันทึก",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "หลักการจัดอันดับเว็บเพจของเว็บไซต์ค้นหาข้อมูลเรียกว่าอะไร?",
+    "info": "เรียกว่า อัลกอริทึม (Algorithms)",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "อัลกอริทึม",
+        "correct": true
+      },
+      {
+        "text": "โปรแกรม",
+        "correct": false
+      },
+      {
+        "text": "ระบบปฏิบัติการ",
+        "correct": false
+      },
+      {
+        "text": "ฐานข้อมูล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Search Engine Algorithm ประกอบด้วยอะไรบ้าง?",
+    "info": "ประกอบด้วย On-Page Factors และ Off-Page Factors",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "On-Page Factors + Off-Page Factors",
+        "correct": true
+      },
+      {
+        "text": "Content + Links",
+        "correct": false
+      },
+      {
+        "text": "Keywords + Description",
+        "correct": false
+      },
+      {
+        "text": "HTML + CSS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "On-Page Factors คืออะไร?",
+    "info": "องค์ประกอบที่อยู่บนเว็บเพจที่เราสามารถปรับเปลี่ยนได้เอง เช่น หัวเรื่อง เนื้อหา",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "องค์ประกอบบนเว็บเพจที่ปรับเปลี่ยนได้เอง",
+        "correct": true
+      },
+      {
+        "text": "องค์ประกอบภายนอกเว็บเพจ",
+        "correct": false
+      },
+      {
+        "text": "ลิงก์จากเว็บอื่น",
+        "correct": false
+      },
+      {
+        "text": "การกล่าวถึงในโซเชียลมีเดีย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Off-Page Factors คืออะไร?",
+    "info": "องค์ประกอบภายนอกเว็บเพจที่ไม่สามารถปรับเปลี่ยนได้เอง เช่น ลิงก์จากเว็บอื่น",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "องค์ประกอบภายนอกเว็บเพจ",
+        "correct": true
+      },
+      {
+        "text": "องค์ประกอบบนเว็บเพจ",
+        "correct": false
+      },
+      {
+        "text": "หัวเรื่องเว็บเพจ",
+        "correct": false
+      },
+      {
+        "text": "เนื้อหาในเว็บ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือตัวอย่างของ On-Page Factors?",
+    "info": "ตัวอย่างเช่น หัวเรื่องของเว็บเพจ (title tag) และเนื้อหาบนเว็บเพจ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "หัวเรื่องเว็บเพจ",
+        "correct": true
+      },
+      {
+        "text": "ลิงก์จากเว็บอื่น",
+        "correct": false
+      },
+      {
+        "text": "PageRank",
+        "correct": false
+      },
+      {
+        "text": "จำนวน Backlink",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือตัวอย่างของ Off-Page Factors?",
+    "info": "ตัวอย่างเช่น ลิงก์จากเว็บอื่น หรือการกล่าวถึงในสังคมออนไลน์",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ลิงก์จากเว็บอื่น",
+        "correct": true
+      },
+      {
+        "text": "หัวเรื่องเว็บเพจ",
+        "correct": false
+      },
+      {
+        "text": "คำอธิบายเว็บ",
+        "correct": false
+      },
+      {
+        "text": "เนื้อหา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เป้าหมายของการทำ SEO คือให้เว็บไซต์ติดอันดับไม่เกินเท่าใด?",
+    "info": "เป้าหมายคือให้ติดอันดับต้นๆ ไม่เกินอันดับที่ 20",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ไม่เกินอันดับ 20",
+        "correct": true
+      },
+      {
+        "text": "ไม่เกินอันดับ 10",
+        "correct": false
+      },
+      {
+        "text": "ไม่เกินอันดับ 30",
+        "correct": false
+      },
+      {
+        "text": "ไม่เกินอันดับ 50",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ประโยชน์ของการทำ SEO คืออะไร?",
+    "info": "เมื่อมีคนคลิกเข้าชมเว็บไซต์จากผลการค้นหา จะไม่เสียค่าใช้จ่ายใดๆ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ไม่เสียค่าใช้จ่ายเมื่อมีคนคลิก",
+        "correct": true
+      },
+      {
+        "text": "เสียค่าใช้จ่ายถูกกว่า PPC",
+        "correct": false
+      },
+      {
+        "text": "ได้ผลรวดเร็วกว่า",
+        "correct": false
+      },
+      {
+        "text": "ติดอันดับได้ง่ายกว่า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การที่เว็บไซต์ถูกค้นหาเจอด้วยคำค้นหา แสดงว่าอย่างไร?",
+    "info": "แสดงว่าเว็บไซต์มีคุณภาพในสายตาของเว็บไซต์ค้นหาข้อมูล",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เว็บไซต์มีคุณภาพ",
+        "correct": true
+      },
+      {
+        "text": "เว็บไซต์มีผู้เข้าชมมาก",
+        "correct": false
+      },
+      {
+        "text": "เว็บไซต์มีอายุมาก",
+        "correct": false
+      },
+      {
+        "text": "เว็บไซต์มีการออกแบบสวยงาม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ขั้นตอนในการทำ SEO มีทั้งหมดกี่ขั้นตอน?",
+    "info": "มี 8 ขั้นตอน ตามที่ระบุในเอกสาร",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "8 ขั้นตอน",
+        "correct": true
+      },
+      {
+        "text": "6 ขั้นตอน",
+        "correct": false
+      },
+      {
+        "text": "7 ขั้นตอน",
+        "correct": false
+      },
+      {
+        "text": "9 ขั้นตอน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ขั้นตอนแรกในการทำ SEO คืออะไร?",
+    "info": "การวิเคราะห์การแข่งขัน (Competitive Analysis)",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การวิเคราะห์การแข่งขัน",
+        "correct": true
+      },
+      {
+        "text": "การค้นหาคีย์เวิร์ด",
+        "correct": false
+      },
+      {
+        "text": "การปรับแต่ง On-Page",
+        "correct": false
+      },
+      {
+        "text": "การสร้างลิงก์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "SEO Copywriting คืออะไร?",
+    "info": "การเขียนเนื้อหาเว็บเพจให้ถูกหลักเว็บไซต์ค้นหาข้อมูล",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การเขียนเนื้อหาให้ถูกหลัก SEO",
+        "correct": true
+      },
+      {
+        "text": "การออกแบบเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "การสร้างลิงก์",
+        "correct": false
+      },
+      {
+        "text": "การลงทะเบียนเว็บไซต์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Link Building คืออะไร?",
+    "info": "การสร้างลิงก์ให้กับเว็บไซต์ เพื่อเพิ่มความน่าเชื่อถือ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การสร้างลิงก์ให้เว็บไซต์",
+        "correct": true
+      },
+      {
+        "text": "การเขียนเนื้อหา",
+        "correct": false
+      },
+      {
+        "text": "การออกแบบเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "การวิเคราะห์คู่แข่ง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธุรกิจที่นิยมทำ SEO โดยเน้นลูกค้าต่างประเทศคือข้อใด?",
+    "info": "ธุรกิจเช่น โรงแรม รีสอร์ท สายการบิน สนามกอล์ฟ สปา รถเช่า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "โรงแรม",
+        "correct": true
+      },
+      {
+        "text": "อสังหาริมทรัพย์",
+        "correct": false
+      },
+      {
+        "text": "ประกันภัย",
+        "correct": false
+      },
+      {
+        "text": "คอมพิวเตอร์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธุรกิจที่นิยมทำ SEO โดยเน้นลูกค้าในประเทศคือข้อใด?",
+    "info": "ธุรกิจเช่น อสังหาริมทรัพย์ ประกันภัย งานคอมพิวเตอร์ รถยนต์",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "อสังหาริมทรัพย์",
+        "correct": true
+      },
+      {
+        "text": "โรงแรม",
+        "correct": false
+      },
+      {
+        "text": "สายการบิน",
+        "correct": false
+      },
+      {
+        "text": "สปา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "คีย์เวิร์ดที่ใช้สำหรับ SEO เน้นลูกค้าต่างประเทศควรใช้ภาษาอะไร?",
+    "info": "ควรใช้คีย์เวิร์ดภาษาอังกฤษ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ภาษาอังกฤษ",
+        "correct": true
+      },
+      {
+        "text": "ภาษาไทย",
+        "correct": false
+      },
+      {
+        "text": "ภาษาจีน",
+        "correct": false
+      },
+      {
+        "text": "ภาษาญี่ปุ่น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "คีย์เวิร์ดที่ใช้สำหรับ SEO เน้นลูกค้าในประเทศควรใช้ภาษาอะไร?",
+    "info": "ควรใช้ภาษาไทยและภาษาอังกฤษ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ภาษาไทยและภาษาอังกฤษ",
+        "correct": true
+      },
+      {
+        "text": "ภาษาอังกฤษเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "ภาษาไทยเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "ภาษาจีน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์อายุ 0-1 ปีที่ทำ SEO เน้นต่างประเทศ ใช้เวลาประมาณเท่าใดในการติดอันดับ top 20 ใน google.com?",
+    "info": "ใช้ระยะเวลา 1 ปีขึ้นไป",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": true
+      },
+      {
+        "text": "6 เดือน - 1 ปี",
+        "correct": false
+      },
+      {
+        "text": "1-6 เดือน",
+        "correct": false
+      },
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์อายุ 1-2 ปีที่ทำ SEO เน้นต่างประเทศ ใช้เวลาประมาณเท่าใดในการติดอันดับ top 20 ใน google.com?",
+    "info": "ใช้ระยะเวลา 6 เดือน - 1 ปี",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "6 เดือน - 1 ปี",
+        "correct": true
+      },
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": false
+      },
+      {
+        "text": "1-6 เดือน",
+        "correct": false
+      },
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์อายุ 2 ปีขึ้นไปที่ทำ SEO เน้นต่างประเทศ ใช้เวลาประมาณเท่าใดในการติดอันดับ top 20 ใน google.com?",
+    "info": "ใช้ระยะเวลา 1-6 เดือน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "1-6 เดือน",
+        "correct": true
+      },
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": false
+      },
+      {
+        "text": "6 เดือน - 1 ปี",
+        "correct": false
+      },
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์อายุ 0-1 ปีที่ทำ SEO เน้นในประเทศ ใช้เวลาประมาณเท่าใดในการติดอันดับ top 20 ใน google.co.th?",
+    "info": "ใช้ระยะเวลา 1 ปีขึ้นไป",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": true
+      },
+      {
+        "text": "6 เดือน - 1 ปี",
+        "correct": false
+      },
+      {
+        "text": "1-6 เดือน",
+        "correct": false
+      },
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์อายุ 1-2 ปีที่ทำ SEO เน้นในประเทศ ใช้เวลาประมาณเท่าใดในการติดอันดับ top 20 ใน google.co.th?",
+    "info": "ใช้ระยะเวลา 6 เดือน - 1 ปี",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "6 เดือน - 1 ปี",
+        "correct": true
+      },
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": false
+      },
+      {
+        "text": "1-6 เดือน",
+        "correct": false
+      },
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์อายุ 2 ปีขึ้นไปที่ทำ SEO เน้นในประเทศ ใช้เวลาประมาณเท่าใดในการติดอันดับ top 20 ใน google.co.th?",
+    "info": "ใช้ระยะเวลา 1-6 เดือน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "1-6 เดือน",
+        "correct": true
+      },
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": false
+      },
+      {
+        "text": "6 เดือน - 1 ปี",
+        "correct": false
+      },
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การทำ SEO โดยใช้คีย์เวิร์ดภาษาไทย ใช้เวลาประมาณเท่าใดในการติดอันดับ top 20 ใน google.co.th?",
+    "info": "ใช้ระยะเวลา 1 เดือนขึ้นไป",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "1 เดือนขึ้นไป",
+        "correct": true
+      },
+      {
+        "text": "1 ปีขึ้นไป",
+        "correct": false
+      },
+      {
+        "text": "6 เดือน - 1 ปี",
+        "correct": false
+      },
+      {
+        "text": "1-6 เดือน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือธุรกิจที่นิยมทำ SEO เน้นลูกค้าต่างประเทศ?",
+    "info": "ธุรกิจเช่น สปา รถเช่า ทันตกรรม ตัวแทนท่องเที่ยว",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "สปา",
+        "correct": true
+      },
+      {
+        "text": "อสังหาริมทรัพย์",
+        "correct": false
+      },
+      {
+        "text": "ประกันภัย",
+        "correct": false
+      },
+      {
+        "text": "คอมพิวเตอร์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือธุรกิจที่นิยมทำ SEO เน้นลูกค้าในประเทศ?",
+    "info": "ธุรกิจเช่น ดอกไม้ รักษาความปลอดภัย อาหาร",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ดอกไม้",
+        "correct": true
+      },
+      {
+        "text": "โรงแรม",
+        "correct": false
+      },
+      {
+        "text": "สายการบิน",
+        "correct": false
+      },
+      {
+        "text": "สปา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "แหล่งอ้างอิงของเอกสารนี้มาจากหน่วยงานใด?",
+    "info": "สำนักพัฒนาผู้ประกอบธุรกิจ กรมพัฒนาธุรกิจการค้า กระทรวงพาณิชย์",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "กรมพัฒนาธุรกิจการค้า",
+        "correct": true
+      },
+      {
+        "text": "กระทรวงดิจิทัล",
+        "correct": false
+      },
+      {
+        "text": "สำนักงานสถิติ",
+        "correct": false
+      },
+      {
+        "text": "กระทรวงศึกษาธิการ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เว็บไซต์ใดที่ใช้อ้างอิงข้อมูลในเอกสารนี้?",
+    "info": "http://www.dbdacademy.com",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "dbdacademy.com",
+        "correct": true
+      },
+      {
+        "text": "google.com",
+        "correct": false
+      },
+      {
+        "text": "yahoo.com",
+        "correct": false
+      },
+      {
+        "text": "microsoft.com",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ความแตกต่างที่สำคัญระหว่าง On-Page Factors และ Off-Page Factors คืออะไร?",
+    "info": "On-Page Factors ปรับเปลี่ยนได้เองบนเว็บเพจ ส่วน Off-Page Factors ปรับเปลี่ยนไม่ได้ด้วยตนเอง",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "On-Page ปรับได้เอง, Off-Page ปรับไม่ได้",
+        "correct": true
+      },
+      {
+        "text": "On-Page ปรับไม่ได้, Off-Page ปรับได้",
+        "correct": false
+      },
+      {
+        "text": "ทั้งสองอย่างปรับได้เอง",
+        "correct": false
+      },
+      {
+        "text": "ทั้งสองอย่างปรับไม่ได้",
+        "correct": false
+      }
+    ]
+  }
+]

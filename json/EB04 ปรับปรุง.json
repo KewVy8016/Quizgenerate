@@ -1,0 +1,991 @@
+[
+  {
+    "text": "กลุ่ม Gen Z ตามรายงานของ ETDA ปี 2021 มีช่วงอายุเกิดระหว่างปีใด?",
+    "info": "รายงานระบุว่า Gen Z คือผู้ที่เกิดระหว่างปี 1997-2012",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "1997-2012",
+        "correct": true
+      },
+      {
+        "text": "1985-2000",
+        "correct": false
+      },
+      {
+        "text": "1990-2005",
+        "correct": false
+      },
+      {
+        "text": "2000-2015",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Gen Z ใช้อินเทอร์เน็ตเฉลี่ยวันละเท่าใด?",
+    "info": "Gen Z ใช้อินเทอร์เน็ตเฉลี่ย 12 ชั่วโมง 5 นาทีต่อวัน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "12 ชั่วโมง 5 นาที",
+        "correct": true
+      },
+      {
+        "text": "10 ชั่วโมง 30 นาที",
+        "correct": false
+      },
+      {
+        "text": "11 ชั่วโมง 20 นาที",
+        "correct": false
+      },
+      {
+        "text": "13 ชั่วโมง 15 นาที",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กิจกรรมที่ Gen Z ใช้เวลามากที่สุดบนอินเทอร์เน็ตคืออะไร?",
+    "info": "Gen Z ใช้เวลาเรียนออนไลน์มากที่สุด 5 ชั่วโมง 23 นาที",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เรียนออนไลน์",
+        "correct": true
+      },
+      {
+        "text": "ดู Streaming",
+        "correct": false
+      },
+      {
+        "text": "เล่นเกม",
+        "correct": false
+      },
+      {
+        "text": "ซื้อสินค้าออนไลน์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การตลาดออนไลน์ (Online Marketing) หมายถึงอะไร?",
+    "info": "การตลาดออนไลน์คือการทำการตลาดผ่านสื่อออนไลน์ เช่น การยิงโฆษณาบน Facebook, Google, YouTube, Instagram",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การตลาดผ่านสื่อออนไลน์ เช่น Facebook, Google, YouTube",
+        "correct": true
+      },
+      {
+        "text": "การตลาดผ่านโทรทัศน์",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านป้ายโฆษณา",
+        "correct": false
+      },
+      {
+        "text": "การตลาดทางไปรษณีย์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จุดประสงค์ของการทำการตลาดออนไลน์ข้อใดไม่ถูกต้อง?",
+    "info": "จุดประสงค์ที่ถูกต้องคือ เพิ่มช่องทางการขาย ให้ข้อมูล ประชาสัมพันธ์ จัดกิจกรรมส่งเสริมการขาย และบริการ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ลดต้นทุนการผลิต",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มช่องทางการขาย",
+        "correct": false
+      },
+      {
+        "text": "ให้ข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "จัดกิจกรรมส่งเสริมการขาย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ก่อนเริ่มขายของออนไลน์ ควรทำความเข้าใจเกี่ยวกับสินค้าในกี่ข้อ?",
+    "info": "ควรหาคำตอบเกี่ยวกับสินค้า 3 ข้อ ได้แก่ จุดเด่น ใครคือลูกค้า และคู่แข่งทำอย่างไร",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "3 ข้อ",
+        "correct": true
+      },
+      {
+        "text": "2 ข้อ",
+        "correct": false
+      },
+      {
+        "text": "4 ข้อ",
+        "correct": false
+      },
+      {
+        "text": "5 ข้อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดไม่ใช่สิ่งที่ควรรู้เกี่ยวกับสินค้าก่อนขายออนไลน์?",
+    "info": "สิ่งที่ควรรู้คือ จุดเด่นของสินค้า กลุ่มลูกค้าเป้าหมาย และการดำเนินงานของคู่แข่ง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ราคาขายของคู่แข่งแบบละเอียด",
+        "correct": true
+      },
+      {
+        "text": "สินค้าของคุณคืออะไร มีจุดเด่นอย่างไร",
+        "correct": false
+      },
+      {
+        "text": "ใครคือลูกค้าของคุณ",
+        "correct": false
+      },
+      {
+        "text": "คู่แข่งทำอย่างไรในโลกออนไลน์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Customer Persona มีประโยชน์อย่างไร?",
+    "info": "Customer Persona ช่วยให้เข้าใจลูกค้ามากขึ้น โดยการเขียนลักษณะลูกค้าเป้าหมาย",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ช่วยให้เข้าใจลูกค้าเพิ่มขึ้น",
+        "correct": true
+      },
+      {
+        "text": "ช่วยออกแบบโลโก้สินค้า",
+        "correct": false
+      },
+      {
+        "text": "ช่วยกำหนดราคาสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ช่วยเลือกทำเลที่ตั้งร้าน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ควรศึกษาคู่แข่งในลักษณะใด?",
+    "info": "ควรสืบแบบผู้ซื้อทั่วไป ดูว่าเขาแสดงอะไรให้ลูกค้าเห็น และพูดอย่างไรกับลูกค้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สวมรอยเป็นผู้ซื้อ ดูการนำเสนอและสื่อสารกับลูกค้า",
+        "correct": true
+      },
+      {
+        "text": "ขอข้อมูลการขายจากคู่แข่งโดยตรง",
+        "correct": false
+      },
+      {
+        "text": "จ้างพนักงานของคู่แข่งมาทำงาน",
+        "correct": false
+      },
+      {
+        "text": "คัดลอกเว็บไซต์คู่แข่งทั้งยวง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กล้วย NEXT 716 มีที่มาจากจังหวัดใดของญี่ปุ่น?",
+    "info": "NEXT 716 เป็นกล้วยปลอดสารพิษจากจังหวัดมิยาชากิ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "มิยาชากิ",
+        "correct": true
+      },
+      {
+        "text": "โอซาก้า",
+        "correct": false
+      },
+      {
+        "text": "ฮอกไกโด",
+        "correct": false
+      },
+      {
+        "text": "คุมาโมโตะ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Sugar Spot บนกล้วยคืออะไร?",
+    "info": "Sugar Spot คือจุดสีน้ำตาลที่เกิดขึ้นเมื่อกล้วยสุก แสดงว่ากล้วยหวานหอมพร้อมทาน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "จุดสีน้ำตาลที่เกิดจากความหวาน",
+        "correct": true
+      },
+      {
+        "text": "จุดที่กล้วยเริ่มเน่า",
+        "correct": false
+      },
+      {
+        "text": "รอยตำหนิจากการขนส่ง",
+        "correct": false
+      },
+      {
+        "text": "จุดที่แมลงกัด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ควรเก็บกล้วย NEXT 716 อย่างไรจนกว่า Sugar Spot จะขึ้น?",
+    "info": "ควรเก็บในอุณหภูมิปกติ รอจนกว่าจะมีจุดสีน้ำตาล",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เก็บในอุณหภูมิปกติ",
+        "correct": true
+      },
+      {
+        "text": "แช่ตู้เย็น",
+        "correct": false
+      },
+      {
+        "text": "แช่ช่องฟรีซ",
+        "correct": false
+      },
+      {
+        "text": "อบด้วยความร้อน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การมี Sugar Spot ช่วยลดความกังวลของลูกค้าอย่างไร?",
+    "info": "Sugar Spot บ่งบอกว่ากล้วยสุกพร้อมทาน จึงไม่ต้องกังวลเรื่องความดิบ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "แสดงว่ากล้วยสุกพร้อมทาน",
+        "correct": true
+      },
+      {
+        "text": "แสดงว่ากล้วยปลอดสารพิษ",
+        "correct": false
+      },
+      {
+        "text": "แสดงว่ากล้วยมีราคาแพง",
+        "correct": false
+      },
+      {
+        "text": "แสดงว่ากล้วยนำเข้าจากญี่ปุ่น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การแปรรูปสินค้าช่วยให้เกิดอะไร?",
+    "info": "การแปรรูปทำให้สินค้ามีราคาเอื้อมถึงและไม่เสียของ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ราคาเอื้อมถึง และไม่เสียของ",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มมูลค่า แต่เสียของง่าย",
+        "correct": false
+      },
+      {
+        "text": "ทำให้เก็บได้นานขึ้น แต่ราคาสูง",
+        "correct": false
+      },
+      {
+        "text": "ลดคุณภาพ แต่ขายดี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "โครงการมะม่วงในเอกสารมีเป้าหมายอย่างไร?",
+    "info": "โครงการมะม่วงมุ่งรวมกลุ่มและสร้างมาตรฐาน เพื่อให้เป็นของฝากระดับพรีเมี่ยม",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "รวมกลุ่มและสร้างมาตรฐาน เป็นของฝากพรีเมี่ยม",
+        "correct": true
+      },
+      {
+        "text": "ส่งออกมะม่วงไปต่างประเทศ",
+        "correct": false
+      },
+      {
+        "text": "แปรรูปมะม่วงเป็นน้ำผลไม้",
+        "correct": false
+      },
+      {
+        "text": "ปลูกมะม่วงอินทรีย์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือข้อดีของการตลาดออนไลน์ที่เกี่ยวกับการเข้าถึงลูกค้า?",
+    "info": "ข้อดีข้อหนึ่งคือ เข้าถึงกลุ่มเป้าหมายได้ง่าย หาลูกค้าใหม่ได้เร็ว",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เข้าถึงกลุ่มเป้าหมายได้ง่าย หาลูกค้าใหม่ได้เร็ว",
+        "correct": true
+      },
+      {
+        "text": "แสดงความเชี่ยวชาญ",
+        "correct": false
+      },
+      {
+        "text": "เนื้อหาหลากหลาย",
+        "correct": false
+      },
+      {
+        "text": "ค่าใช้จ่ายต่ำ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "AI Algorithm ช่วยในการตลาดออนไลน์อย่างไร?",
+    "info": "AI ช่วยกรองลูกค้าที่ตรงกับเป้าหมายตามอัตลักษณ์ที่ระบุ ลดการโฆษณาแบบหว่าน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "กรองลูกค้าตรงเป้าหมาย ลดการโฆษณาสูญเปล่า",
+        "correct": true
+      },
+      {
+        "text": "สร้างโฆษณาอัตโนมัติ",
+        "correct": false
+      },
+      {
+        "text": "ออกแบบเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "เขียนคอนเทนต์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การตลาดออนไลน์เปิดโอกาสให้ธุรกิจแสดงอะไรได้เต็มที่?",
+    "info": "เปิดโอกาสให้แสดงความเชี่ยวชาญผ่านแพลตฟอร์มออนไลน์",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ความเชี่ยวชาญ",
+        "correct": true
+      },
+      {
+        "text": "ความมั่งคั่ง",
+        "correct": false
+      },
+      {
+        "text": "จำนวนพนักงาน",
+        "correct": false
+      },
+      {
+        "text": "ขนาดกิจการ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "องค์ประกอบ 3 อย่างของสื่อการตลาดออนไลน์ให้มีประสิทธิภาพคืออะไร?",
+    "info": "ต้องมีความโดดเด่นมีเอกลักษณ์ หาข้อมูลง่ายน่าเชื่อถือ และเนื้อหาเกี่ยวข้องกับลูกค้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "โดดเด่น, น่าเชื่อถือ, เกี่ยวข้องกับลูกค้า",
+        "correct": true
+      },
+      {
+        "text": "สวยงาม, มีสีสัน, ภาพเคลื่อนไหว",
+        "correct": false
+      },
+      {
+        "text": "สั้น, กระชับ, ได้ใจความ",
+        "correct": false
+      },
+      {
+        "text": "มีโปรโมชั่น, ลดราคา, แจกของแถม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จากการสำรวจของ HubSpot กลุ่ม Lead จากช่องทางออนไลน์มีต้นทุนถูกกว่าออฟไลน์กี่เปอร์เซ็นต์?",
+    "info": "HubSpot ระบุว่าถูกกว่า 61%",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "61%",
+        "correct": true
+      },
+      {
+        "text": "51%",
+        "correct": false
+      },
+      {
+        "text": "71%",
+        "correct": false
+      },
+      {
+        "text": "41%",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เครื่องมือใดที่ไม่ใช่เครื่องมือวัดผลการตลาดออนไลน์?",
+    "info": "เครื่องมือวัดผล เช่น Google Adwords, Facebook Business Suite, TikTok For Business",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Microsoft Excel",
+        "correct": true
+      },
+      {
+        "text": "Google Adwords",
+        "correct": false
+      },
+      {
+        "text": "Facebook Business Suite",
+        "correct": false
+      },
+      {
+        "text": "TikTok For Business",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ROI ย่อมาจากอะไร?",
+    "info": "ROI ย่อมาจาก Return on Investment ใช้วัดผลตอบแทนจากการลงทุน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Return on Investment",
+        "correct": true
+      },
+      {
+        "text": "Rate of Interest",
+        "correct": false
+      },
+      {
+        "text": "Return on Income",
+        "correct": false
+      },
+      {
+        "text": "Revenue on Investment",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การสร้างกลุ่มออนไลน์มีประโยชน์อย่างไร?",
+    "info": "ช่วยสร้างเครือข่ายพูดคุยระหว่างธุรกิจและลูกค้า ทำให้เข้าใจลูกค้ามากขึ้น",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สร้างเครือข่ายพูดคุย เข้าใจลูกค้า",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มยอดขายทันที",
+        "correct": false
+      },
+      {
+        "text": "ลดต้นทุนการผลิต",
+        "correct": false
+      },
+      {
+        "text": "โฆษณาแฝง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ช่องทางการตลาดออนไลน์ใดที่ไม่ต้องเสียค่าใช้จ่ายโดยตรงต่อการคลิก?",
+    "info": "SEO (Search Engine Optimization) เป็นการทำให้ติดอันดับแบบอินทรีย์ ไม่เสียค่าโฆษณา",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "SEO",
+        "correct": true
+      },
+      {
+        "text": "SEM",
+        "correct": false
+      },
+      {
+        "text": "PPC",
+        "correct": false
+      },
+      {
+        "text": "Influencers Marketing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "SMM ย่อมาจากอะไร?",
+    "info": "SMM ย่อมาจาก Social Media Marketing",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Social Media Marketing",
+        "correct": true
+      },
+      {
+        "text": "Search Media Marketing",
+        "correct": false
+      },
+      {
+        "text": "Sales Management Marketing",
+        "correct": false
+      },
+      {
+        "text": "System Marketing Management",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "แพลตฟอร์มโซเชียลมีเดียที่เป็นที่นิยมในปัจจุบันตามเอกสารได้แก่?",
+    "info": "แพลตฟอร์มที่นิยมได้แก่ Instagram, Facebook, X และ Line",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Instagram, Facebook, X, Line",
+        "correct": true
+      },
+      {
+        "text": "TikTok, LinkedIn, Pinterest",
+        "correct": false
+      },
+      {
+        "text": "YouTube, WhatsApp, WeChat",
+        "correct": false
+      },
+      {
+        "text": "Snapchat, Telegram, Reddit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "บทสรุปของเอกสารกล่าวว่าการผลิตคอนเทนต์สำหรับการตลาดออนไลน์ต้องคำนึงถึงอะไร?",
+    "info": "ต้องคำนึงถึงคุณภาพของคอนเทนต์ และความเกี่ยวข้องของเนื้อหากับผู้ใช้งาน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "คุณภาพและความเกี่ยวข้องกับผู้ใช้",
+        "correct": true
+      },
+      {
+        "text": "ปริมาณและความถี่",
+        "correct": false
+      },
+      {
+        "text": "ความสวยงามและสีสัน",
+        "correct": false
+      },
+      {
+        "text": "ความยาวและรูปแบบ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Gen Z ใช้อินเทอร์เน็ตในการติดต่อสื่อสารออนไลน์เฉลี่ยวันละเท่าใด?",
+    "info": "Gen Z ใช้เวลาในการติดต่อสื่อสารออนไลน์ 3 ชั่วโมง 39 นาทีต่อวัน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "3 ชั่วโมง 39 นาที",
+        "correct": true
+      },
+      {
+        "text": "4 ชั่วโมง 11 นาที",
+        "correct": false
+      },
+      {
+        "text": "5 ชั่วโมง 23 นาที",
+        "correct": false
+      },
+      {
+        "text": "2 ชั่วโมง 50 นาที",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Gen Y ถูกแซงหน้าโดย Gen Z ในด้านการใช้อินเทอร์เน็ตตั้งแต่ปีใด?",
+    "info": "Gen Z แซงหน้า Gen Y ตั้งแต่ปี 2018 ตามรายงาน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "2018",
+        "correct": true
+      },
+      {
+        "text": "2015",
+        "correct": false
+      },
+      {
+        "text": "2020",
+        "correct": false
+      },
+      {
+        "text": "2021",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กิจกรรมที่ Gen Z ใช้เวลาน้อยที่สุดในสามกิจกรรมหลักคืออะไร?",
+    "info": "สามกิจกรรมหลักคือ เรียนออนไลน์ 5 ชั่วโมง 23 นาที, ดู Streaming 4 ชั่วโมง 11 นาที, ติดต่อสื่อสาร 3 ชั่วโมง 39 นาที",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ติดต่อสื่อสารออนไลน์",
+        "correct": true
+      },
+      {
+        "text": "เรียนออนไลน์",
+        "correct": false
+      },
+      {
+        "text": "ดู Streaming",
+        "correct": false
+      },
+      {
+        "text": "เล่นเกม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดไม่ใช่จุดประสงค์ของการทำการตลาดออนไลน์ที่ระบุในเอกสาร?",
+    "info": "จุดประสงค์ที่ระบุคือ เพิ่มช่องทางการขาย ให้ข้อมูล สื่อประชาสัมพันธ์ จัดกิจกรรมส่งเสริมการขาย และบริการ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ลดภาษี",
+        "correct": true
+      },
+      {
+        "text": "ให้ข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "จัดกิจกรรมส่งเสริมการขาย",
+        "correct": false
+      },
+      {
+        "text": "บริการ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กล้วย NEXT 716 ได้รับรางวัลอะไรในปี 2020?",
+    "info": "กล้วย NEXT 716 ได้รับรางวัลกรรมการ (審查員賞) ในปี 2020",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "รางวัลกรรมการ",
+        "correct": true
+      },
+      {
+        "text": "รางวัลชนะเลิศ",
+        "correct": false
+      },
+      {
+        "text": "รางวัลยอดเยี่ยม",
+        "correct": false
+      },
+      {
+        "text": "รางวัลนวัตกรรม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การแปรรูปสินค้าช่วยให้เกิดผลดีสองประการคืออะไร?",
+    "info": "การแปรรูปทำให้ราคาเอื้อมถึงและไม่เสียของ ตามที่ระบุในเอกสาร",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ราคาเอื้อมถึง และไม่เสียของ",
+        "correct": true
+      },
+      {
+        "text": "คุณภาพดีขึ้น และราคาสูงขึ้น",
+        "correct": false
+      },
+      {
+        "text": "เก็บได้นานขึ้น และขนส่งง่าย",
+        "correct": false
+      },
+      {
+        "text": "รสชาติดีขึ้น และหาซื้อง่าย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "โครงการมะม่วงมีแนวทางในการทำการตลาดอย่างไร?",
+    "info": "โครงการมะม่วงรวมกลุ่มและสร้างมาตรฐาน เพื่อทำให้เป็นของฝากระดับพรีเมี่ยม",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "รวมกลุ่ม สร้างมาตรฐาน เป็นของฝากพรีเมี่ยม",
+        "correct": true
+      },
+      {
+        "text": "ปลูกเอง ขายเอง ส่งออกเอง",
+        "correct": false
+      },
+      {
+        "text": "ลดราคา แจกของแถม ประชาสัมพันธ์",
+        "correct": false
+      },
+      {
+        "text": "ขายส่ง ขายปลีก ขายออนไลน์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือปัจจัยที่ AI นำมาประมวลผลเพื่อกรองลูกค้าเป้าหมาย?",
+    "info": "AI ใช้ปัจจัย เช่น เพศ ที่อยู่อาศัย อายุ ความสนใจ หน้าที่การงาน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "เพศ, ที่อยู่อาศัย, อายุ, ความสนใจ, หน้าที่การงาน",
+        "correct": true
+      },
+      {
+        "text": "ชื่อ, นามสกุล, เบอร์โทรศัพท์",
+        "correct": false
+      },
+      {
+        "text": "รายได้, อาชีพ, การศึกษา",
+        "correct": false
+      },
+      {
+        "text": "พฤติกรรมการซื้อ, ประวัติการค้นหา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จากผลสำรวจของ HubSpot กลุ่ม Lead ส่วนใหญ่มาจากช่องทางใด?",
+    "info": "กลุ่ม Lead ส่วนใหญ่มักมาจากช่องทางออนไลน์ เช่น บล็อก โซเชียลมีเดีย และ SEO",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ช่องทางออนไลน์",
+        "correct": true
+      },
+      {
+        "text": "ช่องทางออฟไลน์",
+        "correct": false
+      },
+      {
+        "text": "โทรทัศน์",
+        "correct": false
+      },
+      {
+        "text": "วิทยุ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ค่าใช้จ่ายที่ลดลงในการตลาดออนไลน์เมื่อเทียบกับออฟไลน์คือค่าใช้จ่ายใด?",
+    "info": "ลดต้นทุนค่าเดินทางโปรโมทและค่าพิมพ์ป้ายโฆษณา",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ค่าเดินทางโปรโมทและค่าพิมพ์ป้าย",
+        "correct": true
+      },
+      {
+        "text": "ค่าวัตถุดิบและค่าแรงงาน",
+        "correct": false
+      },
+      {
+        "text": "ค่าเช่าสถานที่และค่าสาธารณูปโภค",
+        "correct": false
+      },
+      {
+        "text": "ค่าภาษีและค่าธรรมเนียม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เครื่องมือใดที่ใช้ในการวัดผลการตลาดออนไลน์?",
+    "info": "เครื่องมือ เช่น Google Adwords, Facebook Business Suite, TikTok For Business",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Google Adwords",
+        "correct": true
+      },
+      {
+        "text": "Adobe Photoshop",
+        "correct": false
+      },
+      {
+        "text": "Microsoft Word",
+        "correct": false
+      },
+      {
+        "text": "AutoCAD",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ตัวชี้วัดใดที่สามารถวัดได้จากเครื่องมือการตลาดออนไลน์?",
+    "info": "สามารถวัด Engagement, ROI, ROAS, Impression, CPC, CTR ได้",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Engagement, ROI, Impression",
+        "correct": true
+      },
+      {
+        "text": "จำนวนพนักงาน, ต้นทุนการผลิต",
+        "correct": false
+      },
+      {
+        "text": "ยอดขาย, กำไร, ขาดทุน",
+        "correct": false
+      },
+      {
+        "text": "อายุลูกค้า, เพศ, รายได้",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "การสร้างกลุ่มออนไลน์ช่วยให้ธุรกิจส่งมอบอะไรให้ลูกค้าได้ดีขึ้น?",
+    "info": "ช่วยส่งมอบความต้องการของลูกค้าได้ตรงจุดและรวดเร็วยิ่งขึ้น",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ความต้องการของลูกค้าได้ตรงจุดและรวดเร็ว",
+        "correct": true
+      },
+      {
+        "text": "สินค้าฟรี",
+        "correct": false
+      },
+      {
+        "text": "คูปองส่วนลด",
+        "correct": false
+      },
+      {
+        "text": "บริการหลังการขาย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ช่องทางการตลาดออนไลน์ที่เน้นการสร้างเนื้อหามีคุณค่าเพื่อดึงดูดลูกค้าคืออะไร?",
+    "info": "Content Marketing คือการสร้างเนื้อหาที่มีคุณค่าเพื่อดึงดูดลูกค้า",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Content Marketing",
+        "correct": true
+      },
+      {
+        "text": "Email Marketing",
+        "correct": false
+      },
+      {
+        "text": "Video Marketing",
+        "correct": false
+      },
+      {
+        "text": "Affiliate Marketing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Influencers Marketing อาศัยหลักการใดในการทำการตลาด?",
+    "info": "Influencers Marketing ใช้ผู้มีอิทธิพลทางความคิดเพื่อโน้มน้าวผู้ติดตาม",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ใช้ผู้มีอิทธิพลโน้มน้าวผู้ติดตาม",
+        "correct": true
+      },
+      {
+        "text": "ใช้การโฆษณาผ่านทีวี",
+        "correct": false
+      },
+      {
+        "text": "ใช้การลดราคาสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ใช้การแจกสินค้าฟรี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "จุดเด่นของการตลาดผ่าน Social Media เมื่อเทียบกับ Email Marketing คืออะไร?",
+    "info": "Social Media เป็นพื้นที่กลางที่ธุรกิจสามารถสื่อสารกับลูกค้าได้โดยตรงและสร้าง Engagement",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "สื่อสารสองทางและสร้าง Engagement",
+        "correct": true
+      },
+      {
+        "text": "เสียค่าใช้จ่ายถูกกว่า",
+        "correct": false
+      },
+      {
+        "text": "ส่งข้อความได้จำนวนมากกว่า",
+        "correct": false
+      },
+      {
+        "text": "ไม่ต้องขออนุญาตผู้รับ",
+        "correct": false
+      }
+    ]
+  }
+]

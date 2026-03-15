@@ -1,0 +1,1175 @@
+[
+  {
+    "text": "ในช่วงทศวรรษ 2015-2025 เทคโนโลยีสารสนเทศมีบทบาทอย่างไรต่อธุรกิจ?",
+    "info": "เทคโนโลยีสารสนเทศไม่ได้เป็นเพียงเครื่องมือสนับสนุน แต่กลายเป็นหัวใจหลักของการดำเนินธุรกิจ",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "เป็นหัวใจหลักของการดำเนินธุรกิจ",
+        "correct": true
+      },
+      {
+        "text": "เป็นเพียงเครื่องมือสนับสนุนทั่วไป",
+        "correct": false
+      },
+      {
+        "text": "ไม่มีบทบาทสำคัญ",
+        "correct": false
+      },
+      {
+        "text": "เป็นอุปกรณ์สำนักงานทั่วไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "เทคโนโลยีใดบ้างที่ถูกระบุว่าเป็นเทคโนโลยีขับเคลื่อนหลัก?",
+    "info": "เทคโนโลยีขับเคลื่อนหลัก ได้แก่ Cloud Computing, AI & Big Data, IoT & 5G, Blockchain & FinTech",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Cloud, AI, IoT, Blockchain",
+        "correct": true
+      },
+      {
+        "text": "CRM, ERP, SCM, HRM",
+        "correct": false
+      },
+      {
+        "text": "HTML, CSS, JavaScript, Python",
+        "correct": false
+      },
+      {
+        "text": "Windows, macOS, Linux, Android",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กฎของมัวร์ (Moore's Law) กล่าวถึงอะไร?",
+    "info": "กฎของมัวร์กล่าวถึงการเพิ่มขึ้นของจำนวนทรานซิสเตอร์ใน CPU เป็นสองเท่าทุก 18 เดือน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "จำนวนทรานซิสเตอร์เพิ่มขึ้นสองเท่าทุก 18 เดือน",
+        "correct": true
+      },
+      {
+        "text": "ราคาคอมพิวเตอร์ลดลงครึ่งหนึ่งทุกปี",
+        "correct": false
+      },
+      {
+        "text": "ความเร็วอินเทอร์เน็ตเพิ่มขึ้นสองเท่าทุกปี",
+        "correct": false
+      },
+      {
+        "text": "ขนาดฮาร์ดดิสก์ใหญ่ขึ้นสองเท่าทุก 6 เดือน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Edge Computing คืออะไร?",
+    "info": "Edge Computing คือการประมวลผลที่ตัวอุปกรณ์ เพื่อลดความหน่วง (Latency)",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การประมวลผลที่ตัวอุปกรณ์",
+        "correct": true
+      },
+      {
+        "text": "การประมวลผลบนคลาวด์",
+        "correct": false
+      },
+      {
+        "text": "การประมวลผลแบบควอนตัม",
+        "correct": false
+      },
+      {
+        "text": "การประมวลผลแบบกระจายศูนย์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Ubiquitous Computing คือแนวคิดใด?",
+    "info": "Ubiquitous Computing คือแนวคิดที่คอมพิวเตอร์และการประมวลผลอยู่รอบตัวเรา ทุกสิ่งเชื่อมต่อกัน",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "คอมพิวเตอร์อยู่รอบตัวเรา",
+        "correct": true
+      },
+      {
+        "text": "คอมพิวเตอร์ขนาดใหญ่",
+        "correct": false
+      },
+      {
+        "text": "คอมพิวเตอร์แบบตั้งโต๊ะ",
+        "correct": false
+      },
+      {
+        "text": "คอมพิวเตอร์แบบเมนเฟรม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "IoT ย่อมาจากอะไร?",
+    "info": "IoT ย่อมาจาก Internet of Things คือการเชื่อมต่ออุปกรณ์ต่างๆ เข้ากับอินเทอร์เน็ต",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "Internet of Things",
+        "correct": true
+      },
+      {
+        "text": "Internet of Technology",
+        "correct": false
+      },
+      {
+        "text": "Integration of Things",
+        "correct": false
+      },
+      {
+        "text": "Intranet of Things",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Social Commerce คืออะไร?",
+    "info": "Social Commerce คือการขายของผ่านโซเชียลมีเดียโดยตรง เช่น Facebook, Instagram, TikTok",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "การขายของผ่านโซเชียลมีเดีย",
+        "correct": true
+      },
+      {
+        "text": "การขายของผ่านเว็บไซต์",
+        "correct": false
+      },
+      {
+        "text": "การขายของผ่านอีเมล",
+        "correct": false
+      },
+      {
+        "text": "การขายของผ่านแอปพลิเคชันธนาคาร",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Cloud Computing เปรียบเสมือนอะไรของธุรกิจยุคใหม่?",
+    "info": "Cloud Computing เป็นเหมือน 'กระดูกสันหลัง' ของธุรกิจยุคใหม่",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "กระดูกสันหลัง",
+        "correct": true
+      },
+      {
+        "text": "สมอง",
+        "correct": false
+      },
+      {
+        "text": "หัวใจ",
+        "correct": false
+      },
+      {
+        "text": "ปอด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Big Data Analytics มีเป้าหมายเพื่ออะไร?",
+    "info": "Big Data Analytics มีเป้าหมายเพื่อใช้ในการตัดสินใจเชิงกลยุทธ์ที่แม่นยำและขับเคลื่อนด้วยข้อมูล (Data-Driven Decisions)",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "ตัดสินใจเชิงกลยุทธ์ที่แม่นยำ",
+        "correct": true
+      },
+      {
+        "text": "เก็บข้อมูลไว้เฉยๆ",
+        "correct": false
+      },
+      {
+        "text": "ลบข้อมูลทิ้ง",
+        "correct": false
+      },
+      {
+        "text": "ขายข้อมูล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "AI และ Machine Learning ถูกนำมาประยุกต์ใช้ในด้านใด?",
+    "info": "AI และ Machine Learning ใช้ในการวิเคราะห์ข้อมูลลูกค้า คาดการณ์แนวโน้ม Chatbot และตรวจจับทุจริต",
+    "difficulty": "easy",
+    "answers": [
+      {
+        "text": "วิเคราะห์ข้อมูลและ Chatbot",
+        "correct": true
+      },
+      {
+        "text": "พิมพ์เอกสาร",
+        "correct": false
+      },
+      {
+        "text": "ส่งไปรษณีย์",
+        "correct": false
+      },
+      {
+        "text": "ขับรถส่งของ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "RPA ย่อมาจากอะไร และใช้ทำอะไร?",
+    "info": "RPA ย่อมาจาก Robotic Process Automation ใช้ซอฟต์แวร์หุ่นยนต์ทำงานซ้ำๆ แทนมนุษย์ เช่น การป้อนข้อมูล",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Robotic Process Automation ทำงานซ้ำๆ แทนมนุษย์",
+        "correct": true
+      },
+      {
+        "text": "Random Process Automation ทำงานสุ่ม",
+        "correct": false
+      },
+      {
+        "text": "Rapid Processing Automation ทำงานเร็ว",
+        "correct": false
+      },
+      {
+        "text": "Real Process Automation ทำงานจริง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Blockchain มีจุดเด่นในข้อใด?",
+    "info": "Blockchain มีจุดเด่นคือ โปร่งใส ปลอดภัย ตรวจสอบได้ และไม่สามารถแก้ไขข้อมูลย้อนหลังได้",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "โปร่งใส ปลอดภัย ตรวจสอบได้ แก้ไขไม่ได้",
+        "correct": true
+      },
+      {
+        "text": "รวดเร็ว ถูกต้อง แม่นยำ",
+        "correct": false
+      },
+      {
+        "text": "ซับซ้อน ยากต่อการเข้าใจ",
+        "correct": false
+      },
+      {
+        "text": "รวมศูนย์ ควบคุมง่าย",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "CBDC คืออะไร?",
+    "info": "CBDC คือ Central Bank Digital Currency สกุลเงินดิจิทัลที่ออกโดยธนาคารกลาง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สกุลเงินดิจิทัลที่ออกโดยธนาคารกลาง",
+        "correct": true
+      },
+      {
+        "text": "สกุลเงินดิจิทัลที่เอกชนออก",
+        "correct": false
+      },
+      {
+        "text": "สกุลเงินต่างประเทศ",
+        "correct": false
+      },
+      {
+        "text": "สกุลเงินเสมือนในเกม",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Customer Experience (CX) มีความสำคัญอย่างไร?",
+    "info": "Customer Experience คือประสบการณ์ลูกค้า ซึ่งเป็นหัวใจสำคัญในการสร้างความประทับใจและความภักดี",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สร้างความประทับใจและความภักดี",
+        "correct": true
+      },
+      {
+        "text": "เพิ่มยอดขายระยะสั้น",
+        "correct": false
+      },
+      {
+        "text": "ลดต้นทุนการผลิต",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มจำนวนพนักงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Zero Trust Architecture คือแนวคิดใด?",
+    "info": "Zero Trust Architecture คือแนวคิด 'ไม่เชื่อใครเลย ตรวจสอบเสมอ' ในการรักษาความปลอดภัย",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ไม่เชื่อใครเลย ตรวจสอบเสมอ",
+        "correct": true
+      },
+      {
+        "text": "เชื่อทุกคนที่อยู่ในเครือข่าย",
+        "correct": false
+      },
+      {
+        "text": "ปิดกั้นการเข้าถึงทั้งหมด",
+        "correct": false
+      },
+      {
+        "text": "อนุญาตทุกการเข้าถึง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "MFA ย่อมาจากอะไร?",
+    "info": "MFA ย่อมาจาก Multi-Factor Authentication คือการยืนยันตัวตนหลายชั้น",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Multi-Factor Authentication",
+        "correct": true
+      },
+      {
+        "text": "Multi-Form Authentication",
+        "correct": false
+      },
+      {
+        "text": "Multi-File Authentication",
+        "correct": false
+      },
+      {
+        "text": "Multi-Frame Authentication",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "GDPR คือกฎหมายของภูมิภาคใด?",
+    "info": "GDPR คือกฎระเบียบคุ้มครองข้อมูลส่วนบุคคลของประชาชนในสหภาพยุโรป (EU)",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สหภาพยุโรป",
+        "correct": true
+      },
+      {
+        "text": "สหรัฐอเมริกา",
+        "correct": false
+      },
+      {
+        "text": "ประเทศไทย",
+        "correct": false
+      },
+      {
+        "text": "ประเทศจีน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "PDPA ของไทยมีผลบังคับใช้เต็มรูปแบบเมื่อใด?",
+    "info": "PDPA (พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562) มีผลบังคับใช้เต็มรูปแบบ 1 มิถุนายน 2565",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "1 มิถุนายน 2565",
+        "correct": true
+      },
+      {
+        "text": "1 มกราคม 2563",
+        "correct": false
+      },
+      {
+        "text": "25 พฤษภาคม 2561",
+        "correct": false
+      },
+      {
+        "text": "31 ธันวาคม 2565",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Quantum Computing เป็นเทคโนโลยีในสถานะใด?",
+    "info": "Quantum Computing เป็นเทคโนโลยีการประมวลผลขั้นสูงแห่งอนาคต ซึ่งยังอยู่ในช่วงวิจัยและพัฒนา",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "อยู่ในช่วงวิจัยและพัฒนา",
+        "correct": true
+      },
+      {
+        "text": "ใช้งานแพร่หลายแล้ว",
+        "correct": false
+      },
+      {
+        "text": "เลิกใช้งานแล้ว",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะทหารใช้",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Wearables คืออะไร?",
+    "info": "Wearables คืออุปกรณ์สวมใส่ เช่น Smart Watch, Fitness Tracker ที่เชื่อมต่อกับอินเทอร์เน็ต",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "อุปกรณ์สวมใส่",
+        "correct": true
+      },
+      {
+        "text": "อุปกรณ์ในบ้าน",
+        "correct": false
+      },
+      {
+        "text": "อุปกรณ์ในรถยนต์",
+        "correct": false
+      },
+      {
+        "text": "อุปกรณ์ในโรงงาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Personalization ในธุรกิจหมายถึงอะไร?",
+    "info": "Personalization คือการพัฒนาสินค้าและบริการที่ตอบโจทย์เฉพาะบุคคล โดยใช้ข้อมูลพฤติกรรมลูกค้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สินค้าเฉพาะบุคคล",
+        "correct": true
+      },
+      {
+        "text": "สินค้าจำนวนมาก",
+        "correct": false
+      },
+      {
+        "text": "สินค้าราคาถูก",
+        "correct": false
+      },
+      {
+        "text": "สินค้าฟรี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Scalability ใน Cloud Computing หมายถึงอะไร?",
+    "info": "Scalability คือความสามารถในการขยายบริการได้รวดเร็วตามความต้องการ",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ขยายบริการได้รวดเร็ว",
+        "correct": true
+      },
+      {
+        "text": "ลดบริการได้รวดเร็ว",
+        "correct": false
+      },
+      {
+        "text": "บริการคงที่",
+        "correct": false
+      },
+      {
+        "text": "บริการไม่มีเปลี่ยนแปลง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Data-Driven Decisions คืออะไร?",
+    "info": "Data-Driven Decisions คือการตัดสินใจที่ขับเคลื่อนด้วยข้อมูล ใช้ข้อมูลในการวิเคราะห์และวางแผน",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ตัดสินใจโดยใช้ข้อมูล",
+        "correct": true
+      },
+      {
+        "text": "ตัดสินใจโดยใช้สัญชาตญาณ",
+        "correct": false
+      },
+      {
+        "text": "ตัดสินใจโดยการสุ่ม",
+        "correct": false
+      },
+      {
+        "text": "ตัดสินใจโดยไม่ใช้ข้อมูล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Chatbot ในธุรกิจใช้ทำอะไร?",
+    "info": "Chatbot ใช้บริการลูกค้าและตอบคำถามอัตโนมัติตลอด 24 ชั่วโมง",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "บริการลูกค้าอัตโนมัติ",
+        "correct": true
+      },
+      {
+        "text": "ขายสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ผลิตสินค้า",
+        "correct": false
+      },
+      {
+        "text": "ขนส่งสินค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Fraud Detection ในระบบการเงินคืออะไร?",
+    "info": "Fraud Detection คือการตรวจจับทุจริตในระบบการเงินและการธนาคาร โดยใช้ AI",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "ตรวจจับทุจริต",
+        "correct": true
+      },
+      {
+        "text": "ป้องกันไวรัส",
+        "correct": false
+      },
+      {
+        "text": "สำรองข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "เร่งความเร็วระบบ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart Contract ทำงานบนเทคโนโลยีใด?",
+    "info": "Smart Contract หรือสัญญาอัจฉริยะ ทำงานบนเทคโนโลยี Blockchain",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Blockchain",
+        "correct": true
+      },
+      {
+        "text": "Cloud Computing",
+        "correct": false
+      },
+      {
+        "text": "IoT",
+        "correct": false
+      },
+      {
+        "text": "5G",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Influencer Marketing คืออะไร?",
+    "info": "Influencer Marketing คือการตลาดผ่านผู้มีอิทธิพลในโซเชียลมีเดีย",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "การตลาดผ่านผู้มีอิทธิพล",
+        "correct": true
+      },
+      {
+        "text": "การตลาดผ่านโทรทัศน์",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านวิทยุ",
+        "correct": false
+      },
+      {
+        "text": "การตลาดผ่านหนังสือพิมพ์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Targeted Ads คืออะไร?",
+    "info": "Targeted Ads คือการโฆษณาแบบเจาะจงกลุ่มเป้าหมาย โดยใช้ข้อมูลพฤติกรรมผู้บริโภค",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "โฆษณาเจาะจงกลุ่มเป้าหมาย",
+        "correct": true
+      },
+      {
+        "text": "โฆษณาทั่วไป",
+        "correct": false
+      },
+      {
+        "text": "โฆษณาผิดกฎหมาย",
+        "correct": false
+      },
+      {
+        "text": "โฆษณาแฝง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Cryptocurrency คืออะไร?",
+    "info": "Cryptocurrency คือสกุลเงินดิจิทัล เช่น Bitcoin, Ethereum",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "สกุลเงินดิจิทัล",
+        "correct": true
+      },
+      {
+        "text": "สกุลเงินกระดาษ",
+        "correct": false
+      },
+      {
+        "text": "เหรียญกษาปณ์",
+        "correct": false
+      },
+      {
+        "text": "ทองคำ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart Home คืออะไร?",
+    "info": "Smart Home คือบ้านอัจฉริยะที่มีอุปกรณ์เชื่อมต่อกันผ่าน IoT",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "บ้านอัจฉริยะ",
+        "correct": true
+      },
+      {
+        "text": "บ้านไม้",
+        "correct": false
+      },
+      {
+        "text": "บ้านเช่า",
+        "correct": false
+      },
+      {
+        "text": "บ้านจัดสรร",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "E-Business ยุคใหม่แตกต่างจากการซื้อขายออนไลน์ทั่วไปอย่างไร?",
+    "info": "E-Business ยุคใหม่เป็น Digital Platform แบบครบวงจร ไม่ใช่แค่การซื้อขายออนไลน์ แต่รวมถึงการตลาดและการบริการลูกค้า",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "เป็น Digital Platform ครบวงจร",
+        "correct": true
+      },
+      {
+        "text": "เน้นขายอย่างเดียว",
+        "correct": false
+      },
+      {
+        "text": "ไม่มีการบริการลูกค้า",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะ B2B",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "GDPR มีผลบังคับใช้ตั้งแต่วันที่เท่าใด?",
+    "info": "GDPR มีผลบังคับใช้ตั้งแต่วันที่ 25 พฤษภาคม 2018",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "25 พฤษภาคม 2018",
+        "correct": true
+      },
+      {
+        "text": "1 มิถุนายน 2018",
+        "correct": false
+      },
+      {
+        "text": "25 พฤษภาคม 2016",
+        "correct": false
+      },
+      {
+        "text": "1 มกราคม 2019",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "PDPA มีวัตถุประสงค์หลักสองประการคืออะไร?",
+    "info": "PDPA มีวัตถุประสงค์เพื่อคุ้มครองข้อมูลส่วนบุคคล และสร้างความมั่นใจในการใช้ข้อมูลอย่างถูกต้องปลอดภัย",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "คุ้มครองข้อมูล และสร้างความมั่นใจในการใช้ข้อมูล",
+        "correct": true
+      },
+      {
+        "text": "เก็บภาษี และควบคุมธุรกิจ",
+        "correct": false
+      },
+      {
+        "text": "ส่งออกข้อมูล และนำเข้าข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "ลบข้อมูล และทำลายข้อมูล",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "กฎของมัวร์ในอดีตกล่าวถึงการเพิ่มขึ้นของสิ่งใดทุก 18 เดือน?",
+    "info": "กฎของมัวร์กล่าวถึงจำนวนทรานซิสเตอร์ใน CPU เพิ่มขึ้นสองเท่าทุก 18 เดือน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "จำนวนทรานซิสเตอร์",
+        "correct": true
+      },
+      {
+        "text": "ความเร็วสัญญาณนาฬิกา",
+        "correct": false
+      },
+      {
+        "text": "ขนาดฮาร์ดดิสก์",
+        "correct": false
+      },
+      {
+        "text": "แบนด์วิดท์อินเทอร์เน็ต",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Edge Computing มีข้อดีอย่างไรเมื่อเทียบกับ Cloud Computing?",
+    "info": "Edge Computing ช่วยลดความหน่วง (Latency) เพราะประมวลผลที่ตัวอุปกรณ์ ไม่ต้องส่งข้อมูลไปไกล",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ลดความหน่วง",
+        "correct": true
+      },
+      {
+        "text": "ประหยัดพลังงาน",
+        "correct": false
+      },
+      {
+        "text": "เก็บข้อมูลได้มากกว่า",
+        "correct": false
+      },
+      {
+        "text": "ราคาถูกกว่า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Ubiquitous Computing พัฒนาไปสู่แนวคิดใด?",
+    "info": "Ubiquitous Computing พัฒนาสู่ Smart World ที่ทุกสิ่งเชื่อมต่อกันผ่าน IoT และ 5G",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Smart World",
+        "correct": true
+      },
+      {
+        "text": "Virtual World",
+        "correct": false
+      },
+      {
+        "text": "Digital World",
+        "correct": false
+      },
+      {
+        "text": "Cyber World",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Big Data Analytics แตกต่างจาก Data Analytics ทั่วไปอย่างไร?",
+    "info": "Big Data Analytics เน้นการวิเคราะห์ข้อมูลปริมาณมหาศาลที่มีความหลากหลายและความเร็วสูง",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "วิเคราะห์ข้อมูลปริมาณมหาศาล",
+        "correct": true
+      },
+      {
+        "text": "วิเคราะห์ข้อมูลปริมาณน้อย",
+        "correct": false
+      },
+      {
+        "text": "วิเคราะห์ข้อมูลเชิงลึก",
+        "correct": false
+      },
+      {
+        "text": "วิเคราะห์ข้อมูลเชิงพยากรณ์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Robotic Process Automation (RPA) เหมาะกับงานลักษณะใด?",
+    "info": "RPA เหมาะกับงานที่ทำซ้ำๆ มีกฎเกณฑ์แน่นอน เช่น การป้อนข้อมูล การทำรายงาน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "งานที่ทำซ้ำๆ มีกฎเกณฑ์แน่นอน",
+        "correct": true
+      },
+      {
+        "text": "งานที่ต้องใช้ความคิดสร้างสรรค์",
+        "correct": false
+      },
+      {
+        "text": "งานที่ต้องตัดสินใจซับซ้อน",
+        "correct": false
+      },
+      {
+        "text": "งานที่ต้องปฏิสัมพันธ์กับลูกค้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Blockchain จัดเก็บข้อมูลในลักษณะใด?",
+    "info": "Blockchain จัดเก็บข้อมูลแบบกระจายศูนย์ (Decentralized) ไม่มีจุดศูนย์กลาง",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "กระจายศูนย์",
+        "correct": true
+      },
+      {
+        "text": "รวมศูนย์",
+        "correct": false
+      },
+      {
+        "text": "ไฮบริด",
+        "correct": false
+      },
+      {
+        "text": "คลาวด์",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Cryptocurrency ที่เป็นที่รู้จักและถูกกล่าวถึงในเอกสารคืออะไร?",
+    "info": "เอกสารกล่าวถึง Bitcoin และ Ethereum เป็นตัวอย่างของ Cryptocurrency",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Bitcoin",
+        "correct": true
+      },
+      {
+        "text": "Dogecoin",
+        "correct": false
+      },
+      {
+        "text": "Ripple",
+        "correct": false
+      },
+      {
+        "text": "Litecoin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ธนาคารกลางของประเทศไทยกำลังพัฒนาสกุลเงินดิจิทัลในรูปแบบใด?",
+    "info": "ธนาคารกลางกำลังพัฒนา CBDC (Central Bank Digital Currency) หรือสกุลเงินดิจิทัลที่ออกโดยธนาคารกลาง",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "CBDC",
+        "correct": true
+      },
+      {
+        "text": "Cryptocurrency",
+        "correct": false
+      },
+      {
+        "text": "Stable Coin",
+        "correct": false
+      },
+      {
+        "text": "Token",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Influencer Marketing ใช้หลักการใดในการเข้าถึงลูกค้า?",
+    "info": "Influencer Marketing ใช้ผู้มีอิทธิพลทางความคิดเพื่อโน้มน้าวผู้ติดตามให้ซื้อสินค้า",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ใช้ผู้มีอิทธิพลโน้มน้าวผู้ติดตาม",
+        "correct": true
+      },
+      {
+        "text": "ใช้การโฆษณาผ่านทีวี",
+        "correct": false
+      },
+      {
+        "text": "ใช้การลดราคา",
+        "correct": false
+      },
+      {
+        "text": "ใช้การแจกสินค้าฟรี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Zero Trust Architecture แตกต่างจากโมเดลรักษาความปลอดภัยแบบเดิมอย่างไร?",
+    "info": "Zero Trust ไม่เชื่อถือการเข้าถึงจากภายในหรือภายนอกโดยปริยาย ต้องตรวจสอบทุกครั้ง ต่างจากโมเดลเดิมที่เชื่อถือภายใน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ไม่เชื่อถือการเข้าถึงใดๆ โดยปริยาย",
+        "correct": true
+      },
+      {
+        "text": "เชื่อถือการเข้าถึงจากภายใน",
+        "correct": false
+      },
+      {
+        "text": "เชื่อถือการเข้าถึงจากภายนอก",
+        "correct": false
+      },
+      {
+        "text": "ไม่มีการตรวจสอบ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Multi-Factor Authentication (MFA) มีตัวอย่างการใช้งานอย่างไร?",
+    "info": "MFA ใช้การยืนยันตัวตนหลายชั้น เช่น รหัสผ่าน + รหัส OTP + ลายนิ้วมือ",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "รหัสผ่าน + OTP + ลายนิ้วมือ",
+        "correct": true
+      },
+      {
+        "text": "เฉพาะรหัสผ่าน",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะ OTP",
+        "correct": false
+      },
+      {
+        "text": "เฉพาะลายนิ้วมือ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "GDPR มีเป้าหมายให้ผู้ใช้งานสามารถควบคุมอะไรได้มากขึ้น?",
+    "info": "GDPR ให้ผู้ใช้งานควบคุมข้อมูลส่วนตัวของตนเองได้มากขึ้น",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ควบคุมข้อมูลส่วนตัว",
+        "correct": true
+      },
+      {
+        "text": "ควบคุมการเงิน",
+        "correct": false
+      },
+      {
+        "text": "ควบคุมสุขภาพ",
+        "correct": false
+      },
+      {
+        "text": "ควบคุมการศึกษา",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "PDPA ของไทยมีผลบังคับใช้เต็มรูปแบบเมื่อวันที่เท่าใด? (ถามย้ำเพื่อความแม่นยำ)",
+    "info": "PDPA มีผลบังคับใช้เต็มรูปแบบ 1 มิถุนายน 2565",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "1 มิถุนายน 2565",
+        "correct": true
+      },
+      {
+        "text": "1 มิถุนายน 2563",
+        "correct": false
+      },
+      {
+        "text": "1 มกราคม 2565",
+        "correct": false
+      },
+      {
+        "text": "31 พฤษภาคม 2565",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "ข้อใดคือความท้าทายของการนำ Quantum Computing มาใช้ในปัจจุบัน?",
+    "info": "Quantum Computing ยังอยู่ในช่วงวิจัยและพัฒนา ยังไม่สามารถนำมาใช้งานเชิงพาณิชย์ได้อย่างแพร่หลาย",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ยังอยู่ในช่วงวิจัยและพัฒนา",
+        "correct": true
+      },
+      {
+        "text": "มีราคาถูกเกินไป",
+        "correct": false
+      },
+      {
+        "text": "ใช้งานง่ายเกินไป",
+        "correct": false
+      },
+      {
+        "text": "มีผู้ใช้มากเกินไป",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Smart World ต้องอาศัยเทคโนโลยีใดเป็นพื้นฐานสำคัญ?",
+    "info": "Smart World อาศัย IoT และ 5G ในการเชื่อมต่อทุกสิ่งเข้าด้วยกัน",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "IoT และ 5G",
+        "correct": true
+      },
+      {
+        "text": "AI และ Blockchain",
+        "correct": false
+      },
+      {
+        "text": "Cloud และ Big Data",
+        "correct": false
+      },
+      {
+        "text": "RPA และ Chatbot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Social Commerce มักใช้แพลตฟอร์มใดในการขาย?",
+    "info": "Social Commerce ใช้แพลตฟอร์มโซเชียลมีเดีย เช่น Facebook, Instagram, TikTok, LINE",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "Facebook, Instagram, TikTok, LINE",
+        "correct": true
+      },
+      {
+        "text": "Amazon, eBay, Alibaba",
+        "correct": false
+      },
+      {
+        "text": "Shopee, Lazada, JD Central",
+        "correct": false
+      },
+      {
+        "text": "Google, Yahoo, Bing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Scalability ใน Cloud Computing มีประโยชน์ต่อธุรกิจอย่างไร?",
+    "info": "Scalability ช่วยให้ธุรกิจขยายบริการได้ทันทีเมื่อมีความต้องการเพิ่ม โดยไม่ต้องลงทุนโครงสร้างพื้นฐานล่วงหน้า",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ขยายบริการได้ทันทีตามความต้องการ",
+        "correct": true
+      },
+      {
+        "text": "ลดขนาดบริการไม่ได้",
+        "correct": false
+      },
+      {
+        "text": "บริการคงที่ตลอด",
+        "correct": false
+      },
+      {
+        "text": "ต้องลงทุนล่วงหน้า",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "text": "Data-Driven Decisions ช่วยให้ธุรกิจได้เปรียบในการแข่งขันอย่างไร?",
+    "info": "Data-Driven Decisions ช่วยให้ตัดสินใจได้แม่นยำ ตรงตามความต้องการตลาด ลดความเสี่ยง",
+    "difficulty": "hard",
+    "answers": [
+      {
+        "text": "ตัดสินใจแม่นยำ ลดความเสี่ยง",
+        "correct": true
+      },
+      {
+        "text": "ตัดสินใจช้าลง",
+        "correct": false
+      },
+      {
+        "text": "ตัดสินใจโดยใช้อารมณ์",
+        "correct": false
+      },
+      {
+        "text": "ตัดสินใจตามคู่แข่ง",
+        "correct": false
+      }
+    ]
+  }
+]
